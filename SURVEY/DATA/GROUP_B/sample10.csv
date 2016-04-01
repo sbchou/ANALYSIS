@@ -1,59 +1,117 @@
-,Unnamed: 0,Unnamed: 0.1,title,url,candidate,org,top_topic,flesch,gunning_fog,body,gunning_fog_new,flesch_new,readability,flesch_diff,pretty_org
-26,26,1357,Ben & Jerry Serve Ice Cream to Voters at N.H. Sanders Rally,http://blogs.wsj.com/washwire/2016/02/05/ben-jerry-serve-ice-cream-to-voters-at-n-h-sanders-rally/,sanders,wsj,Campaign Finance,11.1,10.0,"EXETER, N.H. — Hardy New Hampshire voters who braved a snowstorm to hear Democratic presidential candidate Sen. Bernie Sanders denounce Wall Street and call for an overhaul of the campaign finance system on Friday were treated to a frosty dessert afterward.
-Ben Cohen and Jerry Greenfield, founders of Ben & Jerry’s Ice Cream, served ice cream to several people bundled up against the weather.
+,Unnamed: 0,Unnamed: 0.1,title,url,candidate,org,top_topic,flesch,gunning_fog,body,gunning_fog_new,flesch_new,readability,flesch_diff,pretty_org,pretty_name
+48,48,1816,First Draft: Ted Cruz Outlines Plan to Strengthen Military,http://www.nytimes.com/politics/first-draft/2016/02/16/ted-cruz-outlines-plan-to-strengthen-military/,cruz,nyt,Foreign Policy/National Security,9.1,9.2,"MOUNT PLEASANT, S.C. — Senator Ted Cruz of Texas outlined his plans to strengthen the military in an address aboard the U.S.S. Yorktown on Tuesday, advocating what he called a “more tooth, less tail” approach.
 
-Earlier, the Vermont ice cream men introduced their home state senator at his rally here, explaining to the crowd why he is their favorite flavor of presidential hopeful.
-“He’s the only presidential candidate I’ve ever created an ice cream flavor for,” said Mr. Cohen, who launched Bernie’s Yearning (mint ice cream topped with solid chocolate) in January.  “The man has even made Hillary Clinton want to be a progressive.”
-Mr. Sanders returned the praise, lauding their business practices and environmental advocacy.
-Messrs. Cohen and Greenfield, who are known for the left-wing activism as well as their ice cream, each donated $1,400 to his presidential campaign last year and $1,000 to his senate campaign in 2011. according to Federal Election Commission reports.",8.8,11.1,45.76,0.0,The Wall Street Journal
-34,34,1952,Ted Cruz: 2016 Is a ‘Referendum’ on the Supreme Court,http://blogs.wsj.com/washwire/2016/02/15/ted-cruz-2016-is-a-referendum-on-the-supreme-court/,cruz,wsj,Abortion,6.0,7.2,"AIKEN, S.C.In the wake of the death of Justice Antonin Scalia, Sen. Ted Cruz of Texas is stepping up his campaign-trail focus on what impact the 2016 election could have on the Supreme Court.
-He warned the addition of a liberal justice to the bench threatens to turn federal judicial policy sharply to the left on issues ranging from gun rights to abortion.
-I intend to make 2016 a referendum on the Supreme Court, Mr. Cruz said in a rally at Aiken, S.C., his first campaign event since Mr. Scalias death Saturday. Adding to the litany of actions he would take on his first day as president, Mr. Cruz said, I will have no more solemn responsibility than to name a replacement for Antonin Scalia on the Supreme Court.
-Providing a glimpse of how the impending court battle may be reshaping the focus of the 2016 primary fight, Mr. Cruz also used the issue to give conservatives a new reason to vote against his rival, GOP frontrunner Donald J. Trump.
-Donald Trump, if he were president, would appoint liberals to the court, Mr. Cruz said to reporters before the rally. Donald has been liberal his entire adult life, he said, citing Mr. Trump’s support for abortion rights, among other issues.
-Mr. Trump pushed back Monday, releasing a statement calling Mr. Cruz’s comments “totally untrue and completely outrageous.”
-“I will appoint a great conservative and I am the only candidate who has gone so far, at the debate, as to suggest two individuals I feel would best represent the conservative values we need to protect: William ‘Bill’ Pryor Jr. and Diane Sykes,” Mr. Trump said.
-He called himself “staunchly pro-life” and “one of the strongest proponents of the right to bear arms.”
-Some of Mr. Cruzs supporters in the audience said they shared his concern about the future of the court, and were also unsure what kind of justices Mr. Trump would choose if he were president.
-I dont know what he is going to do. Hes all over the place, said David Howell, 60, a retired software engineer from Lexington, S.C. Im wondering if he is some kind of Manchurian candidate.",7.2,6.0,75.2,0.0,The Wall Street Journal
-47,47,1704,Cruz changes tune on rounding up undocumented immigrants,http://www.cnn.com/2016/02/23/politics/ted-cruz-illegal-immigrants-bill-oreilly/index.html,cruz,cnn,Immigration,9.1,9.2," (XXX) Ted Cruz moved to a more aggressive deportation policy in an interview on Monday night, saying he would look for and deport undocumentedl immigrants using Immigration and Customs Enforcement (ICE) agents, marking a change from a January interview with XXX.
-Appearing on ""The O'Reilly Factor"" on XXX News, Cruz was repeatedly pressed on the specifics of his deportation plans by host Bill O'Reilly, who asked Cruz, ""Would you go look for them, though? As (Donald) Trump would look for them to get them out, would you do that if you were president?""
-""Bill, of course you would, that's what ICE exists for,"" Cruz said. ""We have law enforcement that looks for people who are violating the laws, that apprehends them and deports them.""
-O'Reilly offered a hypothetical example of an immigrant from Ireland with ""a couple of kids and he's settled into Long Island.""
-""And you, President Cruz, are going to send the feds to his house, take him out, and put him on a plane back to Ireland?"" O'Reilly asked.
-""You better believe it,"" Cruz said.
-Cruz's comments to O'Reilly stand in stark contrast from his previous rhetoric on the issue. 
-In a January interview with XXX's Jake Tapper, Cruz had said he would not deploy a ""deportation force,"" as Trump as suggested he would do as president.
-""I don't intend to send jackboots to knock on your door and every door in America. That's not how we enforce the law for any crime,"" Cruz told Tapper. ""We don't live in a police state. We do have law enforcement."" 
-Chad Sweet, chairman of Cruz's presidential campaign, had also said after XXX's Republican presidential debate in December that the Cruz campaign supported ""attrition through enforcement.""
-Cruz, winner of the GOP Iowa caucuses, is at a critical point in his campaign, following two significant losses to Trump in New Hampshire and South Carolina. He also fired his communications director on Monday for circulating a misleading video about rival Marco Rubio.
-His next test is Tuesday, when Nevada Republicans head to their caucuses.
-",9.6,9.5,60.65,0.4,CNN
-75,75,1142,First Draft: Hillary Clinton Leads in Fund-Raising From Lobbyists,http://www.nytimes.com/politics/first-draft/2016/02/01/hillary-clinton-leads-in-fund-raising-from-lobbyists/,clinton,nyt,Campaign Finance,10.3,9.2,"Registered lobbyists raised more money for the Democrat Hillary Clinton than for any other presidential candidate of either party during the three months ending in December, according to reports filed with the Federal Election Commission.
+In his speech on the World War II-era aircraft carrier, Mr. Cruz called for increasing the number of active duty forces to at least 1.4 million from 1.3 million, as well as improving the nation’s Air Force capabilities — to at least 6,000 planes, with a minimum of 1,500 tactical fighter aircraft, an increase from roughly 4,000 aircraft.
 
-All told, Mrs. Clinton has taken $2 million so far from donors rounded up by lobbyists, most based in Washington. Lobbyists raised another $236,000 for a joint fund-raising committee Mrs. Clinton set up with the Democratic National Committee, according to the filings.
+“Anything less creates a continuing training and readiness gap that risks the lives of the men and women who volunteer to serve this great nation,” he said. “At a time when our air superiority should be one of America’s great advantages, our ability to project power and obtain air superiority is tragically anemic.”
 
-Senator Marco Rubio of Florida was second over all and the leading Republican recipient of lobbyist-raised money during the fourth quarter of 2015, with $676,000 coming in from bundlers who are registered lobbyists. They have raised more than a million dollars for his campaign, the most of any Republican candidate. 
+Mr. Cruz’s last-minute policy speech (the campaign announced it on Monday night) highlights how, days before Saturday’s Republican primary in South Carolina, he is trying to emphasize his national security credentials in a state in which veterans and members of the military make up large segments of the population. He is also pushing back against attacks by rivals who have cast him as weak on foreign policy and national defense.
 
-Jeb Bush, the former Florida governor, came in third, with less than $200,000 for the quarter and $409,000 for the election cycle.
+Senator Marco Rubio of Florida has repeatedly attacked Mr. Cruz for refusing to vote for the National Defense Authorization Act, which funds the military. And the Texas senator has also come under scrutiny for his decision to support the USA Freedom Act, compromise legislation that limited the National Security Agency’s ability to collect bulk metadata from phone records.
 
-The disclosures are required only for registered lobbyists, not for fund-raisers who happen to work at lobbying firms but are not themselves registered.
+Mr. Cruz has said he voted against the defense authorization bills because they all contained language that would have allowed President Obama to indefinitely detain United States citizens without due process.
 
-No other candidate reported any money raised by lobbyists.",9.2,10.3,53.21,0.0,The New York Times
-93,93,270,First Draft: My Firsthand Encounter With Donald Trump’s Free Media Machine,http://www.nytimes.com/politics/first-draft/2016/02/24/my-firsthand-encounter-with-donald-trumps-free-media-machine/,trump,nyt,Campaign Finance,5.2,7.6,"The other day, a host on XXX asked me if Donald J. Trump had a good enough campaign operation to win in Nevada. One thing Mr. Trump had going for him, I pointed out, was that he was very good at getting the news media to give him free airtime. 
+Though Mr. Cruz’s positions on national security — he is less hawkish than Mr. Rubio — helped him win over some supporters of Senator Rand Paul of Kentucky — who dropped out of the presidential race — in New Hampshire, voters in South Carolina have typically gravitated toward candidates eager for a strong commander in chief.
 
-“Every time he opens his mouth, he’s on national TV, telling jokes and giving his message — so he’s saved himself tens of millions of dollars doing that,” I said. Almost as soon as I finished making my point, the network demonstrated it by cutting to a Trump rally in Atlanta.
+In his address, Mr. Cruz criticized both Mr. Obama and Hillary Clinton, a secretary of state in the Obama administration, and seemed to try to strike a balance between promising to be tough on national defense by increasing the size of the nation’s fighting force, while also promising not to be to quick to intervene in conflicts around the globe. And he promised smarter spending on defense.
 
-Such is the unusual world of Mr. Trump’s political finances. As a reporter who covers campaign finance, I spend my days trying to figure out where the money is. But Mr. Trump presents a different sort of challenge: Not so much where the money is, but where the money isn’t. 
+Mr. Cruz also weighed in on other issues — what to do with Syrian refuges, immigration and women in combat.
 
-The only person who has spent less money running for president than Mr. Trump — and who hasn’t yet stopped running for president — is John Kasich. This is partly because Mr. Trump was famous in his own right before he plunged into the 2016 race. It is also partly because many of Mr. Trump’s campaign expenses, such as rides on his own private jets and helicopters, or borrowing aides from his real estate empire, get paid out to his own companies. 
+“We are not going to admit refugees into the United States who may have been infiltrated by ISIS terrorists,” he said, to applause. “We are not going to grant American citizenship to individuals who are here illegally.”
 
-But even beyond that, it is because Mr. Trump doesn’t spend much on television ads, usually the single most expensive budget item for a modern presidential campaign. Instead, Mr. Trump garners what political hacks call “earned media.” He holds big rallies, says provocative things that his audience adores — “I’d like to punch him in the face,” Mr. Trump said of a heckler at his event in Nevada on Monday — and reaps of a wave of news coverage in newspapers and on television. This dynamic has earned the scorn of Trump-haters on the right and left, who have taken to blaming the news media for enabling Mr. Trump’s rise. 
+And, he added, “As the father of two daughters, I can tell you we are not going to draft American women into military combat.”
 
-Mr. Trump is undeniably a showman. Unlike virtually all of his competitors, who repeat the same stump speech in the hopes of getting a poll-tested message across, Mr. Trump always surprises. And when he does get on camera, Mr. Trump often filibusters, as when a planned introduction of Sarah Palin, who endorsed him on national television last month, stretched into a lengthy monologue. (Ms. Palin, no slouch in the earned-media department, then proceeded to “trump” Mr. Trump, with a 20-minute riff on “squirmishes” and “proud clingers.”)
+Mr. Cruz did not specifically explain how he would pay for his military expansion, but pointed to his spending plan, which he said would reduce the federal budget by $500 billion over 10 years, and also talked about reducing “waste, fraud and abuse” at the Pentagon.
 
-Just how effective is it? Mr. Trump won the Nevada caucuses on Tuesday. Now, according to a tally published this week by NBC News, three of his Republican rivals — Mr. Kasich, Marco Rubio and Ted Cruz — are spending a combined $1.5 million on television ads in the 11 states holding primaries or caucuses on March 1, known as Super Tuesday. 
+“First, and foremost, we are not going to expand the bloated bureaucracy that is stifling progress and innovation at the Pentagon,” Mr. Cruz said.
 
-Mr. Trump’s bill?
+Directly addressing his critics, Mr. Cruz said, “If you think it’s too expensive to defend this nation, try not defending it.”
 
-Zero.",7.6,5.2,82.65,0.0,The New York Times
+He concluded by talking about the illustrious history of the U.S.S. Yorktown, and conjuring an image of a stronger America.
+
+“Starting next year, our sailors won’t be on their knees with their hands on their heads,” Mr. Cruz said, referring to the 10 Navy sailors briefly detained by Iran last month after drifting into Iranian waters. “And our secretary of state will not be apologizing and thanking their Iranian captors.”
+
+“Instead,” Mr. Cruz continued, “they will be standing on the decks of the mightiest ships the world has ever known with their heads held high, confident that the great country that they volunteered to serve has their back.”
+
+Speaking to reporters after the event, Mr. Cruz couldn’t help but take aim at Donald J. Trump, his chief rival, who has threatened to sue him over his eligibility to run for president, because he was born in Canada.
+
+“It seems that Donald is very rattled right now,” Mr. Cruz said. “He gets very upset and when he gets upset, he engages in insults.”",9.2,9.1,61.67,0.0,The New York Times,Ted Cruz
+50,50,1832,First on XXX: Texas Gov. Greg Abbott to endorse Cruz for president,http://www.cnn.com/2016/02/24/politics/ted-cruz-greg-abbott-texas-endorsement/index.html,cruz,cnn,Campaign Finance,10.3,10.4,"(XXX) Texas Gov. Greg Abbott will endorse Wednesday one of his political disciples, Ted Cruz, giving the Lone State senator  his highest-ranking political endorsement thus far in the presidential race.
+Abbott will formally back Cruz at an event Wednesday at 1 p.m. in Houston, campaign officials said, just six days before what is expected to be a competitive race with Donald Trump in Texas. Although not unexpected, the nod from Abbott is the clearest sign yet that the Texas Republican establishment is backing their freshman senator in his presidential ambitions.
+""After 8 years of relentless attacks on our values from this White House, it's our duty as Texas conservatives to support a leader we can trust to restore our values and move this country forward,"" Abbott said in a video message out Wednesday. ""That's why I'm supporting Ted Cruz for president."" 
+Abbott will also quickly become the most senior political leader to back Cruz's bid. No other governor has endorsed him, nor has any senator -- including the state's senior senator, John Cornyn.
+A year ago, who Abbott would endorse in the Republican race -- if he would at all -- was one of the hottest questions in Texas politics. But as the field winnowed and the other candidates with ties to Texas -- former Gov. Rick Perry, former Florida Gov. Jeb Bush, Kentucky Sen. Rand Paul and ex-Hewlett-Packard CEO Carly Fiorina -- dropped out, it became increasingly clear that Abbott would choose Cruz, the state's rising political star.
+Abbott and Cruz share a hardline position on the governor's top national priority: strengthening the nation's border and rooting out illegal immigration. But their connection is also personal: When Abbott was the state attorney general under Perry, Cruz was Abbott's solicitor general, arguing cases on behalf of the state before the U.S. Supreme Court.
+Cruz has repeatedly spoken glowingly of Abbott on the campaign trail, frequently recalling the charge that Abbott gave him -- to find constitutional fights where the Texas Attorney General could get involved, and to wage them.
+Abbott, along with dozens of state legislators and Texas Lt. Gov. Dan Patrick, is expected to be a top surrogate for Cruz in the closing days of the Texas primary. Struggling to convince observers that he can do as well in the southern states on March 1 as he once hoped to, Cruz's team is raising the stakes for his performance back home, pointing to delegate-rich Texas as a place that can put him back on even footing in the delegate race with his rivals.
+But the state is not seen as a lock: Trump has spoken of beating Cruz in Texas, and the super PAC backing Marco Rubio has invested $1.5 million in this state this week to try and embarrass Cruz by weakening him back at home.",10.4,10.3,58.62,0.0,CNN,Ted Cruz
+52,52,1716,Cruz failed to disclose Goldman loan during Senate run,http://feeds.foxnews.com/~r/foxnews/most-popular/~3/WsD1UYfsiQY/cruz-failed-to-disclose-goldman-loan-during-senate-run.html,cruz,fox,Campaign Finance,10.7,9.6,"Republican presidential candidate Ted Cruz failed to disclose on federal fundraising reports that he relied on $1 million in loans to help finance his 2012 Senate campaign.
+The borrowed money included a sum from Goldman Sachs, where his wife, Heidi Cruz, is an employee.
+The Texas senator's 2016 campaign spokeswoman Catherine Frazier called the failure to report those loans on fundraising documents, as required, a ""mistake."" She said Wednesday that the campaign is seeking guidance from federal regulators on how to update the old reports.
+Cruz learned he should have disclosed the loans as part of his fundraising from a XXX reporter, who published a story on the matter late Wednesday. The Times described the loans as totaling as much as $1 million from Goldman and Citibank and said they were paid down in late 2012. Frazier did not dispute those details.
+Frazier said Cruz has made no secret of the loans, pointing to their disclosure later in separate personal financial reports required of all federal elected officials.
+Yet Cruz has never mentioned the loans on the 2016 campaign trail. Instead, he has said that he and his wife liquidated ""our entire net worth"" to finance his underdog Senate bid.",9.6,10.7,52.19,0.0,Fox News,Ted Cruz
+77,77,1244,Political fallout for Clinton after North Korea's nuke test,http://www.cnn.com/2016/01/06/politics/north-korea-nuclear-test-clinton-trump/index.html,clinton,cnn,Foreign Policy/National Security,11.1,10.0,"Washington (XXX) North Korea might not be able to reach the U.S. mainland with a nuclear weapon yet, but the political fallout from its claimed hydrogen bomb test is here already.
+Even before the shockwaves of the 5.1 temblor triggered by Tuesday's test wore off, Hillary Clinton was fighting off a volley of Republican attacks, GOP presidential candidates were talking tough and Donald Trump jumped on a chance to chastise China.
+The episode was a fresh indication of the challenge that Clinton faces in running for the White House on her record as secretary of state, which makes it impossible for her to escape deficiencies in President Barack Obama's national security legacy.
+""If this test is confirmed, it will be just the latest example of the failed Obama-Clinton foreign policy,"" crowed Florida Sen. Marco Rubio, who is styling himself as a foreign policy expert. He argued that U.S. enemies were ""taking advantage of Obama's weakness.""
+Former business executive Carly Fiorina, another outspoken GOP hawk, also slammed Clinton, arguing that the volatile Stalinist state had been spurred to up the nuclear ante by Obama administration concessions granted to Iran in return for a freezing of its nuclear program.
+""Of course, North Korea would conduct a nuclear test after watching Iran willfully violate an agreement they just made without consequence of any kind from this administration,"" Fiorina said in a statement. ""North Korea is yet another Hillary Clinton foreign policy failure.""
+
+There's no question that as the administration in possession of the North Korea nuclear problem, the Obama White House -- and by extension Clinton -- are in a political bind.
+Their failure to turn back North Korea's development of its nuclear arsenal is manifest in its flurry of nuclear tests and ballistic missile engineering over the last seven years. But there is no obvious way to deter a nation that does not respond to the traditional carrots and sticks of diplomacy.
+""What we've also seen on the part of North Koreans is an apparent willingness to accept international isolation,"" White House spokesman Josh Earnest said Wednesday, pointing out that North Korea already had a nuclear bomb when Obama took office.
+Clinton's campaign is working to absolve her of blame for past failures and to turn her vulnerability into a strength. So the former secretary of state offered the most detailed plan of any of the candidates on how to respond.
+Addressing multiple audiences, as a commander-in-chief must, Clinton accused North Korea of playing nuclear blackmail and ""bullying,"" offered reassurance to U.S. allies and then turned on her Republican foes, questioning their capacity to handle the situation.
+The former top U.S. diplomat also defended her own work on North Korea, saying she had been responsible for getting Russia and China on board for the ""strongest sanctions yet"" against Pyongyang while she was at the State Department.
+And she fired a warning at her Republican adversaries, particularly seeming to target the brazen Trump and youthful Rubio.
+""Threats like this are yet another reminder of what's at stake in this election. We cannot afford reckless, imprudent publicity stunts that risk war. We need a commander-in-chief with the experience and judgement to deal with a dangerous North Korea on Day One.""
+
+Republican front-runner Trump also tried to turn the North Korea explosion to his own political advantage, further increasing the heat on China after his accusations of fleecing the United States on economic issues.
+""China has total control, believe me, they say they don't. They have total control over North Korea and China should solve that problem,"" Trump said on XXX News.
+He continued, ""If they don't solve the problem, we should make trade very difficult for China because we are, believe it, we are holding China up. They're taking so much money. They're draining our country, and they're toying with us with North Korea.""
+But while China might be the key player in North Korea, the Obama and George W. Bush administrations repeatedly pressed Beijing to rein in its de-facto ally but did not shift the underlying dynamics of the standoff.
+ 
+In recent years there have been signs of increasing impatience from Beijing toward Pyongyang, but China's concerns on the issue have not changed -- namely a reluctance to seeing a unified Korean peninsula allied with the United States and a potentially destabilizing flow of millions of refugees into its territory should the regime collapse.
+Rubio pressed home his attack on Wednesday in Iowa, offering his own plan. He called on North Korea to be put back on the list of state-sponsors of terrorism, for new sanctions on its leaders, a hike in U.S. military spending and reinvigorated alliances with U.S. Asian allies and a renewed commitment to missile defense.
+""If trends continue, this lunatic will possess a missile and a warhead capable of reaching the U.S., and we better be capable of shooting it down before it gets anywhere near us,"" he warned. ""We need to invest and re-commit to that again.""
+Another GOP candidate, former Florida Gov. Jeb Bush, used the nuclear test to argue that bad things happen when America has ""withdrawn"" from the world.
+
+However, so intractable has the North Korea problem been that it seemed doubtful that any of the approaches outlined by potential next presidents would work. As is often the case when foreign policy mixes with campaign politics, it can prove easier for candidates to grandstand than frame grand strategy.
+Washington has tried punishment and inducements repeatedly with North Korea and has failed to change the calculations of a secretive, repressive regime that uses its pariah status to entrench its power at home and is prepared to let its own people starve rather than offer concessions to Washington.
+Bush, for instance, came to office and ended Bill Clinton's policy of engaging the Pyongyang regime. He then toughened his stance by including North Korea in his ""axis of evil.""
+ 
+But the strategy failed as North Korea restarted plutonium reactors frozen under a 1994 deal with the Clinton administration, while the administration accused it of building a separate uranium program. Pyongyang ultimately conducted a nuclear test in 2006.
+By the end of his administration, Bush saw six-party international talks with the North Koreans as the best way to defuse the nuclear standoff.
+Obama has also tried the hardline approach. 
+In 2010, during a visit to Seoul, he addressed the leaders of North Korea directly, warning that their pursuit of nuclear arms denied them dignity and would only lead to more of the same: ""more broken dreams, more isolation.""
+And he's used diplomacy, but with no better results. During his time in office, Pyongyang has conducted at least three nuclear tests and a flurry of missile and satellite launches. And unless something dramatic changes, he will bequeath the North Korean nuclear headache to the next president.",9.6,10.7,52.19,-0.4,CNN,Hillary Clinton
+105,105,631,The 2016 Race: How to Understand Donald Trump’s Defeat in Iowa,http://www.nytimes.com/2016/02/02/upshot/how-to-understand-donald-trumps-defeat-in-iowa.html,trump,nyt,Campaign Finance,8.7,8.8,"For months, mainstream Republicans have hoped that Donald Trump’s support was a mirage — a combination of high name recognition, unsustainable news media coverage and support from irregular voters who might not show up in a primary.
+
+Tonight, there’s reason to believe their hopes just might be well founded. Despite leading each of the last 10 Iowa polls, by an average of seven percentage points, Donald Trump was defeated by Ted Cruz, who currently leads, 28 percent to 24 percent, with 97 percent of precincts reporting in the Iowa caucuses. Marco Rubio is in a strong third place with 23 percent of the vote.
+
+In the end, Mr. Trump came closer to taking third than to winning.
+
+The result doesn’t necessarily leave us much closer to knowing who the eventual nominee will be. It probably signals the beginning of a protracted, three-way fight for the nomination. But the loss raises the possibility that Mr. Trump’s strength is at least partly an illusion; he may not be quite as strong as he looks.
+
+Mr. Trump’s defeat won’t necessarily derail his campaign, as some have speculated. He leads by a wide margin in polling in New Hampshire, so he’ll have a strong opportunity to rebound.
+
+Mr. Trump’s voters also appeared to turn out in large numbers. Many speculated that he might fail to turn out his supporters, but the turnout in Iowa was higher than most analysts had forecast, with 167,000 votes counted as of now — swamping the 122,000 votes from 2012.
+
+Yet Mr. Trump still fell short. He lost among voters who decided over the last month by a wide margin, and he took third place among voters who had previously participated in the caucuses. Mr. Trump fared especially poorly among voters who decided over the last week — since his decision not to participate in the final presidential debate before the caucuses.
+
+For Mr. Cruz, the victory gives him a chance to forge a narrow but real path to the nomination. His strengths include strong support from self-described “very conservative” voters; perhaps the best organization in the race; and a strong fund-raising apparatus. He could fare relatively well in South Carolina in a few weeks, and across the South on Super Tuesday.
+
+But his path to the nomination is still not an easy one. He will face full-throated opposition from many prominent Republicans, as was the case here in Iowa. And Mr. Cruz’s narrow victory was not especially impressive. It depended almost exclusively on strength among “very conservative” voters, who are vastly overrepresented in the Iowa caucuses. There was no primary state where “very conservative” voters represented a larger share of the electorate in 2012 than they did in Iowa.
+
+He won just 19 percent among “somewhat conservative” voters and a mere 9 percent of the “moderate” vote.
+
+Mr. Cruz’s victory may bestow enough momentum to attract less conservative voters. But recent primary contests offer reason to be cautious about his prospects. Candidates like Mike Huckabee and Rick Santorum never succeeded in broadening their appeal beyond their natural bases after winning Iowa, and Mr. Cruz will probably fall short of the nomination if he also cannot do so.
+
+Making it even harder for Mr. Cruz to broaden his appeal is Mr. Rubio. He finished in a strong third place, beating pre-election polls and nearly beating Mr. Trump for second in a state where Mr. Cruz’s base is at its strongest.
+
+Whether Mr. Rubio’s showing will be enough to change the race in New Hampshire is hard to say — there isn’t much precedent for a logjam like the one we have in New Hampshire. Four mainstream conservative candidates — John Kasich, Chris Christie, Jeb Bush and Mr. Rubio — have all been clustered near 10 percent of the vote in New Hampshire surveys.
+
+If Mr. Rubio’s performance in Iowa bestows enough media coverage and credibility for him to break the deadlock, it would be a crucial turning point in the race. A strong Rubio showing in New Hampshire could push several mainstream candidates out, freeing up endorsements and fund-raising dollars that have sat on the sidelines. It would also allow him to consolidate the voters who have supported the mainstream candidates.
+
+It would bring about a true three-way race heading into South Carolina.",8.8,8.7,62.68,0.0,The New York Times,Donald Trump

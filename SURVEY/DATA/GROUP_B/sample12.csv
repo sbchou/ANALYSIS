@@ -1,119 +1,159 @@
-,Unnamed: 0,Unnamed: 0.1,title,url,candidate,org,top_topic,flesch,gunning_fog,body,gunning_fog_new,flesch_new,readability,flesch_diff,pretty_org
-17,17,1487,First Draft: F.E.C. Tells Sanders Campaign That Some Donors May Have Given Too Much,http://www.nytimes.com/politics/first-draft/2016/02/12/f-e-c-tells-sanders-campaign-that-some-donors-may-have-given-too-much/,sanders,nyt,Campaign Finance,9.1,8.0,"The Federal Election Commission has asked the presidential campaign of Senator Bernie Sanders of Vermont to re-examine contributions from more than a hundred donors who appear to have given more than the legally permissible amount.
+,Unnamed: 0,Unnamed: 0.1,title,url,candidate,org,top_topic,flesch,gunning_fog,body,gunning_fog_new,flesch_new,readability,flesch_diff,pretty_org,pretty_name
+10,10,1477,First Draft: Bernie Sanders Promises to Keep Pressing the Campaign,http://www.nytimes.com/politics/first-draft/2016/02/29/bernie-sanders-promises-to-keep-pressing-the-campaign/,sanders,nyt,Campaign Finance,8.7,10.0,"BOSTON — Senator Bernie Sanders of Vermont vowed on Monday night that no matter the outcome of the Super Tuesday races, his campaign would continue to rally voters against a political establishment that is largely backing his rival, Hillary Clinton.
 
-The vast majority of the donors gave several small contributions to Mr. Sanders for the Democratic primary that eventually totaled more than the $2,700 limit, according to a letter the election commission sent to Mr. Sanders on Thursday. 
+Mr. Sanders, standing next to a chartered plane here, said he would “likely” win Vermont’s vote, and also felt good about his chances for winning the most delegates in Oklahoma, Minnesota, Colorado and Massachusetts. He also said he might take a large number of delegates in Texas.
 
-Such glitches are common in political campaigns, which are required to track small donors and begin itemizing their contributions when their total reaches $200. That can be harder when donors use slightly different variations of their names or contribute from more than one address. Mr. Sanders’s campaign may choose to refund the excess contributions or re-designate the excess for use in a general election campaign, when candidates can accept another $2,700.
+“We started this campaign at 3 percent in the polls — 60 or 70 points behind Hillary Clinton,” Mr. Sanders said to more than a dozen reporters. “We have rallied millions of people who want to see a government that represents all of us and not just the billionaire class.”
 
-But the F.E.C.’s review suggests that the sheer volume of small contributions Mr. Sanders is receiving — more than 3 million of them so far, according to his campaign — may be straining his campaign’s ability to keep track of which donors are which. Most of the contributions cited by the commission were given by donors with relatively unusual names, whose small checks are generally easier to tally.
+Mr. Sanders  added that he was dedicated to taking the fight for the Democratic nomination to the convention this summer. 
 
-In early February, after the end of the fourth fund-raising quarter, Mr. Sanders’s campaign announced that it had more than 1.3 million donors, an astonishing number for so early in the campaign cycle. And last week, the campaign announced it had received 3.25 million total donations, the most of any presidential candidate in the race. The campaign’s most recent F.E.C. filing was nearly 100,000 pages long.
+“At the end of tomorrow, I think 15 states will have spoken,” Mr. Sanders said. “Last I heard, we have a lot more than 15 states in the United States of America. And I think it is more than appropriate to give all of those states and the people in those states a chance to vote for the candidate of their choice.”
 
-In an e-mail, Michael Briggs, a Sanders spokesman, said, “We are looking into the F.E.C. staff questions and are committed to full and accurate disclosure of the tremendous grass-roots support for Sen. Sanders from people all across America.”",8.0,9.1,56.25,0.0,The New York Times
-59,59,1766,Cruz to tea party supporters: Don't get 'burned' by fake conservatives,http://www.cnn.com/2016/01/16/politics/ted-cruz-tea-party-rally-donald-trump-marco-rubio/index.html,cruz,cnn,Immigration,12.3,12.4,"Myrtle Beach, South Carolina (XXX) Ted Cruz implored a Tea Party audience here on Saturday to examine closely the record of candidates like Donald Trump and Marco Rubio, warning a crowd not to get ""burned"" by fake brothers in arms even as he declined to utter his rivals' names.
-The Texas senator typically asks audiences to distinguish between ""campaign conservatives"" and ""consistent conservatives,"" but Cruz's remarks Saturday were essentially a dare to those gathered here to look finely at opponents' histories on seven key battles. In a retooled stump speech flush with Trump overtones and delivered right before Trump took the stage himself, Cruz offered a checklist of fights that he had led that his opponents -- like Trump -- hadn't.
- 
-""How many people here have been burned by politicians?"" Cruz asked the crowd, hours after Cruz bashed Trump's record as more liberal than conservative. ""The stakes in 2016 have never been higher. Our country is hanging in the balance. So I've got a very simple question for the folks here: How do we not get burned again?""
-Cruz then listed off seven fights he had led, describing each as a ""time for choosing,"" a reference to Ronald Reagan's iconic 1964 speech: fighting for gun rights, traditional marriage, defunding Planned Parenthood, fighting against Obamacare, a nuclear Iran, ""amnesty"" for undocumented immigrants and government intervention for Wall Street and other favored industries.
-""If someone tells you they're tea party, you can't be tea party and at the same time have supported TARP,"" Cruz said, using an acronym for the Troubled Asset Relief Program, a controversial Wall Street bailout program. ""You can't be tea party and at the same time have supported Barack Obama's stimulus. You cant be tea party and at the same time support the ethanol mandate because it's good politics in Iowa and support the sugar subsidies because it's good politics in Florida.""
-Trump is one of several candidates who support the Iowa ethanol mandate, and Rubio has advocated for his home state's subsidies. Cruz made sure to knock Republican candidates like Rubio who Cruz sees as insufficiently tough on immigration -- which is also one of Trump's signature issues.
-""Anybody who was AWOL from the battle on the Gang of Eight has no standing as a candidate now to say they will enforce the border,"" Cruz said of the comprehensive immigration bill pushed by Rubio in 2013.
-Trump, for his part, backed off from his criticisms of Cruz that he had broadcast loudly all day on Saturday. During a 45-minute speech here, Trump left Cruz unscathed until the very end, when he mentioned the loans that Cruz received as a Senate candidate in 2012 but did not properly report to election authorities.
- 
-And when Trump did finally mention Cruz's name, he appeared rattled after the tea party crowd loudly booed him. 
-""You give a campaign contribution to Ted Cruz, you get whatever the hell you want,"" he said, the boos beginning. ""He's got bank loans from Goldman Sachs, he's got bank loans from Citibank -- and then he acts like Robin Hood?""
-Cruz, who suddenly has started criticizing Trump after seven months of refusing to do so, essentially offered South Carolina voters a roadmap to vet him. 
-""When someone announces as a Republican candidate for president, suddenly they agree with the values of everyone in this room,"" Cruz said. ""If they haven't been willing to stand and lead, you can know to an absolute fact they wouldn't do so as president either.""",12.0,11.9,54.56,-0.4,CNN
-78,78,980,"Ahead of Nevada caucus, Clinton goes up with first Spanish-language ads",http://www.cnn.com/2016/02/05/politics/hillary-clinton-spanish-ads-nevada/index.html,clinton,cnn,Immigration,11.1,11.2,"Manchester, New Hampshire  (XXX) Hillary Clinton's campaign released its first Spanish-language TV and radio ads on Friday, highlighting the former secretary of state's position on immigration reform ahead of Nevada's caucuses later this month.
-The ad, titled ""Valentía"" (which means ""courage"" or ""bravery"" in English) is the campaign's first Spanish-language ad in the Silver State and casts Clinton as a friend of Latinos at a time when Republican candidates are talking about deportation and denying undocumented immigrants a pathway to citizenship.
-""There is no other candidate who has fought as hard for our families as Hillary Clinton,"" a narrator says in Spanish. ""She stands with us to achieve immigration reform and to keep families together.""
-The TV ad opens with a shot of Texas Sen. Ted Cruz and Donald Trump, two Republicans who have been outspoken about strict immigration standards, and the narrator says, ""It's when things get tough that you see the friends by your side.""
-""There is still much to do, but with a friend like Hillary, we keep moving forward,"" the narrator concludes.
-Nevada's caucuses, the first in the West, are on February 23. There has been a dearth of polling in the state, but surveys from late last year had Clinton up by double digits over Vermont Sen. Bernie Sanders.",11.2,11.1,56.59,0.0,CNN
-104,104,608,"Taking Note: Trump vs. Pope, Round 2",http://takingnote.blogs.nytimes.com/2016/02/18/trump-vs-pope-round-2/,trump,nyt,Immigration,8.7,10.0,"The headlines are blazing, Twitter is lit up, the political press is all hot for the kind of story it loves to tell: two huge celebrities attacking each other.
+Still, Mr. Sanders emphasized the importance of Tuesday’s votes and cast himself as going up against a Clinton machine powered by local officials in multiple states. Repeating a claim he made before elections in Iowa, New Hampshire, Nevada and South Carolina, Mr. Sanders said he was confident he would do well if there is a large voter turnout and that he would struggle if not.
 
-My first impulse on hearing that Pope Francis was calling out Donald Trump personally for his noxious views about immigrants and border walls was to quietly rest my head on my keyboard. It’s always wonderful to see a bully confronted — the bigger the bully, the better — but it was hard to see any good coming of this. Personal attacks are Mr. Trump’s weapon of choice, not the Pope’s, and anyone could have predicted what happened next: Trump struck back with indignant fury, and his people revenge-tweeted about the walls surrounding Vatican City.
+“Tomorrow all over the country, our campaign is taking on the political establishment,” Mr. Sanders said. “We’re taking on governors and senators and mayors who know how to get out the vote. They do that very well.”
 
-For solace and perspective, I went to find out what America, the level-headed Jesuit magazine, was saying. Its article has a slightly longer quotation than The Times has (italics added): “A person who thinks only about building walls, wherever they may be, and not building bridges, is not Christian. This is not in the Gospel.”
+Mr. Sanders went on to repeat criticisms of Mrs. Clinton’s ties to several industries and to cast himself as a candidate more interested in reforming campaign finance laws and dealing with income inequality. To make his point, Mr. Sanders referred to the director Adam McKay’s acceptance speech at the Academy Awards on Sunday after he won for the best adapted screenplay for “The Big Short,” a movie about the failure of the banking industry.
 
-That is an important line. Pope Francis leads the universal Catholic Church, so he is a pretty good authority on what is or is not in the Gospel — the New Testament, the life and teachings of Jesus Christ.
+“As Adam McKay pointed out at the Oscars last night, if we want to have a government that is not controlled by billionaires, then we should not be voting for candidates who received substantial sums of money from the wealthy, from Wall Street, from the pharmaceutical industry and the fossil fuel industry,” Mr. Sanders said. 
 
-Odds are you have a pretty good idea yourself, at least enough to spot which of these two sets of quotations is bona-fide scripture.
+Mr. Sanders also said that while he respected Mrs. Clinton, he didn’t think “real change” comes from someone taking money from such industries and that instead, such change would come from millions of people demanding “a government that represents all of us and not just the 1 percent.”",10.0,8.7,68.1,0.0,The New York Times,Bernie Sanders
+27,27,1555,Sanders a prolific Dem fundraiser,http://www.cnn.com/2016/02/05/politics/sanders-democratic-fundraisers/index.html,sanders,cnn,Campaign Finance,11.5,11.6,"Manchester , New Hampshire (XXX) Bernie Sanders complained on the campaign trail Friday that dialing for dollars ""affects your entire being.""
+What he didn't mention: The Vermont senator and presidential candidate is a prolific fundraiser himself and has regularly benefited from the Democratic Party apparatus. 
+In recent years, Sanders has been billed as one of the hosts for the Democratic Senatorial Campaign Committee's retreats for the ""Majority Trust"" -- an elite group of top donors who give more than $30,000 per year -- at Martha's Vineyard in the summer and Palm Beach, Florida, in the winter. XXX has obtained invitations that listed Sanders as a host for at least one Majority Trust event in each year since 2011.
+The retreats are typically attended by 100 or more donors who have either contributed the annual legal maximum of $33,400 to the DSCC, raised more than $100,000 for the party or both.  
+Sanders has based his presidential campaign on a fire-and-brimstone critique of a broken campaign finance system -- and of Hillary Clinton for her reliance on big-dollar Wall Street donors. But Sanders is part of that system, and has helped Democrats court many of the same donors. 
+Democratic debate: 6 takeaways
+A Democratic lobbyist and donor who has attended the retreats told XXX that about 25% of the attendees there represent the financial sector -- and that Sanders and his wife, Jane, are always present. 
+""At each of the events all the senators speak. And I don't recall him ever giving a speech attacking us,"" the donor said. ""While progressive, his remarks were always in the mainstream of what you hear from senators."" 
+Sanders' political leanings were well known by the donors who attended the retreats. ""Nobody was more surprised that Bernie was there than the donors were,"" said another Democrat who attended the retreats. 
+Hillary, Bill and Chelsea Clinton stack late February with fundraisers
+But Sanders maintains that members of Congress now spend far too much time making calls seeking campaign contributions -- or ""dialing for dollars,"" he said during a speech at the New England Council's ""Politics and Eggs"" event Friday morning.
+""That's what they do. And not only should members who are elected be working for the people, not raising money -- if you think you could simply divide your brain in half, if you're working on unemployment or health care and think, now I've gotta go out and raise money, it affects your entire being,"" he said.
 
-A.
+Sanders has been an Independent while in Congress, but has caucused with the Democrats since he was elected to the Senate in 2006, helping them maintain their majority for eight years. 
+Michael Briggs, a Sanders spokesman, said Sanders has ""raised more money for the Senate Democrats than almost any other member of the Senate Democratic caucus"" because he sees helping the party regain the majority as critical.
+""He has in the past written letters and helped Senate Democrats elect Democrats. He thinks that's very important to the country,"" Briggs said.
+Democratic debate: XXX's Reality Check team inspects the claims
+He got a hand from the party in 1996, when Rob Engel, then the political director for the Democratic Congressional Campaign Committee, pushed a Democratic contender out of the race for the House seat Sanders held as an independent.  
+In 2006, when Sanders ran for the Senate, the Democratic Senatorial Campaign Committee pumped $37,300 into his race and included him in fundraising efforts for the party's Senate candidates. 
+The party also spent $60,000 on ads for Sanders, and contributed $100,000 to the Vermont Democratic Party -- which was behind Sanders even as he ran as an independent.  
+Among the DSCC's top contributors that year: Goldman Sachs at $685,000, Citigroup at $326,000, Morgan Stanley at $260,000 and JPMorgan Chase & Co. at $207,000. 
+During that 2006 campaign, Sanders attended a fundraiser at the Cambridge, Massachusetts home of Abby Rockefeller -- a member of the same family whose wealth he had one proposed confiscating. 
+Two years later, when then-Illinois Sen. Barack Obama was being nominated at the Democratic National Convention in 2008, Sanders was among the senators who met with Sen. Chuck Schumer's ""Legacy Circle"" donors who had given the legal maximum to the DSCC five years in a row or $500,000 over their lifetimes. 
+He paid dues to the DSCC, too, with his Progressive Voters of America political action committee cutting checks for $30,000 to the group during the 2014 election cycle.  
+What 'progressive' means to Hillary Clinton vs. What 'progressive' means to Bernie Sanders
 
-“Love your enemies and pray for those who persecute you.”
+Sanders told the ""Politics and Eggs"" crowd that he favors a public financing system for elections, eliminating campaign contributions entirely. But his presidential campaign, just as Clinton's and Barack Obama's in 2008 and 2012, has chosen to bypass that system, allowing Sanders to raise millions of dollars more. 
+He has repeatedly touted his campaign's vast online fundraising apparatus, which has pulled in 3.5 million individual contributions, averaging $27 apiece, Sanders said Friday. 
+Pressed by XXX moderator Chuck Todd on why he hasn't accepted public financing in Thursday night's debate, Sanders said the system as it exists now is ""a disaster"" and ""very antiquated"" because it limits spending in early-voting primary states. 
+""The way it is structured right now, if you make it all the way to California, you could do pretty well. But in terms of the early states -- Iowa, New Hampshire, the other states -- it just doesn't work,"" Sanders said.",11.6,11.5,55.58,0.0,CNN,Bernie Sanders
+28,28,1563,Sanders campaign touts another endorsement that didn't happen,http://www.cnn.com/2016/02/11/politics/bernie-sanders-hillary-clinton-dreamer-support/index.html,sanders,cnn,Immigration,11.5,10.4,"(XXX) Once again, the Bernie Sanders' campaign finds itself having claimed the support of someone who didn't exactly endorse the Vermont senator.
+Brenda Romero, a Nevada student leader and DREAMer that Bernie Sanders' campaign touted as someone who endorsed their campaign, tells XXX she never endorsed the Vermont senator and is backing Hillary Clinton.
+Romero said Monday she had agreed to be part of Sanders' Nevada Latino Steering Committee, but that she never endorsed the senator.
+Sanders released the list of activists and elected officials on his Latino committee in January. 
+""Tomorrow, a group of highly respected community leaders will announce their support for Bernie Sanders for president,"" said a statement about the press conference. 
+The list included Lucy Flores, former Nevada state assemblywoman and congressional candidate, and Romero, a undocumented DREAMer and class president at College of Southern Nevada.
+""I didn't agree to such an endorsement,"" Romero said Monday, noting that while she agreed to be part of the steering committee, she was told that the role would be advising the ""campaign and potentially Sen. Sanders about immigration issues.""
+Romero is the latest in a string of endorsements touted by Sanders who didn't actually back the Vermont senator. 
+Two newspapers in New Hampshire that had not backed the senator were included in an ad titled ""Endorsed"" and last month in Iowa, an ad by the Sanders campaign included the Des Moines Register in a list of newspapers that have backed the senator. 
+The Register actually endorsed Clinton. 
+What's more, the AARP and the League of Conservation Voters have said the Sanders campaign has used their logos in mailers without their permission.
+In an emails provided by the Sanders campaign, Romero did agree to be part of the steering committee, telling a Sanders staffer that she would be ""honored to be part of this.""
+The email asking for Romero's support came from Erika Andiola, Sanders' Latino outreach strategist. In the email, Aniola told Romero she would ""be serving the campaign in an advisory capacity and offering feedback on how we can best connect with and mobilize support in the Latino community for the remaining life of the campaign.""
+Nowhere in the email exchange, though, does Romero agree to endorse Sanders. In fact, Romero asked not to have her title included in any campaign lists because as student body president, she has ""to stay neutral to candidates.""
+But because Romero has grown frustrated with the Sanders campaign, she said Monday that she is backing Clinton.
+""I believe that Hillary has my back, and that she is the only candidate capable of accomplishing things in the face of Republican obstruction,"" Clinton said. ""She will get things done for immigrants families.""
+Aside from providing the emails with Romero, the Sanders campaign did not comment for this story.
+Clinton, too, has dealt with touting endorsements that haven't actually happened. Two mayors -- one from Wilmington, Delaware, and another from San Antonio -- were among a list of 50 mayors that endorsed Clinton in October. But shortly after the list was released to the public, both mayors said they had yet to officially endorse the former secretary of state.
+Sanders, who is currently leading in New Hampshire, is fighting to pick up ground on Clinton in Nevada, a state that most observers feel is more demographically suitable for her. While there has been a dearth of polling in the state, Clinton held a sizable lead, according to polls released late last year.
+Clinton has picked up a number of top endorsements in the Silver State, including one earlier this month from Astrid Silva, possibly the nation's more recognizable DREAMer, an undocumented immigrant brought into the country as a child.
+Sanders' campaign dismissed the Silva endorsement when the senator's press secretary for Latino outreach tweeted that Silva was a ""press hit"" for Clinton.
+Romero said Monday that the response to Silva factored into her decision to back Clinton.
+""I'm also disappointed by the attacks from senior staffers on the Sanders campaign on Astrid Silva,"" she said. ""It shows how disconnected they are from Nevada, and they should apologize to her. There is no room for hate between DREAMers in this campaign.""",10.4,11.5,50.16,0.0,CNN,Bernie Sanders
+62,62,1341,"Your Friday Evening Briefing: Hillary Clinton, Kanye West, Syria",http://www.nytimes.com/2016/02/12/nytnow/your-friday-evening-briefing-hillary-clinton-kanye-west-syria.html,clinton,nyt,Foreign Policy/National Security,7.2,8.4,"(Want to get this briefing by email? Here’s the sign-up. 
 
-“Blessed are you who are poor, for yours is the kingdom of God.”
+Good evening. Here’s the latest.
 
-“I was hungry and you gave me food, I was thirsty and you gave me something to drink, I was a stranger and you welcomed me.”
+1. The presidential candidates turned their focus to South Carolina, where the Republicans’ primary comes Feb. 20 and the Democrats’ a week later. Ben Carson, Jeb Bush, Marco Rubio and Ted Cruz courted evangelicals at Bob Jones University. Donald Trump challenged his chief rival in the state via Twitter, “How can Ted Cruz be an Evangelical Christian when he lies so much and is so dishonest?” A Cruz ad showed a boy explaining the features of a Trump action figure, saying, “He pretends to be a Republican.“
 
-B.
+_____
 
-“They’re bringing crime. They’re bringing drugs. They’re rapists.”
+2. Hillary Clinton also unrolled a new ad, one that ties her to President Obama in supporting tighter gun laws, an issue many Democrats see as a vulnerability for Bernie Sanders. And at a campaign event in South Carolina, she said Mr. Sanders “has called the president weak, a disappointment. He does not support, the way I do, building on the progress the president has made.” A “super PAC,” Priorities USA, has a $500,000 campaign of radio ads stressing her leadership in helping blacks.
 
-“These are people that shouldn’t be in our country. They flow in like water.”
+_____
 
-“Nobody can build a fence like me.”
+3. Madeleine Albright, the former secretary of state, tried to douse the fire set by her comment about Bernie Sanders supporters, “There’s a special place in hell for women who don’t help each other.” In an essay in The Times, she wrote, “I absolutely believe what I said, that women should help one another, but this was the wrong context and the wrong time to use that line.”
 
-Scripture-quoting is a tricky proposition; show any Bible-thumper a passage to prove a point and he will immediately thump you back with something seemingly contradictory.
+_____
 
-But it’s fair to say that the core of Christian teaching is not “Don’t be a loser.” It’s “Love your neighbor as yourself.”
+4. The widening gap between rich and poor, one of the most powerful themes of the presidential campaigns, includes a disturbing disparity in life spans. New research looking at both ends of the income spectrum showed that the gap, which has not been fully explained, has more than doubled since the 1970s, to about 14 years. “This may be the next frontier of the inequality discussion,” one analyst said.
 
-I have little expectation that today’s episode will lead to any enlightening discussion. But I can at least pray that it might lead to more challenging, probing questioning of the candidates — the Republicans, I mean, who are so quick to lead with their Christian faith, and to summon the blessings of God upon their political endeavors.
+_____
 
-Because there is so much dissonance when the G.O.P. does its holy-rolling thing. There are so many questions.
+5. Pope and patriarch sat down together, the first time that the leaders of the Roman Catholic and Russian Orthodox churches met since the branches splintered nearly 1,000 years ago. “Now things are easier,” Patriarch Kirill said. “It is clear now that this is the will of God,” Pope Francis responded.
 
-How can Ted Cruz begin a rally by invoking the Lord, and then speak as though he is running for war criminal? What do his Christian audiences think when he calls for the indiscriminate bombing of Muslim civilians, and laughs about making sand “glow in the dark” — basically a joke about mass murder?
+_____
 
-Why does someone like Marco Rubio tell heart-warming stories about his immigrant roots, and then, with equal conviction, insist that he will pull up the ladder for more recent, non-qualified immigrant families, the ones his primary voters hate and fear?
+6. Major League Baseball issued its first lifetime ban over performance-enhancing drugs, banishing the Mets pitcher Jenrry Mejia after he tested positive for a third time.
 
-Why has the entire Republican field treated immigrants and refugees, even dead Syrian children washed ashore on a beach, not as victims deserving welcome, but as threats to be shunned?
+_____
 
-Why are immigrants who cross burning deserts to provide for their children, who stand on street corners to take any available job, but not handouts, who embody Republican ideals of faith and family, so hated by the God-and-country crowd?
+7. The family of a man killed in the stairwell of a Brooklyn housing project saluted the jury that convicted a New York City police officer, Peter Liang, of manslaughter. “There are many more police officers who need to be held accountable,” the family said in a statement. “We hope this case will send a message to all N.Y.P.D. officers and police departments around the country and around the world that they can’t kill and get away with it anymore.”
 
-Why, with their strong faith and the full might of America to protect them, do the Republican candidates sound so frightened and angry?
+_____
 
-A Christian, by definition, believes Jesus is God, who dwelled among us, who was born poor, who preached a Gospel of love, and — though he surely could have annihilated the Romans and blasted his persecutors and made the sands of Galilee glow in the dark — allowed himself to be put to death by the authorities.
+8. The hatchet Kanye West and Taylor Swift buried a few years ago got disinterred. A day after Mr. West’s fashion show/album release sold out Madison Square Garden, he added a song that included a sexual reference to Taylor Swift and claimed responsibility for her fame. Ms. Swift’s brother threw his Kanye-designed Yeezy sneakers in the trash and posted a video of the act on Instagram.
 
-Why is that peaceful Christ never present in Republican speeches?
+_____
 
-A Christian is also someone who sees the essential dignity and worth of other human beings. That would have to include immigrants and refugees, those who live and work here without papers, or who are trying to migrate to the United States, who are uprooted by poverty and war. Those who are being murdered by drug traffickers. Who are victims of crime. Who are raped.
+9. The Rio Olympic Games are still six months away, but this Texas gymnast looks like a real possibility to win gold. Our sports columnist calls Simone Biles, 18 and not quite five feet tall, unfathomably powerful and “the best American gymnast since, well, probably ever.”
 
-I’ll give the last words to Gerard Manley Hopkins, the Victorian poet with the radical style who was a Jesuit, like Pope Francis, and who wrote vividly about God’s presence in the world — and in the people — around us:
+_____
 
-I say more: the just man justices;
-Keeps grace: that keeps all his goings graces;
-Acts in God’s eye what in God’s eye he is –
-Christ – for Christ plays in ten thousand places,
-Lovely in limbs, and lovely in eyes not his
-To the Father through the features of men’s faces.",10.0,8.7,68.1,0.0,The New York Times
-105,105,631,The 2016 Race: How to Understand Donald Trump’s Defeat in Iowa,http://www.nytimes.com/2016/02/02/upshot/how-to-understand-donald-trumps-defeat-in-iowa.html,trump,nyt,Campaign Finance,8.7,8.8,"For months, mainstream Republicans have hoped that Donald Trump’s support was a mirage — a combination of high name recognition, unsustainable news media coverage and support from irregular voters who might not show up in a primary.
+10. The U.N. groped for details about how to create a “humanitarian task force” for Syria called for by a new cease-fire deal between the U.S. and Russia. But at the border with Turkey, some Syrians doubted the bombing would end. “The deals they make there are so isolated and detached from this reality here,” one said.
 
-Tonight, there’s reason to believe their hopes just might be well founded. Despite leading each of the last 10 Iowa polls, by an average of seven percentage points, Donald Trump was defeated by Ted Cruz, who currently leads, 28 percent to 24 percent, with 97 percent of precincts reporting in the Iowa caucuses. Marco Rubio is in a strong third place with 23 percent of the vote.
+_____
 
-In the end, Mr. Trump came closer to taking third than to winning.
+11. Success Academy, a leader in New York City’s charter school movement, has long had critics of its methods for achieving a stellar record of performance on standardized tests. Now there’s concern that some teachers become emotionally abusive, after a video emerged showing one mercilessly berating a first grader for a wrong answer. In interviews, other teachers said demeaning of children was a regular occurrence.
 
-The result doesn’t necessarily leave us much closer to knowing who the eventual nominee will be. It probably signals the beginning of a protracted, three-way fight for the nomination. But the loss raises the possibility that Mr. Trump’s strength is at least partly an illusion; he may not be quite as strong as he looks.
+_____
 
-Mr. Trump’s defeat won’t necessarily derail his campaign, as some have speculated. He leads by a wide margin in polling in New Hampshire, so he’ll have a strong opportunity to rebound.
+12. Lastly, over the long Presidents’ Day weekend, the public is invited to help with the Great Backyard Bird Count. Last year, 140,000 people in more than 100 countries classified nearly half of the world’s bird types during the four-day event. We’ll be looking forward to the results of the annual accompanying photo contest.
 
-Mr. Trump’s voters also appeared to turn out in large numbers. Many speculated that he might fail to turn out his supporters, but the turnout in Iowa was higher than most analysts had forecast, with 167,000 votes counted as of now — swamping the 122,000 votes from 2012.
+Have a great weekend.
 
-Yet Mr. Trump still fell short. He lost among voters who decided over the last month by a wide margin, and he took third place among voters who had previously participated in the caucuses. Mr. Trump fared especially poorly among voters who decided over the last week — since his decision not to participate in the final presidential debate before the caucuses.
+_____
 
-For Mr. Cruz, the victory gives him a chance to forge a narrow but real path to the nomination. His strengths include strong support from self-described “very conservative” voters; perhaps the best organization in the race; and a strong fund-raising apparatus. He could fare relatively well in South Carolina in a few weeks, and across the South on Super Tuesday.
+Your Evening Briefing is posted at 6 p.m. Eastern.
 
-But his path to the nomination is still not an easy one. He will face full-throated opposition from many prominent Republicans, as was the case here in Iowa. And Mr. Cruz’s narrow victory was not especially impressive. It depended almost exclusively on strength among “very conservative” voters, who are vastly overrepresented in the Iowa caucuses. There was no primary state where “very conservative” voters represented a larger share of the electorate in 2012 than they did in Iowa.
+And don’t miss Your Morning Briefing, posted weekdays at 6 a.m. Eastern, and Your Weekend Briefing, posted at 6 a.m. Sundays.
+",8.4,7.2,72.16,0.0,The New York Times,Hillary Clinton
+106,106,396,Jeb Bush on Donald Trump: 'The guy needs therapy',http://www.cnn.com/2016/02/06/politics/jeb-bush-isis-donald-trump/index.html,trump,cnn,Foreign Policy/National Security,8.7,10.0,"Bedford, New Hampshire (XXX) Just hours before Saturday night's Republican debate in New Hampshire, Jeb Bush fired up his biggest crowd to date with digs against rival Donald Trump and exuded blunt confidence when addressing concerns about his family name.
+The Republican presidential candidate, who's aiming for a top tier finish in next week's primary after his poor showing in Iowa, delivered a strong performance here at his midday town hall in Bedford, showing a mix of humor and emotion before a packed crowd.
+Outside were even more people who were turned away from the fire marshal after capacity was reached in the middle school's gymnasium. With just a few days before polling booths open up on Tuesday, voters are still shopping around to make their final decision.
+After delivering his stump speech, the first man to ask a question lit into Trump for mocking a reporter with a disability late last year -- something Trump denies doing.
+The voter identified himself as a longtime boxing fan and drew an analogy comparing the rivalry between Trump and Bush to a famous boxing match in 1980 between John Tate and Mike Weaver, in which Weaver was losing for 14 rounds until he came back in the 15th round to knock out Tate. 
+""Governor, you're Mike Weaver,"" the man said. ""Throw that punch tonight.""
+After the crowd erupted in agreement, Bush highlighted his own record of helping people with disabilities, and as he's been doing for weeks, lambasted Trump for what he calls his habit of ""disparaging"" people, suggesting this time that his rival candidate needs a visit to the couch.  
+""It's just ridiculous. It's a sign of deep insecurity. I'm not a psychologist or a psychiatrist, but the guy needs therapy,"" Bush said to applause and laughter.
+Bush also had some criticism for his other rivals ahead of Saturday night's debate on ABC News. The former Florida governor mocked Sen. Ted Cruz's proposal to ""carpet bomb"" ISIS, saying that's an old school technique and the military has precise weaponry that eliminates the need to carpet bomb.
+He then turned to Trump's proposal. ""Or say that you are going to bomb the S-H-blank-blank out of ISIS? Really? Is that a serious thought?""
+In a not-so-subtle knock against Cruz and Sen. Marco Rubio -- both first-term senators -- Bush made his pitch that the country needs an experienced leader. ""We're living in dangerous times. We're not running for the back bench of the United States Senate, we're running for the presidency of the United States,"" he said. ""And you need to have someone who knows what he's doing.""
+The more candid Bush also offered a blunt rebuttal to one voter's question about Bush's last name. The young woman said she was a big fan of the family, but asked how can Bush persuade other millennials who are opposed to another Bush in the White House.
+The candidate referenced his campaign's college network that spans hundreds of campus, but then grew more forthright in his rhetoric about his last name.
+""The Bush thing, people are just going to have to get over it, alright?"" he said to big applause.
+Bush, as he's been doing lately, said he's been characterized as an ""establishment"" candidate because his father and brother were both presidents.
+""I got no problems with this,"" he said. ""And people that do, they either need to get therapy themselves or realize that we can change the course of this country working together to solve problems.""
+To show his embrace of his last name, Bush brought out his mother, Barbara Bush, on the campaign trail this week, and his brother is set to campaign with him in South Carolina before the state's primary later this month.  
+But Bush's answer wasn't the first time his brother or father's name came up at the event. Earlier, Bush was being introduced by Tom Ridge, and the former Homeland Security Secretary slipped up, saying ""George Bush"" instead of ""Jeb Bush.""
+""By the way, I worked for his brother and I love his dad, so excuse me for the mess-up because I think this is a legacy of principled leadership and that's exactly what Jeb Bush would bring to the White House,"" Ridge said.
 
-He won just 19 percent among “somewhat conservative” voters and a mere 9 percent of the “moderate” vote.
-
-Mr. Cruz’s victory may bestow enough momentum to attract less conservative voters. But recent primary contests offer reason to be cautious about his prospects. Candidates like Mike Huckabee and Rick Santorum never succeeded in broadening their appeal beyond their natural bases after winning Iowa, and Mr. Cruz will probably fall short of the nomination if he also cannot do so.
-
-Making it even harder for Mr. Cruz to broaden his appeal is Mr. Rubio. He finished in a strong third place, beating pre-election polls and nearly beating Mr. Trump for second in a state where Mr. Cruz’s base is at its strongest.
-
-Whether Mr. Rubio’s showing will be enough to change the race in New Hampshire is hard to say — there isn’t much precedent for a logjam like the one we have in New Hampshire. Four mainstream conservative candidates — John Kasich, Chris Christie, Jeb Bush and Mr. Rubio — have all been clustered near 10 percent of the vote in New Hampshire surveys.
-
-If Mr. Rubio’s performance in Iowa bestows enough media coverage and credibility for him to break the deadlock, it would be a crucial turning point in the race. A strong Rubio showing in New Hampshire could push several mainstream candidates out, freeing up endorsements and fund-raising dollars that have sat on the sidelines. It would also allow him to consolidate the voters who have supported the mainstream candidates.
-
-It would bring about a true three-way race heading into South Carolina.",8.8,8.7,62.68,0.0,The New York Times
+Despite all the tough talk about his rivals, Bush also showed a softer side on Saturday. When he was asked about drug addiction -- a huge problem in New Hampshire -- Bush signaled he was about to share his daughter's story about her former struggle with the issue. But he paused.
+""OK, I've not done this next to Columba,"" he said, before he walked over to his wife, who was sitting in the front row, to briefly grab her hand.
+Then he paused again, looked at his feet, and started choking up as he began to talk about how Noelle ""spiraled out of control"" more than a decade ago. It's a story he shares often, and he's even done it with his daughter in attendance. But Saturday marked the first time that he grew emotional in front of an audience when talking about it.
+It's also the second time in the past few days that Bush choked up at a town hall. He struggled Thursday night as well when his mother was at an event in Derry and Bush mentioned his ""idyllic"" father, whose health makes it difficult for him to make public appearances.
+Aside from his emotional moment on Saturday, Bush also had some fun with the audience. He praised the voters for asking ""real"" questions, winning laughs and applause when he said ""the questions on the debate stage will be probably really stupid to be honest with you.""
+He also defended his Super Bowl pick of the Denver Broncos because he's a fan of Peyton Manning. After some in the New England crowd moaned and groaned -- this is Patriots country -- Bush protested.
+""Hey, just a second here"" he said, playfully putting his foot down. ""I'm for Peyton Manning because he's for me.""
+As the audience went wild, Bush had one more thing to add: ""He's also managed to be the, uh, the adult in the room -- kinda like me.""",10.0,8.7,68.1,0.0,CNN,Donald Trump

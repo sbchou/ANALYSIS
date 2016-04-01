@@ -26,21 +26,61 @@
 </cml:radios>
 <div class="html-element-wrapper">
   <span>
-    <strong>{{title_1}}</strong>
+    <h1>{{title_1}}</h1>
   </span>
-  <br></br>
-  <span>{{org_1}}</span>
-  <span>{{body_1}}</span>
-  <span>{{title_2}}</span>
-  <span>{{org_2}}</span>
-  <span>{{body_2}}</span>
-  <span>{{title_3}}</span>
-  <span>{{org_3}}</span>
-  <span>{{body_3}}</span>
-  <span>{{title_4}}</span>
-  <span>{{org_4}}</span>
-  <span>{{body_4}}</span>
-  <span>{{title_5}}</span>
-  <span>{{org_5}}</span>
-  <span>{{body_5}}</span>
+  <span>
+    <h2>Source: {{org_1}}</h2>
+  </span>
+  <span>
+    <p>{{body_1}}</p>
+  </span>
+
+<cml:radios label="This article is generally ___ towards {{candidate_1}}." validates="required" gold="true">
+  <cml:radio label="Hillary Clinton" value="hillary_clinton" />
+  <cml:radio label="Bernie Sanders" value="bernie_sanders" />
+  <cml:radio label="Donald Trump" value="donald_trump" />
+  <cml:radio label="Ted Cruz" value="ted_cruz" />
+  <cml:radio label="John Kasich" value="john_kasich" />
+  <cml:radio label="Other" value="other" />
+  <cml:radio label="Might not vote" value="might_not_vote" />
+</cml:radios>
+
+  {{candidate_1}}
+
+  <span>
+    <h1>{{title_2}}</h1>
+  </span> 
+  <span>
+    <h2>Source: {{org_2}}</h2>
+  </span>
+  <span>
+    <p>{{body_2}}</p>
+  </span>
+  <span>
+    <h1>{{title_3}}</h1>
+  </span>
+  <span>
+    <h2>Source: {{org_3}}</h2>
+  </span>
+  <span>
+    <p>{{body_3}}</p>
+  </span>
+  <span>
+    <h1>{{title_4}}</h1>
+  </span>
+  <span>
+    <h2>Source: {{org_4}}</h2>
+  </span>
+  <span>
+    <p>{{body_4}}</p>
+  </span>
+  <span>
+    <h1>{{title_5}}</h1>
+  </span>
+  <span>
+    <h2>Source: {{org_5}}</h2>
+  </span>
+  <span>
+    <p>{{body_5}}</p>
+  </span>
 </div> 
