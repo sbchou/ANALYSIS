@@ -1,0 +1,46 @@
+<cml:radios label="What is your gender?" validates="required" gold="true">
+  <cml:radio label="Male" value="male" />
+  <cml:radio label="Female" value="female" />
+  <cml:radio label="Other" value="other" />
+</cml:radios>
+<cml:radios label="What is your age?" validates="required" gold="true">
+  <cml:radio label="18-29" value="1829" />
+  <cml:radio label="30-49" value="3049" />
+  <cml:radio label="50-64" value="5064" />
+  <cml:radio label="64+" value="64" />
+</cml:radios>
+<cml:radios label="What is your political party affiliation?" validates="required" gold="true">
+  <cml:radio label="Democrat" value="democrat" />
+  <cml:radio label="Republican" value="republican" />
+  <cml:radio label="Independent/Other" value="independentother" />
+  <cml:radio label="No Affiliation" value="no_affiliation" />
+</cml:radios>
+<cml:radios label="If the election were tomorrow, I would vote for…" validates="required" gold="true">
+  <cml:radio label="Hillary Clinton" value="hillary_clinton" />
+  <cml:radio label="Bernie Sanders" value="bernie_sanders" />
+  <cml:radio label="Donald Trump" value="donald_trump" />
+  <cml:radio label="Ted Cruz" value="ted_cruz" />
+  <cml:radio label="John Kasich" value="john_kasich" />
+  <cml:radio label="Other" value="other" />
+  <cml:radio label="Might not vote" value="might_not_vote" />
+</cml:radios>
+<div class="html-element-wrapper">
+  <span>
+    <strong>{{title_1}}</strong>
+  </span>
+  <br></br>
+  <span>{{org_1}}</span>
+  <span>{{body_1}}</span>
+  <span>{{title_2}}</span>
+  <span>{{org_2}}</span>
+  <span>{{body_2}}</span>
+  <span>{{title_3}}</span>
+  <span>{{org_3}}</span>
+  <span>{{body_3}}</span>
+  <span>{{title_4}}</span>
+  <span>{{org_4}}</span>
+  <span>{{body_4}}</span>
+  <span>{{title_5}}</span>
+  <span>{{org_5}}</span>
+  <span>{{body_5}}</span>
+</div> 
