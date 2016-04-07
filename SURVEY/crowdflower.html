@@ -1,30 +1,30 @@
-<cml:radios label="What is your gender?" validates="required" gold="true">
-  <cml:radio label="Male" value="male" />
-  <cml:radio label="Female" value="female" />
-  <cml:radio label="Other" value="other" />
-</cml:radios>
-<cml:radios label="What is your age?" validates="required" gold="true">
-  <cml:radio label="18-29" value="1829" />
-  <cml:radio label="30-49" value="3049" />
-  <cml:radio label="50-64" value="5064" />
-  <cml:radio label="64+" value="64" />
-</cml:radios>
-<cml:radios label="What is your political party affiliation?" validates="required" gold="true">
-  <cml:radio label="Democrat" value="democrat" />
-  <cml:radio label="Republican" value="republican" />
-  <cml:radio label="Independent/Other" value="independentother" />
-  <cml:radio label="No Affiliation" value="no_affiliation" />
-</cml:radios>
-<cml:radios label="If the election were tomorrow, I would vote for…" validates="required" gold="true">
-  <cml:radio label="Hillary Clinton" value="hillary_clinton" />
-  <cml:radio label="Bernie Sanders" value="bernie_sanders" />
-  <cml:radio label="Donald Trump" value="donald_trump" />
-  <cml:radio label="Ted Cruz" value="ted_cruz" />
-  <cml:radio label="John Kasich" value="john_kasich" />
-  <cml:radio label="Other" value="other" />
-  <cml:radio label="Might not vote" value="might_not_vote" />
-</cml:radios>
 <div class="html-element-wrapper">
+  <span>
+    <h1>{{gold_title}}</h1>
+  </span>
+  <span>
+    <h2>Source: {{gold_org}}</h2>
+  </span>
+  <span>
+    <p>{{gold_body}}</p>
+  </span>
+
+  <cml:radios label="This article is generally ______ towards {{gold_candidate}}." validates="required" gold="true" name="G1">
+    <cml:radio label="Favorable" value="1" />
+    <cml:radio label="Unfavorable" value="-1" />
+    <cml:radio label="Neutral" value="0" /> 
+  </cml:radios>
+
+  <cml:radios label="I find this article trustworthy." validates="required" gold="false" name="G2">
+    <cml:radio label="Strongly Agree" value="2" />
+    <cml:radio label="Agree" value="1" />
+    <cml:radio label="Neutral" value="0" /> 
+    <cml:radio label="Disagree" value="-1" />
+    <cml:radio label="Strongly Disagree" value="-2" />  
+  </cml:radios>
+
+  <br><br>
+
   <span>
     <h1>{{title_1}}</h1>
   </span>
@@ -35,13 +35,13 @@
     <p>{{body_1}}</p>
   </span>
 
-  <cml:radios label="This article is generally ___ towards {{candidate_1}}." validates="required" gold="true" name="Q1">
+  <cml:radios label="This article is generally ______ towards {{candidate_1}}." validates="required" gold="false" name="Q1">
     <cml:radio label="Favorable" value="1" />
     <cml:radio label="Unfavorable" value="-1" />
     <cml:radio label="Neutral" value="0" /> 
   </cml:radios>
 
-  <cml:radios label="I find this article trustworthy." validates="required" gold="true" name="Q2">
+  <cml:radios label="I find this article trustworthy." validates="required" gold="false" name="Q2">
     <cml:radio label="Strongly Agree" value="2" />
     <cml:radio label="Agree" value="1" />
     <cml:radio label="Neutral" value="0" /> 
@@ -49,6 +49,7 @@
     <cml:radio label="Strongly Disagree" value="-2" />  
   </cml:radios>
 
+  <br><br>
 
   <span>
     <h1>{{title_2}}</h1>
@@ -60,13 +61,13 @@
     <p>{{body_2}}</p>
   </span>
 
-   <cml:radios label="This article is generally ___ towards {{candidate_2}}." validates="required" gold="true" name="Q3">
+   <cml:radios label="This article is generally ______ towards {{candidate_2}}." validates="required" gold="false" name="Q3">
     <cml:radio label="Favorable" value="1" />
     <cml:radio label="Unfavorable" value="-1" />
     <cml:radio label="Neutral" value="0" /> 
   </cml:radios>
 
-  <cml:radios label="I find this article trustworthy." validates="required" gold="true" name="Q4">
+  <cml:radios label="I find this article trustworthy." validates="required" gold="false" name="Q4">
     <cml:radio label="Strongly Agree" value="2" />
     <cml:radio label="Agree" value="1" />
     <cml:radio label="Neutral" value="0" /> 
@@ -74,6 +75,7 @@
     <cml:radio label="Strongly Disagree" value="-2" />  
   </cml:radios>
 
+  <br><br>
 
   <span>
     <h1>{{title_3}}</h1>
@@ -85,13 +87,13 @@
     <p>{{body_3}}</p>
   </span>
 
-  <cml:radios label="This article is generally ___ towards {{candidate_3}}." validates="required" gold="true" name="Q5">
+  <cml:radios label="This article is generally ______ towards {{candidate_3}}." validates="required" gold="false" name="Q5">
     <cml:radio label="Favorable" value="1" />
     <cml:radio label="Unfavorable" value="-1" />
     <cml:radio label="Neutral" value="0" /> 
   </cml:radios>
 
-  <cml:radios label="I find this article trustworthy." validates="required" gold="true" name="Q6">
+  <cml:radios label="I find this article trustworthy." validates="required" gold="false" name="Q6">
     <cml:radio label="Strongly Agree" value="2" />
     <cml:radio label="Agree" value="1" />
     <cml:radio label="Neutral" value="0" /> 
@@ -99,6 +101,7 @@
     <cml:radio label="Strongly Disagree" value="-2" />  
   </cml:radios>
 
+  <br><br>
 
   <span>
     <h1>{{title_4}}</h1>
@@ -111,13 +114,13 @@
   </span>
 
 
-  <cml:radios label="This article is generally ___ towards {{candidate_4}}." validates="required" gold="true" name="Q7">
+  <cml:radios label="This article is generally ______ towards {{candidate_4}}." validates="required" gold="false" name="Q7">
     <cml:radio label="Favorable" value="1" />
     <cml:radio label="Unfavorable" value="-1" />
     <cml:radio label="Neutral" value="0" /> 
   </cml:radios>
 
-  <cml:radios label="I find this article trustworthy." validates="required" gold="true" name="Q8">
+  <cml:radios label="I find this article trustworthy." validates="required" gold="false" name="Q8">
     <cml:radio label="Strongly Agree" value="2" />
     <cml:radio label="Agree" value="1" />
     <cml:radio label="Neutral" value="0" /> 
@@ -125,6 +128,8 @@
     <cml:radio label="Strongly Disagree" value="-2" />  
   </cml:radios>
 
+  <br><br>
+  
   <span>
     <h1>{{title_5}}</h1>
   </span>
@@ -135,13 +140,13 @@
     <p>{{body_5}}</p>
   </span>
 
-  <cml:radios label="This article is generally ___ towards {{candidate_5}}." validates="required" gold="true" name="Q9">
+  <cml:radios label="This article is generally ______ towards {{candidate_5}}." validates="required" gold="false" name="Q9">
     <cml:radio label="Favorable" value="1" />
     <cml:radio label="Unfavorable" value="-1" />
     <cml:radio label="Neutral" value="0" /> 
   </cml:radios>
 
-  <cml:radios label="I find this article trustworthy." validates="required" gold="true" name="Q10">
+  <cml:radios label="I find this article trustworthy." validates="required" gold="false" name="Q10">
     <cml:radio label="Strongly Agree" value="2" />
     <cml:radio label="Agree" value="1" />
     <cml:radio label="Neutral" value="0" /> 
@@ -149,6 +154,31 @@
     <cml:radio label="Strongly Disagree" value="-2" />  
   </cml:radios>
 
-
-
 </div> 
+
+<cml:radios label="What is your gender?" validates="required" gold="false">
+  <cml:radio label="Male" value="male" />
+  <cml:radio label="Female" value="female" />
+  <cml:radio label="Other" value="other" />
+</cml:radios>
+<cml:radios label="What is your age?" validates="required" gold="false">
+  <cml:radio label="18-29" value="1829" />
+  <cml:radio label="30-49" value="3049" />
+  <cml:radio label="50-64" value="5064" />
+  <cml:radio label="64+" value="64" />
+</cml:radios>
+<cml:radios label="What is your political party affiliation?" validates="required" gold="false">
+  <cml:radio label="Democrat" value="democrat" />
+  <cml:radio label="Republican" value="republican" />
+  <cml:radio label="Independent/Other" value="independent_other" />
+  <cml:radio label="No Affiliation" value="no_affiliation" />
+</cml:radios>
+<cml:radios label="If the election were tomorrow, I would vote for…" validates="required" gold="false">
+  <cml:radio label="Hillary Clinton" value="hillary_clinton" />
+  <cml:radio label="Bernie Sanders" value="bernie_sanders" />
+  <cml:radio label="Donald Trump" value="donald_trump" />
+  <cml:radio label="Ted Cruz" value="ted_cruz" />
+  <cml:radio label="John Kasich" value="john_kasich" />
+  <cml:radio label="Other" value="other" />
+  <cml:radio label="Might not vote" value="might_not_vote" />
+</cml:radios>
