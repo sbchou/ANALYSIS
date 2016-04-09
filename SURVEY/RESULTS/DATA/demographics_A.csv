@@ -1,0 +1,73 @@
+_country,_region,_city,g1,g2,if_the_election_were_tomorrow_i_would_vote_for,what_is_your_age,what_is_your_gender,what_is_your_political_party_affiliation
+USA,CA,Saratoga,1,1,hillary_clinton,1829,male,democrat
+USA,MS,Madison,1,1,donald_trump,1829,male,republican
+USA,NY,New York,1,1,hillary_clinton,1829,male,democrat
+USA,CA,San Jose,1,1,donald_trump,1829,male,republican
+USA,CA,San Jose,1,1,donald_trump,1829,female,republican
+USA,GA,Atlanta,1,2,hillary_clinton,1829,male,democrat
+USA,TX,Dallas,1,1,ted_cruz,1829,male,republican
+USA,WI,Schofield,1,0,donald_trump,1829,female,independent_other
+USA,KY,Ashland,1,0,bernie_sanders,3049,male,democrat
+USA,IL,Dekalb,1,2,might_not_vote,1829,male,independent_other
+USA,KS,Emporia,1,0,might_not_vote,1829,female,no_affiliation
+USA,DE,,0,2,bernie_sanders,3049,female,independent_other
+USA,CO,Denver,1,1,hillary_clinton,5064,female,independent_other
+USA,NY,New York,1,2,hillary_clinton,1829,female,independent_other
+USA,NE,Papillion,1,0,ted_cruz,1829,female,republican
+USA,NV,Las Vegas,0,1,hillary_clinton,3049,male,democrat
+USA,TN,Knoxville,1,-2,ted_cruz,3049,female,republican
+USA,NC,Jacksonville,1,-2,ted_cruz,3049,female,independent_other
+USA,OH,Columbus,-1,1,other,1829,female,democrat
+USA,MI,Kalamazoo,1,1,might_not_vote,3049,female,democrat
+USA,CA,Los Angeles,1,0,other,3049,male,no_affiliation
+USA,CA,San Jose,1,0,hillary_clinton,1829,male,independent_other
+USA,CA,San Jose,-1,-1,donald_trump,1829,male,republican
+USA,IN,Warsaw,1,1,hillary_clinton,5064,female,democrat
+USA,TX,El Paso,1,0,john_kasich,3049,male,republican
+USA,GA,Atlanta,1,0,hillary_clinton,5064,male,no_affiliation
+USA,TX,Katy,1,1,ted_cruz,3049,female,republican
+USA,MA,Taunton,1,1,bernie_sanders,5064,female,democrat
+USA,IL,Vernon Hills,1,0,hillary_clinton,3049,female,democrat
+USA,NY,Middletown,1,1,bernie_sanders,3049,male,democrat
+USA,GA,Atlanta,0,0,ted_cruz,3049,male,no_affiliation
+USA,NY,Utica,1,1,might_not_vote,3049,female,republican
+USA,NJ,Mount Laurel,1,0,donald_trump,64,male,independent_other
+USA,NY,Rochester,1,0,bernie_sanders,1829,male,democrat
+USA,NJ,Toms River,1,1,donald_trump,3049,male,independent_other
+USA,OH,Mansfield,1,1,hillary_clinton,3049,female,democrat
+USA,CA,Berkeley,1,0,bernie_sanders,3049,female,democrat
+USA,TX,Dallas,1,2,donald_trump,1829,male,republican
+USA,NJ,Bergenfield,1,0,hillary_clinton,3049,female,democrat
+USA,WA,Renton,1,1,bernie_sanders,3049,male,no_affiliation
+USA,NY,Potsdam,1,2,bernie_sanders,1829,female,democrat
+USA,AE,Apo,1,2,bernie_sanders,1829,male,independent_other
+USA,NC,Tabor City,1,1,bernie_sanders,3049,female,independent_other
+USA,MI,Grand Haven,1,2,john_kasich,5064,female,independent_other
+USA,CA,San Jose,1,2,hillary_clinton,1829,female,democrat
+USA,TX,Dallas,1,1,donald_trump,1829,female,republican
+USA,NY,New York,0,1,other,1829,male,independent_other
+USA,CT,Hartford,1,0,hillary_clinton,1829,male,democrat
+USA,AE,Apo,1,2,donald_trump,1829,male,democrat
+USA,IN,Evansville,1,-1,ted_cruz,64,female,independent_other
+USA,CA,San Jose,1,1,ted_cruz,3049,male,republican
+USA,IN,Noblesville,1,0,john_kasich,5064,male,republican
+USA,MI,Battle Creek,1,1,hillary_clinton,5064,female,democrat
+USA,KY,Owensboro,1,1,bernie_sanders,3049,female,independent_other
+USA,WI,Manitowoc,1,2,might_not_vote,1829,female,democrat
+USA,DE,Newark,1,0,bernie_sanders,1829,male,independent_other
+USA,NJ,South Bound Brook,1,-2,donald_trump,3049,female,independent_other
+USA,CA,San Jose,1,-1,hillary_clinton,3049,male,democrat
+USA,NC,Charlotte,1,1,bernie_sanders,1829,male,no_affiliation
+USA,CA,San Jose,1,2,bernie_sanders,1829,male,independent_other
+USA,VA,Martinsville,1,0,might_not_vote,3049,female,democrat
+USA,NY,Rochester,-1,1,hillary_clinton,1829,male,democrat
+USA,CA,San Jose,1,0,hillary_clinton,3049,male,democrat
+USA,CA,San Jose,1,0,hillary_clinton,1829,female,democrat
+USA,IN,Indianapolis,1,1,ted_cruz,3049,male,republican
+USA,MA,Boston,1,1,bernie_sanders,3049,female,democrat
+USA,CA,San Jose,-1,1,donald_trump,1829,male,republican
+USA,AL,Birmingham,1,0,hillary_clinton,3049,female,no_affiliation
+USA,OK,Edmond,1,1,bernie_sanders,1829,female,democrat
+USA,UT,Providence,0,1,bernie_sanders,1829,male,republican
+USA,WV,Martinsburg,1,-1,bernie_sanders,1829,male,democrat
+USA,TX,Dallas,1,2,might_not_vote,1829,female,democrat
