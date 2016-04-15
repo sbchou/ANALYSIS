@@ -1,0 +1,721 @@
+,worker_id,group,flesch_coded,org,trust_binary
+245,1944668,A,1,CNN,Agree
+248,1944668,A,1,Fox News,Neutral
+247,1944668,A,0,The New York Times,Agree
+249,1944668,A,1,The New York Times,Agree
+246,1944668,A,-1,The Wall Street Journal,Agree
+196,1944668,B,1,CNN,Neutral
+197,1944668,B,0,The New York Times,Agree
+198,1944668,B,-1,The New York Times,Neutral
+199,1944668,B,-1,The New York Times,Agree
+195,1944668,B,0,The Wall Street Journal,Agree
+171,2034278,A,0,The New York Times,Disagree
+173,2034278,A,-1,The New York Times,Neutral
+170,2034278,A,-1,The Wall Street Journal,Neutral
+174,2034278,A,-1,The Wall Street Journal,Agree
+172,2034278,A,1,the Associated Press,Disagree
+340,2034278,B,-1,CNN,Agree
+343,2034278,B,-1,CNN,Agree
+341,2034278,B,-1,The New York Times,Agree
+342,2034278,B,1,The Wall Street Journal,Agree
+344,2034278,B,0,The Wall Street Journal,Agree
+176,6579519,A,0,The New York Times,Neutral
+178,6579519,A,-1,The New York Times,Agree
+175,6579519,A,-1,The Wall Street Journal,Neutral
+179,6579519,A,-1,The Wall Street Journal,Agree
+177,6579519,A,1,the Associated Press,Agree
+227,6579519,B,1,CNN,Agree
+225,6579519,B,1,The New York Times,Agree
+226,6579519,B,-1,The New York Times,Neutral
+229,6579519,B,-1,The New York Times,Agree
+228,6579519,B,-1,The Wall Street Journal,Agree
+88,7333195,A,1,CNN,Neutral
+89,7333195,A,1,CNN,Agree
+87,7333195,A,0,The New York Times,Agree
+85,7333195,A,0,The Wall Street Journal,Agree
+86,7333195,A,-1,The Wall Street Journal,Agree
+78,7333195,B,1,CNN,Disagree
+79,7333195,B,1,CNN,Neutral
+77,7333195,B,0,The New York Times,Agree
+75,7333195,B,-1,The Wall Street Journal,Agree
+76,7333195,B,0,The Wall Street Journal,Agree
+118,7876293,A,0,CNN,Agree
+119,7876293,A,1,CNN,Agree
+116,7876293,A,-1,The New York Times,Agree
+117,7876293,A,-1,The New York Times,Disagree
+115,7876293,A,-1,The Wall Street Journal,Agree
+11,7876293,B,1,CNN,Neutral
+10,7876293,B,0,The New York Times,Agree
+12,7876293,B,-1,The New York Times,Agree
+13,7876293,B,0,The New York Times,Agree
+14,7876293,B,-1,The New York Times,Agree
+255,9383666,A,1,CNN,Agree
+259,9383666,A,0,CNN,Neutral
+256,9383666,A,0,The New York Times,Agree
+258,9383666,A,-1,The New York Times,Disagree
+257,9383666,A,1,the Associated Press,Agree
+279,9383666,B,1,CNN,Disagree
+275,9383666,B,0,The New York Times,Neutral
+276,9383666,B,0,The New York Times,Agree
+277,9383666,B,1,The New York Times,Agree
+278,9383666,B,0,The New York Times,Disagree
+133,9559045,A,0,CNN,Agree
+134,9559045,A,1,Fox News,Agree
+130,9559045,A,-1,The New York Times,Neutral
+131,9559045,A,-1,The Wall Street Journal,Agree
+132,9559045,A,-1,The Wall Street Journal,Agree
+24,9559045,B,1,CNN,Agree
+21,9559045,B,1,Fox News,Agree
+20,9559045,B,0,The New York Times,Agree
+22,9559045,B,0,The New York Times,Agree
+23,9559045,B,-1,The New York Times,Agree
+128,11102360,A,0,CNN,Agree
+129,11102360,A,1,Fox News,Neutral
+125,11102360,A,-1,The New York Times,Agree
+126,11102360,A,-1,The Wall Street Journal,Agree
+127,11102360,A,-1,The Wall Street Journal,Agree
+19,11102360,B,1,CNN,Neutral
+16,11102360,B,1,Fox News,Neutral
+15,11102360,B,0,The New York Times,Neutral
+17,11102360,B,0,The New York Times,Neutral
+18,11102360,B,-1,The New York Times,Neutral
+136,11106820,A,0,CNN,Agree
+137,11106820,A,1,CNN,Agree
+135,11106820,A,-1,The New York Times,Agree
+138,11106820,A,-1,The New York Times,Agree
+139,11106820,A,-1,The New York Times,Agree
+118,11106820,B,0,CNN,Neutral
+119,11106820,B,1,CNN,Neutral
+115,11106820,B,-1,The New York Times,Neutral
+117,11106820,B,-1,The New York Times,Neutral
+116,11106820,B,-1,The Wall Street Journal,Neutral
+301,12009597,A,1,CNN,Agree
+303,12009597,A,1,CNN,Agree
+304,12009597,A,0,CNN,Neutral
+300,12009597,A,-1,The New York Times,Neutral
+302,12009597,A,0,The New York Times,Agree
+237,12009597,B,1,CNN,Agree
+235,12009597,B,1,The New York Times,Neutral
+236,12009597,B,-1,The New York Times,Agree
+239,12009597,B,-1,The New York Times,Neutral
+238,12009597,B,-1,The Wall Street Journal,Neutral
+274,13962932,A,1,CNN,Disagree
+270,13962932,A,1,The New York Times,Agree
+271,13962932,A,0,The New York Times,Disagree
+272,13962932,A,0,The New York Times,Neutral
+273,13962932,A,0,The New York Times,Agree
+70,16468100,A,0,CNN,Agree
+73,16468100,A,0,CNN,Agree
+72,16468100,A,0,Fox News,Agree
+71,16468100,A,-1,The Wall Street Journal,Agree
+74,16468100,A,1,The Wall Street Journal,Neutral
+100,18053528,A,0,CNN,Neutral
+103,18053528,A,1,CNN,Neutral
+104,18053528,A,1,Fox News,Neutral
+101,18053528,A,-1,The New York Times,Neutral
+102,18053528,A,-1,The New York Times,Neutral
+36,18053528,B,1,CNN,Neutral
+37,18053528,B,1,CNN,Neutral
+35,18053528,B,0,The New York Times,Neutral
+39,18053528,B,1,The New York Times,Neutral
+38,18053528,B,0,the Associated Press,Neutral
+83,18386513,A,1,CNN,Agree
+84,18386513,A,1,CNN,Agree
+82,18386513,A,0,The New York Times,Agree
+80,18386513,A,0,The Wall Street Journal,Neutral
+81,18386513,A,-1,The Wall Street Journal,Agree
+83,18386513,B,1,CNN,Agree
+84,18386513,B,1,CNN,Agree
+82,18386513,B,0,The New York Times,Agree
+80,18386513,B,-1,The Wall Street Journal,Agree
+81,18386513,B,0,The Wall Street Journal,Neutral
+279,21017840,A,1,CNN,Neutral
+275,21017840,A,1,The New York Times,Agree
+276,21017840,A,0,The New York Times,Agree
+277,21017840,A,0,The New York Times,Agree
+278,21017840,A,0,The New York Times,Agree
+102,21017840,B,0,CNN,Agree
+103,21017840,B,1,CNN,Agree
+104,21017840,B,1,Fox News,Agree
+100,21017840,B,-1,The New York Times,Agree
+101,21017840,B,-1,The New York Times,Neutral
+260,21088425,A,1,CNN,Agree
+264,21088425,A,0,CNN,Agree
+261,21088425,A,0,The New York Times,Agree
+263,21088425,A,-1,The New York Times,Neutral
+262,21088425,A,1,the Associated Press,Agree
+284,21490602,A,1,CNN,Disagree
+280,21490602,A,1,The New York Times,Neutral
+281,21490602,A,0,The New York Times,Disagree
+282,21490602,A,0,The New York Times,Disagree
+283,21490602,A,0,The New York Times,Neutral
+41,21678835,A,1,CNN,Neutral
+43,21678835,A,1,CNN,Disagree
+42,21678835,A,1,The New York Times,Agree
+44,21678835,A,0,The New York Times,Neutral
+40,21678835,A,0,the Associated Press,Agree
+310,21678835,B,0,CNN,Agree
+311,21678835,B,1,CNN,Neutral
+312,21678835,B,1,CNN,Neutral
+313,21678835,B,-1,The New York Times,Neutral
+314,21678835,B,0,The New York Times,Neutral
+216,22345789,A,-1,CNN,Agree
+219,22345789,A,1,CNN,Agree
+215,22345789,A,-1,The New York Times,Agree
+218,22345789,A,0,The New York Times,Neutral
+217,22345789,A,-1,The Wall Street Journal,Agree
+206,22345789,B,1,CNN,Agree
+207,22345789,B,0,The New York Times,Neutral
+208,22345789,B,-1,The New York Times,Agree
+209,22345789,B,-1,The New York Times,Agree
+205,22345789,B,0,The Wall Street Journal,Agree
+52,23149109,B,0,Fox News,Neutral
+53,23149109,B,1,Fox News,Agree
+50,23149109,B,-1,The New York Times,Neutral
+51,23149109,B,0,The New York Times,Agree
+54,23149109,B,-1,The Wall Street Journal,Agree
+161,24170547,A,1,CNN,Neutral
+164,24170547,A,0,CNN,Agree
+160,24170547,A,1,Fox News,Agree
+162,24170547,A,0,The New York Times,Neutral
+163,24170547,A,0,The New York Times,Neutral
+113,24170547,B,0,CNN,Neutral
+114,24170547,B,1,CNN,Neutral
+110,24170547,B,-1,The New York Times,Neutral
+112,24170547,B,-1,The New York Times,Neutral
+111,24170547,B,-1,The Wall Street Journal,Neutral
+60,25111984,A,0,CNN,Agree
+63,25111984,A,0,CNN,Agree
+62,25111984,A,0,Fox News,Neutral
+61,25111984,A,-1,The Wall Street Journal,Agree
+64,25111984,A,1,The Wall Street Journal,Agree
+151,25111984,B,1,CNN,Neutral
+153,25111984,B,0,CNN,Disagree
+152,25111984,B,1,Fox News,Neutral
+150,25111984,B,0,The New York Times,Neutral
+154,25111984,B,0,The New York Times,Disagree
+176,25501853,B,-1,The New York Times,Agree
+179,25501853,B,0,The New York Times,Neutral
+175,25501853,B,-1,The Wall Street Journal,Neutral
+177,25501853,B,-1,The Wall Street Journal,Agree
+178,25501853,B,1,the Associated Press,Agree
+95,25955589,A,0,CNN,Agree
+98,25955589,A,1,CNN,Neutral
+99,25955589,A,1,Fox News,Neutral
+96,25955589,A,-1,The New York Times,Neutral
+97,25955589,A,-1,The New York Times,Neutral
+66,25955589,B,0,CNN,Agree
+69,25955589,B,0,CNN,Neutral
+68,25955589,B,0,Fox News,Neutral
+65,25955589,B,-1,The Wall Street Journal,Agree
+67,25955589,B,1,The Wall Street Journal,Neutral
+123,27770607,A,0,CNN,Agree
+124,27770607,A,1,Fox News,Agree
+120,27770607,A,-1,The New York Times,Agree
+121,27770607,A,-1,The Wall Street Journal,Agree
+122,27770607,A,-1,The Wall Street Journal,Agree
+318,27770607,B,0,CNN,Agree
+319,27770607,B,1,Fox News,Agree
+315,27770607,B,-1,The New York Times,Agree
+316,27770607,B,0,The New York Times,Agree
+317,27770607,B,-1,The New York Times,Neutral
+51,27914150,A,1,Fox News,Disagree
+53,27914150,A,0,Fox News,Neutral
+52,27914150,A,0,The New York Times,Neutral
+54,27914150,A,-1,The New York Times,Neutral
+50,27914150,A,-1,The Wall Street Journal,Agree
+247,27914150,B,1,CNN,Neutral
+248,27914150,B,1,Fox News,Neutral
+245,27914150,B,0,The New York Times,Disagree
+249,27914150,B,1,The New York Times,Neutral
+246,27914150,B,-1,The Wall Street Journal,Neutral
+8,28081782,A,1,CNN,Disagree
+5,28081782,A,-1,The New York Times,Disagree
+6,28081782,A,0,The New York Times,Neutral
+7,28081782,A,0,The New York Times,Disagree
+9,28081782,A,-1,The New York Times,Neutral
+71,28081782,B,0,CNN,Disagree
+74,28081782,B,0,CNN,Disagree
+73,28081782,B,0,Fox News,Disagree
+70,28081782,B,-1,The Wall Street Journal,Agree
+72,28081782,B,1,The Wall Street Journal,Disagree
+46,29571331,A,1,Fox News,Agree
+48,29571331,A,0,Fox News,Neutral
+47,29571331,A,0,The New York Times,Agree
+49,29571331,A,-1,The New York Times,Neutral
+45,29571331,A,-1,The Wall Street Journal,Agree
+242,29571331,B,1,CNN,Agree
+243,29571331,B,1,Fox News,Agree
+240,29571331,B,0,The New York Times,Agree
+244,29571331,B,1,The New York Times,Neutral
+241,29571331,B,-1,The Wall Street Journal,Agree
+233,29936162,A,1,CNN,Agree
+230,29936162,A,-1,The New York Times,Agree
+231,29936162,A,-1,The New York Times,Agree
+234,29936162,A,1,The New York Times,Agree
+232,29936162,A,-1,The Wall Street Journal,Agree
+295,29936162,B,0,CNN,Neutral
+298,29936162,B,0,CNN,Agree
+299,29936162,B,1,CNN,Agree
+296,29936162,B,1,the Associated Press,Agree
+297,29936162,B,0,the Associated Press,Agree
+328,30285892,A,0,CNN,Neutral
+327,30285892,A,1,Fox News,Agree
+325,30285892,A,-1,The New York Times,Neutral
+326,30285892,A,-1,The New York Times,Agree
+329,30285892,A,0,The New York Times,Agree
+306,30461260,A,1,CNN,Neutral
+308,30461260,A,1,CNN,Disagree
+309,30461260,A,0,CNN,Neutral
+305,30461260,A,-1,The New York Times,Agree
+307,30461260,A,0,The New York Times,Agree
+88,30461260,B,1,CNN,Neutral
+89,30461260,B,1,CNN,Neutral
+87,30461260,B,0,The New York Times,Agree
+85,30461260,B,-1,The Wall Street Journal,Neutral
+86,30461260,B,0,The Wall Street Journal,Agree
+250,30513549,A,1,CNN,Agree
+253,30513549,A,1,Fox News,Agree
+252,30513549,A,0,The New York Times,Agree
+254,30513549,A,1,The New York Times,Agree
+251,30513549,A,-1,The Wall Street Journal,Agree
+161,30513549,B,1,CNN,Agree
+163,30513549,B,0,CNN,Agree
+162,30513549,B,1,Fox News,Agree
+160,30513549,B,0,The New York Times,Agree
+164,30513549,B,0,The New York Times,Agree
+202,31063905,A,1,CNN,Agree
+200,31063905,A,-1,The New York Times,Agree
+201,31063905,A,0,The New York Times,Agree
+204,31063905,A,-1,The New York Times,Agree
+203,31063905,A,0,The Wall Street Journal,Disagree
+146,31063905,B,0,CNN,Agree
+148,31063905,B,1,CNN,Agree
+145,31063905,B,-1,The New York Times,Agree
+147,31063905,B,-1,The New York Times,Agree
+149,31063905,B,-1,The New York Times,Neutral
+146,31906954,A,0,CNN,Agree
+147,31906954,A,1,CNN,Agree
+145,31906954,A,-1,The New York Times,Neutral
+148,31906954,A,-1,The New York Times,Agree
+149,31906954,A,-1,The New York Times,Agree
+353,31906954,B,1,Fox News,Agree
+354,31906954,B,-1,The New York Times,Neutral
+350,31906954,B,0,The Wall Street Journal,Agree
+351,31906954,B,0,The Wall Street Journal,Neutral
+352,31906954,B,0,The Wall Street Journal,Neutral
+41,32055577,B,1,CNN,Agree
+42,32055577,B,1,CNN,Agree
+40,32055577,B,0,The New York Times,Agree
+44,32055577,B,1,The New York Times,Agree
+43,32055577,B,0,the Associated Press,Agree
+13,32424428,A,1,CNN,Neutral
+10,32424428,A,-1,The New York Times,Agree
+11,32424428,A,0,The New York Times,Agree
+12,32424428,A,0,The New York Times,Neutral
+14,32424428,A,-1,The New York Times,Neutral
+181,32424428,B,1,CNN,Neutral
+182,32424428,B,1,CNN,Neutral
+184,32424428,B,0,CNN,Agree
+180,32424428,B,0,The New York Times,Neutral
+183,32424428,B,-1,The New York Times,Neutral
+108,32641084,A,0,CNN,Agree
+109,32641084,A,1,CNN,Agree
+106,32641084,A,-1,The New York Times,Agree
+107,32641084,A,-1,The New York Times,Neutral
+105,32641084,A,-1,The Wall Street Journal,Disagree
+29,32641084,B,1,CNN,Disagree
+26,32641084,B,1,Fox News,Neutral
+25,32641084,B,0,The New York Times,Agree
+27,32641084,B,0,The New York Times,Agree
+28,32641084,B,-1,The New York Times,Neutral
+78,32672123,A,1,CNN,Neutral
+79,32672123,A,1,CNN,Neutral
+77,32672123,A,0,The New York Times,Agree
+75,32672123,A,0,The Wall Street Journal,Agree
+76,32672123,A,-1,The Wall Street Journal,Agree
+232,32672123,B,1,CNN,Agree
+230,32672123,B,1,The New York Times,Neutral
+231,32672123,B,-1,The New York Times,Agree
+234,32672123,B,-1,The New York Times,Agree
+233,32672123,B,-1,The Wall Street Journal,Agree
+156,32916723,A,1,CNN,Neutral
+159,32916723,A,0,CNN,Neutral
+155,32916723,A,1,Fox News,Neutral
+157,32916723,A,0,The New York Times,Agree
+158,32916723,A,0,The New York Times,Agree
+266,32916723,B,1,CNN,Agree
+269,32916723,B,0,CNN,Neutral
+265,32916723,B,-1,The New York Times,Agree
+268,32916723,B,0,The New York Times,Agree
+267,32916723,B,1,the Associated Press,Neutral
+211,33245009,A,-1,CNN,Neutral
+214,33245009,A,1,CNN,Agree
+210,33245009,A,-1,The New York Times,Neutral
+213,33245009,A,0,The New York Times,Agree
+212,33245009,A,-1,The Wall Street Journal,Agree
+348,33245009,B,1,Fox News,Neutral
+349,33245009,B,-1,The New York Times,Neutral
+345,33245009,B,0,The Wall Street Journal,Agree
+346,33245009,B,0,The Wall Street Journal,Neutral
+347,33245009,B,0,The Wall Street Journal,Agree
+90,33280016,A,0,CNN,Agree
+93,33280016,A,1,CNN,Neutral
+94,33280016,A,1,Fox News,Agree
+91,33280016,A,-1,The New York Times,Disagree
+92,33280016,A,-1,The New York Times,Neutral
+108,33280016,B,0,CNN,Agree
+109,33280016,B,1,CNN,Agree
+105,33280016,B,-1,The New York Times,Neutral
+107,33280016,B,-1,The New York Times,Agree
+106,33280016,B,-1,The Wall Street Journal,Disagree
+221,33345368,A,-1,CNN,Neutral
+224,33345368,A,1,CNN,Neutral
+220,33345368,A,-1,The New York Times,Agree
+223,33345368,A,0,The New York Times,Agree
+222,33345368,A,-1,The Wall Street Journal,Neutral
+133,33345368,B,0,CNN,Agree
+134,33345368,B,1,Fox News,Neutral
+131,33345368,B,-1,The New York Times,Neutral
+130,33345368,B,-1,The Wall Street Journal,Agree
+132,33345368,B,-1,The Wall Street Journal,Agree
+256,33427067,B,1,CNN,Neutral
+259,33427067,B,0,CNN,Neutral
+255,33427067,B,-1,The New York Times,Neutral
+258,33427067,B,0,The New York Times,Neutral
+257,33427067,B,1,the Associated Press,Agree
+352,33467170,A,1,Fox News,Agree
+353,33467170,A,-1,The New York Times,Agree
+350,33467170,A,0,The Wall Street Journal,Agree
+351,33467170,A,0,The Wall Street Journal,Agree
+354,33467170,A,0,The Wall Street Journal,Agree
+220,33467170,B,-1,CNN,Agree
+224,33467170,B,1,CNN,Agree
+221,33467170,B,-1,The New York Times,Neutral
+223,33467170,B,0,The New York Times,Neutral
+222,33467170,B,-1,The Wall Street Journal,Neutral
+340,33565158,A,-1,CNN,Agree
+341,33565158,A,-1,CNN,Agree
+342,33565158,A,-1,The New York Times,Agree
+343,33565158,A,0,The Wall Street Journal,Neutral
+344,33565158,A,1,The Wall Street Journal,Agree
+238,33591819,A,1,CNN,Agree
+235,33591819,A,-1,The New York Times,Agree
+236,33591819,A,-1,The New York Times,Neutral
+239,33591819,A,1,The New York Times,Agree
+237,33591819,A,-1,The Wall Street Journal,Agree
+210,33591819,B,-1,CNN,Agree
+214,33591819,B,1,CNN,Agree
+211,33591819,B,-1,The New York Times,Agree
+213,33591819,B,0,The New York Times,Agree
+212,33591819,B,-1,The Wall Street Journal,Agree
+180,33935063,A,1,CNN,Neutral
+181,33935063,A,1,CNN,Neutral
+183,33935063,A,0,CNN,Neutral
+182,33935063,A,-1,The New York Times,Neutral
+184,33935063,A,0,The New York Times,Neutral
+347,34098234,A,1,Fox News,Neutral
+348,34098234,A,-1,The New York Times,Neutral
+345,34098234,A,0,The Wall Street Journal,Neutral
+346,34098234,A,0,The Wall Street Journal,Agree
+349,34098234,A,0,The Wall Street Journal,Disagree
+215,34098234,B,-1,CNN,Neutral
+219,34098234,B,1,CNN,Neutral
+216,34098234,B,-1,The New York Times,Neutral
+218,34098234,B,0,The New York Times,Neutral
+217,34098234,B,-1,The Wall Street Journal,Disagree
+240,34178978,A,1,CNN,Agree
+243,34178978,A,1,Fox News,Agree
+242,34178978,A,0,The New York Times,Agree
+244,34178978,A,1,The New York Times,Agree
+241,34178978,A,-1,The Wall Street Journal,Agree
+191,34178978,B,1,CNN,Agree
+192,34178978,B,1,CNN,Agree
+194,34178978,B,0,CNN,Agree
+190,34178978,B,0,The New York Times,Agree
+193,34178978,B,-1,The New York Times,Agree
+330,34510906,A,-1,CNN,Neutral
+331,34510906,A,-1,CNN,Agree
+332,34510906,A,-1,The New York Times,Agree
+333,34510906,A,0,The Wall Street Journal,Agree
+334,34510906,A,1,The Wall Street Journal,Agree
+6,34510906,B,1,CNN,Neutral
+5,34510906,B,0,The New York Times,Neutral
+7,34510906,B,-1,The New York Times,Neutral
+8,34510906,B,0,The New York Times,Agree
+9,34510906,B,-1,The New York Times,Neutral
+296,34694174,A,0,CNN,Agree
+297,34694174,A,0,CNN,Agree
+299,34694174,A,1,CNN,Agree
+295,34694174,A,1,the Associated Press,Agree
+298,34694174,A,0,the Associated Press,Agree
+128,34694174,B,0,CNN,Agree
+129,34694174,B,1,Fox News,Agree
+126,34694174,B,-1,The New York Times,Agree
+125,34694174,B,-1,The Wall Street Journal,Agree
+127,34694174,B,-1,The Wall Street Journal,Agree
+335,34737109,A,-1,CNN,Agree
+336,34737109,A,-1,CNN,Agree
+337,34737109,A,-1,The New York Times,Neutral
+338,34737109,A,0,The Wall Street Journal,Disagree
+339,34737109,A,1,The Wall Street Journal,Agree
+284,34737109,B,1,CNN,Agree
+280,34737109,B,0,The New York Times,Neutral
+281,34737109,B,0,The New York Times,Agree
+282,34737109,B,1,The New York Times,Agree
+283,34737109,B,0,The New York Times,Agree
+286,34898132,A,0,CNN,Agree
+287,34898132,A,0,CNN,Neutral
+289,34898132,A,1,CNN,Neutral
+285,34898132,A,1,the Associated Press,Neutral
+288,34898132,A,0,the Associated Press,Disagree
+201,34898132,B,1,CNN,Disagree
+202,34898132,B,0,The New York Times,Neutral
+203,34898132,B,-1,The New York Times,Disagree
+204,34898132,B,-1,The New York Times,Neutral
+200,34898132,B,0,The Wall Street Journal,Agree
+28,34938843,A,1,CNN,Agree
+29,34938843,A,1,Fox News,Agree
+25,34938843,A,-1,The New York Times,Agree
+26,34938843,A,0,The New York Times,Agree
+27,34938843,A,0,The New York Times,Agree
+358,34938843,B,1,Fox News,Agree
+359,34938843,B,-1,The New York Times,Agree
+355,34938843,B,0,The Wall Street Journal,Agree
+356,34938843,B,0,The Wall Street Journal,Agree
+357,34938843,B,0,The Wall Street Journal,Agree
+265,35242242,A,1,CNN,Agree
+269,35242242,A,0,CNN,Agree
+266,35242242,A,0,The New York Times,Agree
+268,35242242,A,-1,The New York Times,Agree
+267,35242242,A,1,the Associated Press,Agree
+61,35242242,B,0,CNN,Agree
+64,35242242,B,0,CNN,Agree
+63,35242242,B,0,Fox News,Agree
+60,35242242,B,-1,The Wall Street Journal,Agree
+62,35242242,B,1,The Wall Street Journal,Agree
+323,35408915,A,0,CNN,Agree
+322,35408915,A,1,Fox News,Agree
+320,35408915,A,-1,The New York Times,Agree
+321,35408915,A,-1,The New York Times,Disagree
+324,35408915,A,0,The New York Times,Agree
+186,35408915,B,1,CNN,Neutral
+187,35408915,B,1,CNN,Agree
+189,35408915,B,0,CNN,Neutral
+185,35408915,B,0,The New York Times,Neutral
+188,35408915,B,-1,The New York Times,Neutral
+190,35701460,A,1,CNN,Neutral
+191,35701460,A,1,CNN,Agree
+193,35701460,A,0,CNN,Neutral
+192,35701460,A,-1,The New York Times,Neutral
+194,35701460,A,0,The New York Times,Neutral
+97,35942389,B,0,CNN,Agree
+98,35942389,B,1,CNN,Agree
+99,35942389,B,1,Fox News,Agree
+95,35942389,B,-1,The New York Times,Agree
+96,35942389,B,-1,The New York Times,Agree
+23,35959061,A,1,CNN,Agree
+24,35959061,A,1,Fox News,Agree
+20,35959061,A,-1,The New York Times,Neutral
+21,35959061,A,0,The New York Times,Agree
+22,35959061,A,0,The New York Times,Neutral
+1,35959061,B,1,CNN,Neutral
+0,35959061,B,0,The New York Times,Neutral
+2,35959061,B,-1,The New York Times,Agree
+3,35959061,B,0,The New York Times,Agree
+4,35959061,B,-1,The New York Times,Agree
+141,36187807,A,0,CNN,Neutral
+142,36187807,A,1,CNN,Neutral
+140,36187807,A,-1,The New York Times,Neutral
+143,36187807,A,-1,The New York Times,Neutral
+144,36187807,A,-1,The New York Times,Neutral
+323,36187807,B,0,CNN,Neutral
+324,36187807,B,1,Fox News,Neutral
+320,36187807,B,-1,The New York Times,Neutral
+321,36187807,B,0,The New York Times,Neutral
+322,36187807,B,-1,The New York Times,Neutral
+197,36263705,A,1,CNN,Agree
+195,36263705,A,-1,The New York Times,Neutral
+196,36263705,A,0,The New York Times,Disagree
+199,36263705,A,-1,The New York Times,Disagree
+198,36263705,A,0,The Wall Street Journal,Disagree
+156,36263705,B,1,CNN,Disagree
+158,36263705,B,0,CNN,Disagree
+157,36263705,B,1,Fox News,Disagree
+155,36263705,B,0,The New York Times,Disagree
+159,36263705,B,0,The New York Times,Disagree
+36,36296882,A,1,CNN,Neutral
+38,36296882,A,1,CNN,Neutral
+37,36296882,A,1,The New York Times,Disagree
+39,36296882,A,0,The New York Times,Neutral
+35,36296882,A,0,the Associated Press,Agree
+300,36296882,B,0,CNN,Neutral
+301,36296882,B,1,CNN,Disagree
+302,36296882,B,1,CNN,Neutral
+303,36296882,B,-1,The New York Times,Neutral
+304,36296882,B,0,The New York Times,Neutral
+291,36304114,A,0,CNN,Agree
+292,36304114,A,0,CNN,Agree
+294,36304114,A,1,CNN,Agree
+290,36304114,A,1,the Associated Press,Agree
+293,36304114,A,0,the Associated Press,Agree
+123,36304114,B,0,CNN,Agree
+124,36304114,B,1,Fox News,Agree
+121,36304114,B,-1,The New York Times,Agree
+120,36304114,B,-1,The Wall Street Journal,Agree
+122,36304114,B,-1,The Wall Street Journal,Agree
+171,36304905,B,-1,The New York Times,Agree
+174,36304905,B,0,The New York Times,Disagree
+170,36304905,B,-1,The Wall Street Journal,Agree
+172,36304905,B,-1,The Wall Street Journal,Agree
+173,36304905,B,1,the Associated Press,Neutral
+166,36313064,A,0,The New York Times,Disagree
+168,36313064,A,-1,The New York Times,Neutral
+165,36313064,A,-1,The Wall Street Journal,Disagree
+169,36313064,A,-1,The Wall Street Journal,Disagree
+167,36313064,A,1,the Associated Press,Agree
+335,36313064,B,-1,CNN,Agree
+338,36313064,B,-1,CNN,Neutral
+336,36313064,B,-1,The New York Times,Agree
+337,36313064,B,1,The Wall Street Journal,Agree
+339,36313064,B,0,The Wall Street Journal,Neutral
+318,36354308,A,0,CNN,Disagree
+317,36354308,A,1,Fox News,Agree
+315,36354308,A,-1,The New York Times,Agree
+316,36354308,A,-1,The New York Times,Disagree
+319,36354308,A,0,The New York Times,Neutral
+31,36354308,B,1,CNN,Neutral
+32,36354308,B,1,CNN,Neutral
+30,36354308,B,0,The New York Times,Neutral
+34,36354308,B,1,The New York Times,Agree
+33,36354308,B,0,the Associated Press,Neutral
+113,36461899,A,0,CNN,Neutral
+114,36461899,A,1,CNN,Agree
+111,36461899,A,-1,The New York Times,Neutral
+112,36461899,A,-1,The New York Times,Neutral
+110,36461899,A,-1,The Wall Street Journal,Neutral
+328,36461899,B,0,CNN,Agree
+329,36461899,B,1,Fox News,Agree
+325,36461899,B,-1,The New York Times,Agree
+326,36461899,B,0,The New York Times,Agree
+327,36461899,B,-1,The New York Times,Agree
+65,36517633,A,0,CNN,Agree
+68,36517633,A,0,CNN,Agree
+67,36517633,A,0,Fox News,Agree
+66,36517633,A,-1,The Wall Street Journal,Agree
+69,36517633,A,1,The Wall Street Journal,Agree
+136,36517633,B,0,CNN,Agree
+138,36517633,B,1,CNN,Agree
+135,36517633,B,-1,The New York Times,Agree
+137,36517633,B,-1,The New York Times,Agree
+139,36517633,B,-1,The New York Times,Agree
+151,36603404,A,1,CNN,Agree
+154,36603404,A,0,CNN,Neutral
+150,36603404,A,1,Fox News,Agree
+152,36603404,A,0,The New York Times,Disagree
+153,36603404,A,0,The New York Times,Agree
+274,36603404,B,1,CNN,Disagree
+270,36603404,B,0,The New York Times,Agree
+271,36603404,B,0,The New York Times,Neutral
+272,36603404,B,1,The New York Times,Neutral
+273,36603404,B,0,The New York Times,Disagree
+228,36737825,A,1,CNN,Disagree
+225,36737825,A,-1,The New York Times,Neutral
+226,36737825,A,-1,The New York Times,Agree
+229,36737825,A,1,The New York Times,Neutral
+227,36737825,A,-1,The Wall Street Journal,Neutral
+285,36737825,B,0,CNN,Disagree
+288,36737825,B,0,CNN,Agree
+289,36737825,B,1,CNN,Agree
+286,36737825,B,1,the Associated Press,Neutral
+287,36737825,B,0,the Associated Press,Neutral
+31,36747744,A,1,CNN,Agree
+33,36747744,A,1,CNN,Neutral
+32,36747744,A,1,The New York Times,Agree
+34,36747744,A,0,The New York Times,Agree
+30,36747744,A,0,the Associated Press,Agree
+305,36747744,B,0,CNN,Disagree
+306,36747744,B,1,CNN,Neutral
+307,36747744,B,1,CNN,Neutral
+308,36747744,B,-1,The New York Times,Disagree
+309,36747744,B,0,The New York Times,Agree
+357,36761089,A,1,Fox News,Agree
+358,36761089,A,-1,The New York Times,Agree
+355,36761089,A,0,The Wall Street Journal,Agree
+356,36761089,A,0,The Wall Street Journal,Agree
+359,36761089,A,0,The Wall Street Journal,Agree
+330,36761089,B,-1,CNN,Agree
+333,36761089,B,-1,CNN,Agree
+331,36761089,B,-1,The New York Times,Agree
+332,36761089,B,1,The Wall Street Journal,Agree
+334,36761089,B,0,The Wall Street Journal,Disagree
+185,36807032,A,1,CNN,Agree
+186,36807032,A,1,CNN,Agree
+188,36807032,A,0,CNN,Neutral
+187,36807032,A,-1,The New York Times,Agree
+189,36807032,A,0,The New York Times,Agree
+290,36807032,B,0,CNN,Agree
+293,36807032,B,0,CNN,Neutral
+294,36807032,B,1,CNN,Agree
+291,36807032,B,1,the Associated Press,Agree
+292,36807032,B,0,the Associated Press,Disagree
+3,36858304,A,1,CNN,Agree
+0,36858304,A,-1,The New York Times,Neutral
+1,36858304,A,0,The New York Times,Agree
+2,36858304,A,0,The New York Times,Agree
+4,36858304,A,-1,The New York Times,Agree
+92,36858304,B,0,CNN,Agree
+93,36858304,B,1,CNN,Neutral
+94,36858304,B,1,Fox News,Agree
+90,36858304,B,-1,The New York Times,Neutral
+91,36858304,B,-1,The New York Times,Agree
+207,36871506,A,1,CNN,Agree
+205,36871506,A,-1,The New York Times,Neutral
+206,36871506,A,0,The New York Times,Agree
+209,36871506,A,-1,The New York Times,Agree
+208,36871506,A,0,The Wall Street Journal,Agree
+141,36871506,B,0,CNN,Agree
+143,36871506,B,1,CNN,Agree
+140,36871506,B,-1,The New York Times,Agree
+142,36871506,B,-1,The New York Times,Agree
+144,36871506,B,-1,The New York Times,Agree
+311,36882579,A,1,CNN,Agree
+313,36882579,A,1,CNN,Agree
+314,36882579,A,0,CNN,Agree
+310,36882579,A,-1,The New York Times,Agree
+312,36882579,A,0,The New York Times,Agree
+166,36882579,B,-1,The New York Times,Agree
+169,36882579,B,0,The New York Times,Agree
+165,36882579,B,-1,The Wall Street Journal,Agree
+167,36882579,B,-1,The Wall Street Journal,Neutral
+168,36882579,B,1,the Associated Press,Agree
+47,36917158,B,0,Fox News,Neutral
+48,36917158,B,1,Fox News,Disagree
+45,36917158,B,-1,The New York Times,Neutral
+46,36917158,B,0,The New York Times,Agree
+49,36917158,B,-1,The Wall Street Journal,Neutral
+18,37078496,A,1,CNN,Neutral
+19,37078496,A,1,Fox News,Agree
+15,37078496,A,-1,The New York Times,Agree
+16,37078496,A,0,The New York Times,Neutral
+17,37078496,A,0,The New York Times,Neutral
+261,37078496,B,1,CNN,Agree
+264,37078496,B,0,CNN,Agree
+260,37078496,B,-1,The New York Times,Agree
+263,37078496,B,0,The New York Times,Neutral
+262,37078496,B,1,the Associated Press,Agree
+56,37198978,A,1,Fox News,Disagree
+58,37198978,A,0,Fox News,Agree
+57,37198978,A,0,The New York Times,Disagree
+59,37198978,A,-1,The New York Times,Disagree
+55,37198978,A,-1,The Wall Street Journal,Disagree
+252,37198978,B,1,CNN,Agree
+253,37198978,B,1,Fox News,Agree
+250,37198978,B,0,The New York Times,Agree
+254,37198978,B,1,The New York Times,Disagree
+251,37198978,B,-1,The Wall Street Journal,Disagree
+57,37207829,B,0,Fox News,Neutral
+58,37207829,B,1,Fox News,Neutral
+55,37207829,B,-1,The New York Times,Agree
+56,37207829,B,0,The New York Times,Disagree
+59,37207829,B,-1,The Wall Street Journal,Disagree
