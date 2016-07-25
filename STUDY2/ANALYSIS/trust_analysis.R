@@ -1,6 +1,5 @@
 library(lme4)
 library(lmerTest)
-library(xtable)
 lmm.data <- read.table('../DATA/all_results/flattened_no_title.csv', header=TRUE, sep = ",", quote = "'")
 nrow(lmm.data)
 head(lmm.data)
@@ -27,32 +26,10 @@ lmm.data = cbind(lmm.data, candid.party)
 lmm.data$candid.party <- factor(lmm.data$candid.party, labels=c('democrat','republican')) 
 
 # First: source, party of candidate, complexity
-f1 <- aov(fair ~  is_complex * source* candid.party + Error(worker_id/(is_complex*candid.party)), data=lmm.data)
-summary(f1)
-stargazer(f1)
-
-z1 <- lmer(fair ~ source * candid.party + is_complex + (1|worker_id), lmm.data) # removes three way interaction
-summary(z1)
-#anova(l1, z1)
-#p are not significantly diff
-
-f3 <- lmer(fair~source * candid.party + (1|worker_id), lmm.data)
-# because complexity has no effect on response
-anova(z1, f3) # 0.5206
-
-
-
-l1 <- lmer(fair ~  is_complex * source* candid.party + (1 | worker_id), lmm.data)
+f1 <- aov(trust ~  is_complex * source* party * candid.party + Error(worker_id/(is_complex*candid.party)), data=lmm.data)
+l1 <- lmer(trust ~  is_complex + source * party * candid.party + (1 | worker_id), lmm.data)
 summary(f1)
 summary(l1)
-# not sure why lmer not giving me same answer.
-
-# Test: no error terms
-t1 <- aov(fair ~  is_complex * source* candid.party, data=lmm.data)
-summary(t1)
-t2 <- lmer(fair ~  is_complex * source* candid.party +  (1 ), data=lmm.data)
-summary(t2)
-t3 <- lm(fair ~  is_complex * source* candid.party, data=lmm.data)
 
 # Code disclose / non disclose
 lmm.data$disclose[lmm.data$source == 'None']= "no source"
@@ -60,7 +37,7 @@ lmm.data$disclose[lmm.data$source %in% c('CNN','Fox','AP')]= "show source"
 lmm.data$disclose <- factor(lmm.data$disclose) 
 
 # Just show source or no
-f2 <- aov(fair ~  is_complex * disclose * candid.party + Error(worker_id/(is_complex*candid.party)), data=lmm.data)
+f2 <- aov(trust ~  is_complex * disclose * candid.party + Error(worker_id/(is_complex*candid.party)), data=lmm.data)
 summary(f2)
 
 l2 <- lmer(fair ~   is_complex * disclose  + (1 | worker_id), lmm.data)

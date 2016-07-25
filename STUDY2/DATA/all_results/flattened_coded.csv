@@ -1,0 +1,1281 @@
+worker_id,gender,age,party,voting_for,state,source,candidate,flesch,is_complex,fair,trust
+11896941,female,30-49,democrat,clinton,FL,nooooone,cruz,11.8,1,1,2.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,sanders,14.1,1,1,-1.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,sanders,8.0,0,2,2.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,clinton,7.5,0,2,1.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,trump,11.7,1,2,2.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,cruz,7.9,0,2,2.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,trump,5.8,0,2,2.0
+11896941,female,30-49,democrat,clinton,FL,nooooone,clinton,14.2,1,2,2.0
+3515924,male,50-64,republican,trump,LA,nooooone,cruz,11.8,1,1,1.0
+3515924,male,50-64,republican,trump,LA,nooooone,sanders,14.1,1,1,1.0
+3515924,male,50-64,republican,trump,LA,nooooone,sanders,8.0,0,-2,-2.0
+3515924,male,50-64,republican,trump,LA,nooooone,clinton,7.5,0,-1,-1.0
+3515924,male,50-64,republican,trump,LA,nooooone,trump,11.7,1,-1,-1.0
+3515924,male,50-64,republican,trump,LA,nooooone,cruz,7.9,0,0,0.0
+3515924,male,50-64,republican,trump,LA,nooooone,trump,5.8,0,-1,-1.0
+3515924,male,50-64,republican,trump,LA,nooooone,clinton,14.2,1,1,1.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,cruz,11.8,1,1,1.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,sanders,14.1,1,0,0.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,sanders,8.0,0,2,2.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,clinton,7.5,0,1,0.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,trump,11.7,1,0,1.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,cruz,7.9,0,1,1.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,trump,5.8,0,0,0.0
+34737109,female,30-49,no_affiliation,clinton,AL,nooooone,clinton,14.2,1,1,1.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,cruz,11.8,1,0,-1.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,sanders,14.1,1,1,1.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,sanders,8.0,0,2,2.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,clinton,7.5,0,1,1.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,trump,11.7,1,-1,-1.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,cruz,7.9,0,0,-1.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,trump,5.8,0,0,0.0
+35172683,female,18-29,democrat,clinton,NC,nooooone,clinton,14.2,1,2,2.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,cruz,11.8,1,-1,-1.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,sanders,14.1,1,1,1.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,sanders,8.0,0,1,2.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,clinton,7.5,0,2,2.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,trump,11.7,1,-2,-1.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,cruz,7.9,0,-1,-1.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,trump,5.8,0,0,-1.0
+34430732,female,18-29,democrat,clinton,NY,nooooone,clinton,14.2,1,2,2.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,cruz,11.8,1,1,1.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,sanders,14.1,1,2,2.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,sanders,8.0,0,2,2.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,clinton,7.5,0,1,0.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,trump,11.7,1,0,-1.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,cruz,7.9,0,-1,-1.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,trump,5.8,0,0,0.0
+35120188,male,18-29,democrat,sanders,DE,nooooone,clinton,14.2,1,1,1.0
+19638651,female,50-64,democrat,other,SC,nooooone,cruz,11.8,1,1,1.0
+19638651,female,50-64,democrat,other,SC,nooooone,sanders,14.1,1,1,1.0
+19638651,female,50-64,democrat,other,SC,nooooone,sanders,8.0,0,1,1.0
+19638651,female,50-64,democrat,other,SC,nooooone,clinton,7.5,0,1,0.0
+19638651,female,50-64,democrat,other,SC,nooooone,trump,11.7,1,0,-1.0
+19638651,female,50-64,democrat,other,SC,nooooone,cruz,7.9,0,1,1.0
+19638651,female,50-64,democrat,other,SC,nooooone,trump,5.8,0,1,0.0
+19638651,female,50-64,democrat,other,SC,nooooone,clinton,14.2,1,1,1.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,cruz,11.8,1,1,0.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,sanders,14.1,1,1,0.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,sanders,8.0,0,-1,0.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,clinton,7.5,0,0,0.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,trump,11.7,1,-1,-1.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,cruz,7.9,0,0,0.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,trump,5.8,0,1,0.0
+16573689,female,30-49,independent_other,clinton,MI,nooooone,clinton,14.2,1,1,0.0
+9383666,male,50-64,republican,kasich,IN,nooooone,cruz,11.8,1,1,1.0
+9383666,male,50-64,republican,kasich,IN,nooooone,sanders,14.1,1,1,1.0
+9383666,male,50-64,republican,kasich,IN,nooooone,sanders,8.0,0,1,0.0
+9383666,male,50-64,republican,kasich,IN,nooooone,clinton,7.5,0,0,0.0
+9383666,male,50-64,republican,kasich,IN,nooooone,trump,11.7,1,-1,0.0
+9383666,male,50-64,republican,kasich,IN,nooooone,cruz,7.9,0,1,1.0
+9383666,male,50-64,republican,kasich,IN,nooooone,trump,5.8,0,0,1.0
+9383666,male,50-64,republican,kasich,IN,nooooone,clinton,14.2,1,1,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,cruz,11.8,1,0,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,sanders,14.1,1,2,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,sanders,8.0,0,1,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,clinton,7.5,0,2,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,trump,11.7,1,0,0.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,cruz,7.9,0,1,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,trump,5.8,0,1,1.0
+30398579,female,30-49,independent_other,sanders,MA,nooooone,clinton,14.2,1,1,1.0
+37012492,male,18-29,republican,trump,DE,nooooone,cruz,11.8,1,2,2.0
+37012492,male,18-29,republican,trump,DE,nooooone,sanders,14.1,1,2,2.0
+37012492,male,18-29,republican,trump,DE,nooooone,sanders,8.0,0,1,1.0
+37012492,male,18-29,republican,trump,DE,nooooone,clinton,7.5,0,1,1.0
+37012492,male,18-29,republican,trump,DE,nooooone,trump,11.7,1,2,2.0
+37012492,male,18-29,republican,trump,DE,nooooone,cruz,7.9,0,2,2.0
+37012492,male,18-29,republican,trump,DE,nooooone,trump,5.8,0,1,1.0
+37012492,male,18-29,republican,trump,DE,nooooone,clinton,14.2,1,2,1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,cruz,11.8,1,-1,-1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,sanders,14.1,1,-1,-1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,sanders,8.0,0,1,1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,clinton,7.5,0,1,1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,trump,11.7,1,-1,-1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,cruz,7.9,0,1,1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,trump,5.8,0,1,1.0
+36272463,male,30-49,democrat,clinton,VA,nooooone,clinton,14.2,1,1,1.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,cruz,11.8,1,2,2.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,sanders,14.1,1,2,2.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,sanders,8.0,0,2,2.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,clinton,7.5,0,0,-1.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,trump,11.7,1,1,1.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,cruz,7.9,0,0,-1.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,trump,5.8,0,1,1.0
+18785646,female,30-49,democrat,sanders,NY,nooooone,clinton,14.2,1,0,1.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,cruz,11.8,1,1,-1.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,sanders,14.1,1,0,0.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,sanders,8.0,0,-1,-1.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,clinton,7.5,0,-2,-2.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,trump,11.7,1,-1,0.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,cruz,7.9,0,0,0.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,trump,5.8,0,1,1.0
+24170547,male,64+,independent_other,trump,NJ,nooooone,clinton,14.2,1,0,-2.0
+36979264,male,18-29,republican,trump,TX,nooooone,cruz,11.8,1,1,2.0
+36979264,male,18-29,republican,trump,TX,nooooone,sanders,14.1,1,-1,0.0
+36979264,male,18-29,republican,trump,TX,nooooone,sanders,8.0,0,0,0.0
+36979264,male,18-29,republican,trump,TX,nooooone,clinton,7.5,0,-1,1.0
+36979264,male,18-29,republican,trump,TX,nooooone,trump,11.7,1,-1,0.0
+36979264,male,18-29,republican,trump,TX,nooooone,cruz,7.9,0,1,1.0
+36979264,male,18-29,republican,trump,TX,nooooone,trump,5.8,0,-1,0.0
+36979264,male,18-29,republican,trump,TX,nooooone,clinton,14.2,1,1,1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,cruz,11.8,1,2,1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,sanders,14.1,1,0,1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,sanders,8.0,0,1,1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,clinton,7.5,0,2,2.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,trump,11.7,1,-1,-1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,cruz,7.9,0,-1,-1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,trump,5.8,0,1,1.0
+36858304,male,18-29,democrat,clinton,CA,nooooone,clinton,14.2,1,2,2.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,cruz,11.8,1,1,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,sanders,14.1,1,2,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,sanders,8.0,0,2,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,clinton,7.5,0,1,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,trump,11.7,1,-1,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,cruz,7.9,0,1,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,trump,5.8,0,0,1.0
+32695853,male,18-29,democrat,sanders,DE,the Associated Press,clinton,14.2,1,1,1.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,cruz,11.8,1,0,0.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,sanders,14.1,1,1,0.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,sanders,8.0,0,0,0.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,clinton,7.5,0,2,1.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,trump,11.7,1,-2,0.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,cruz,7.9,0,-1,1.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,trump,5.8,0,0,-1.0
+34098234,male,18-29,democrat,sanders,UT,the Associated Press,clinton,14.2,1,0,1.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,cruz,11.8,1,1,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,sanders,14.1,1,1,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,sanders,8.0,0,2,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,clinton,7.5,0,1,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,trump,11.7,1,0,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,cruz,7.9,0,0,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,trump,5.8,0,1,2.0
+29363385,male,18-29,democrat,sanders,DE,the Associated Press,clinton,14.2,1,1,2.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,cruz,11.8,1,0,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,sanders,14.1,1,1,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,sanders,8.0,0,2,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,clinton,7.5,0,0,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,trump,11.7,1,1,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,cruz,7.9,0,-1,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,trump,5.8,0,0,1.0
+33435788,male,18-29,democrat,sanders,DE,the Associated Press,clinton,14.2,1,1,1.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,cruz,11.8,1,1,2.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,sanders,14.1,1,1,2.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,sanders,8.0,0,1,2.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,clinton,7.5,0,2,2.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,trump,11.7,1,1,2.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,cruz,7.9,0,1,2.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,trump,5.8,0,0,1.0
+30941227,male,18-29,no_affiliation,sanders,DE,the Associated Press,clinton,14.2,1,1,2.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,cruz,11.8,1,1,1.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,sanders,14.1,1,2,2.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,sanders,8.0,0,0,0.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,clinton,7.5,0,0,-1.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,trump,11.7,1,-1,-1.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,cruz,7.9,0,1,1.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,trump,5.8,0,2,2.0
+33467170,male,18-29,no_affiliation,sanders,WV,the Associated Press,clinton,14.2,1,0,-1.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,cruz,11.8,1,1,1.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,sanders,14.1,1,0,2.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,sanders,8.0,0,1,2.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,clinton,7.5,0,1,1.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,trump,11.7,1,1,2.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,cruz,7.9,0,0,0.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,trump,5.8,0,1,1.0
+36939273,male,18-29,republican,trump,TX,the Associated Press,clinton,14.2,1,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,cruz,11.8,1,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,sanders,14.1,1,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,sanders,8.0,0,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,clinton,7.5,0,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,trump,11.7,1,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,cruz,7.9,0,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,trump,5.8,0,1,1.0
+6579519,female,30-49,democrat,clinton,OH,the Associated Press,clinton,14.2,1,1,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,cruz,11.8,1,1,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,sanders,14.1,1,1,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,sanders,8.0,0,0,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,clinton,7.5,0,1,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,trump,11.7,1,1,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,cruz,7.9,0,1,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,trump,5.8,0,0,1.0
+33018272,male,18-29,democrat,sanders,DE,the Associated Press,clinton,14.2,1,0,1.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,cruz,11.8,1,1,2.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,sanders,14.1,1,1,2.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,sanders,8.0,0,1,2.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,clinton,7.5,0,2,1.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,trump,11.7,1,1,2.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,cruz,7.9,0,1,2.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,trump,5.8,0,1,1.0
+30321275,male,18-29,democrat,sanders,DE,the Associated Press,clinton,14.2,1,1,1.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,cruz,11.8,1,1,2.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,sanders,14.1,1,0,2.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,sanders,8.0,0,0,0.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,clinton,7.5,0,1,2.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,trump,11.7,1,1,2.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,cruz,7.9,0,1,0.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,trump,5.8,0,1,2.0
+32672123,male,30-49,democrat,clinton,CA,the Associated Press,clinton,14.2,1,1,0.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,cruz,11.8,1,1,1.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,sanders,14.1,1,2,2.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,sanders,8.0,0,1,1.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,clinton,7.5,0,1,1.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,trump,11.7,1,1,1.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,cruz,7.9,0,1,1.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,trump,5.8,0,1,2.0
+12009597,female,30-49,democrat,not_voting,VA,the Associated Press,clinton,14.2,1,1,2.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,cruz,11.8,1,1,2.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,sanders,14.1,1,1,2.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,sanders,8.0,0,0,0.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,clinton,7.5,0,2,1.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,trump,11.7,1,-1,1.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,cruz,7.9,0,0,1.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,trump,5.8,0,1,2.0
+25501853,female,30-49,republican,trump,KY,the Associated Press,clinton,14.2,1,2,1.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,cruz,11.8,1,0,0.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,sanders,14.1,1,1,1.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,sanders,8.0,0,2,2.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,clinton,7.5,0,1,1.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,trump,11.7,1,-1,0.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,cruz,7.9,0,0,0.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,trump,5.8,0,0,0.0
+31471893,male,18-29,democrat,sanders,NY,the Associated Press,clinton,14.2,1,1,1.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,cruz,11.8,1,0,-1.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,sanders,14.1,1,1,2.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,sanders,8.0,0,2,2.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,clinton,7.5,0,1,1.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,trump,11.7,1,-1,-1.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,cruz,7.9,0,0,0.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,trump,5.8,0,0,-1.0
+33866252,male,18-29,democrat,sanders,DE,the Associated Press,clinton,14.2,1,1,1.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,cruz,11.8,1,0,2.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,sanders,14.1,1,2,2.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,sanders,8.0,0,2,1.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,clinton,7.5,0,-1,1.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,trump,11.7,1,1,1.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,cruz,7.9,0,2,1.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,trump,5.8,0,2,0.0
+36660151,female,30-49,no_affiliation,other,CA,the Associated Press,clinton,14.2,1,2,1.0
+36761089,female,18-29,democrat,clinton,TX,CNN,cruz,11.8,1,1,2.0
+36761089,female,18-29,democrat,clinton,TX,CNN,sanders,14.1,1,1,2.0
+36761089,female,18-29,democrat,clinton,TX,CNN,sanders,8.0,0,-1,2.0
+36761089,female,18-29,democrat,clinton,TX,CNN,clinton,7.5,0,1,2.0
+36761089,female,18-29,democrat,clinton,TX,CNN,trump,11.7,1,2,2.0
+36761089,female,18-29,democrat,clinton,TX,CNN,cruz,7.9,0,0,1.0
+36761089,female,18-29,democrat,clinton,TX,CNN,trump,5.8,0,0,0.0
+36761089,female,18-29,democrat,clinton,TX,CNN,clinton,14.2,1,2,2.0
+36807032,male,18-29,republican,cruz,TX,CNN,cruz,11.8,1,1,2.0
+36807032,male,18-29,republican,cruz,TX,CNN,sanders,14.1,1,1,0.0
+36807032,male,18-29,republican,cruz,TX,CNN,sanders,8.0,0,2,2.0
+36807032,male,18-29,republican,cruz,TX,CNN,clinton,7.5,0,1,0.0
+36807032,male,18-29,republican,cruz,TX,CNN,trump,11.7,1,-1,1.0
+36807032,male,18-29,republican,cruz,TX,CNN,cruz,7.9,0,1,0.0
+36807032,male,18-29,republican,cruz,TX,CNN,trump,5.8,0,-1,0.0
+36807032,male,18-29,republican,cruz,TX,CNN,clinton,14.2,1,2,2.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,cruz,11.8,1,0,0.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,sanders,14.1,1,1,1.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,sanders,8.0,0,1,1.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,clinton,7.5,0,1,0.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,trump,11.7,1,0,0.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,cruz,7.9,0,1,1.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,trump,5.8,0,0,0.0
+32916723,female,30-49,no_affiliation,not_voting,NY,CNN,clinton,14.2,1,1,1.0
+2244758,female,50-64,republican,trump,NC,CNN,cruz,11.8,1,1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,sanders,14.1,1,1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,sanders,8.0,0,-1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,clinton,7.5,0,-1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,trump,11.7,1,1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,cruz,7.9,0,1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,trump,5.8,0,-1,0.0
+2244758,female,50-64,republican,trump,NC,CNN,clinton,14.2,1,-1,0.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,cruz,11.8,1,1,1.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,sanders,14.1,1,2,2.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,sanders,8.0,0,-1,-1.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,clinton,7.5,0,0,0.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,trump,11.7,1,1,1.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,cruz,7.9,0,1,2.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,trump,5.8,0,1,0.0
+23149109,male,30-49,independent_other,sanders,NC,CNN,clinton,14.2,1,1,1.0
+37356781,other,50-64,democrat,clinton,DE,CNN,cruz,11.8,1,-1,-1.0
+37356781,other,50-64,democrat,clinton,DE,CNN,sanders,14.1,1,-1,0.0
+37356781,other,50-64,democrat,clinton,DE,CNN,sanders,8.0,0,2,-2.0
+37356781,other,50-64,democrat,clinton,DE,CNN,clinton,7.5,0,-2,0.0
+37356781,other,50-64,democrat,clinton,DE,CNN,trump,11.7,1,-2,0.0
+37356781,other,50-64,democrat,clinton,DE,CNN,cruz,7.9,0,2,2.0
+37356781,other,50-64,democrat,clinton,DE,CNN,trump,5.8,0,2,-1.0
+37356781,other,50-64,democrat,clinton,DE,CNN,clinton,14.2,1,1,-1.0
+35818768,male,30-49,democrat,sanders,VA,CNN,cruz,11.8,1,2,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,sanders,14.1,1,2,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,sanders,8.0,0,2,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,clinton,7.5,0,1,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,trump,11.7,1,1,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,cruz,7.9,0,2,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,trump,5.8,0,-1,2.0
+35818768,male,30-49,democrat,sanders,VA,CNN,clinton,14.2,1,2,2.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,cruz,11.8,1,0,-1.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,sanders,14.1,1,1,0.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,sanders,8.0,0,0,-1.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,clinton,7.5,0,1,0.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,trump,11.7,1,0,0.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,cruz,7.9,0,0,0.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,trump,5.8,0,1,1.0
+3696575,female,30-49,democrat,not_voting,MS,CNN,clinton,14.2,1,1,1.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,cruz,11.8,1,1,0.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,sanders,14.1,1,1,0.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,sanders,8.0,0,1,1.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,clinton,7.5,0,0,0.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,trump,11.7,1,0,1.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,cruz,7.9,0,1,0.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,trump,5.8,0,1,0.0
+13277529,female,30-49,independent_other,cruz,TX,CNN,clinton,14.2,1,1,0.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,cruz,11.8,1,1,1.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,sanders,14.1,1,1,0.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,sanders,8.0,0,1,0.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,clinton,7.5,0,1,-1.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,trump,11.7,1,1,2.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,cruz,7.9,0,2,0.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,trump,5.8,0,0,-1.0
+36917158,female,18-29,no_affiliation,clinton,OH,CNN,clinton,14.2,1,0,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,cruz,11.8,1,1,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,sanders,14.1,1,1,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,sanders,8.0,0,1,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,clinton,7.5,0,1,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,trump,11.7,1,1,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,cruz,7.9,0,1,1.0
+10319610,female,30-49,democrat,sanders,OH,CNN,trump,5.8,0,1,0.0
+10319610,female,30-49,democrat,sanders,OH,CNN,clinton,14.2,1,1,1.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,cruz,11.8,1,1,1.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,sanders,14.1,1,2,1.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,sanders,8.0,0,0,-1.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,clinton,7.5,0,0,1.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,trump,11.7,1,0,0.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,cruz,7.9,0,1,0.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,trump,5.8,0,1,0.0
+36304905,female,18-29,independent_other,clinton,OH,CNN,clinton,14.2,1,1,-1.0
+33357546,male,18-29,republican,clinton,VA,CNN,cruz,11.8,1,2,2.0
+33357546,male,18-29,republican,clinton,VA,CNN,sanders,14.1,1,1,1.0
+33357546,male,18-29,republican,clinton,VA,CNN,sanders,8.0,0,1,1.0
+33357546,male,18-29,republican,clinton,VA,CNN,clinton,7.5,0,1,1.0
+33357546,male,18-29,republican,clinton,VA,CNN,trump,11.7,1,1,1.0
+33357546,male,18-29,republican,clinton,VA,CNN,cruz,7.9,0,1,1.0
+33357546,male,18-29,republican,clinton,VA,CNN,trump,5.8,0,1,1.0
+33357546,male,18-29,republican,clinton,VA,CNN,clinton,14.2,1,1,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,cruz,11.8,1,0,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,sanders,14.1,1,1,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,sanders,8.0,0,0,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,clinton,7.5,0,1,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,trump,11.7,1,0,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,cruz,7.9,0,-1,0.0
+6340330,female,50-64,democrat,trump,NY,CNN,trump,5.8,0,1,1.0
+6340330,female,50-64,democrat,trump,NY,CNN,clinton,14.2,1,1,1.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,cruz,11.8,1,1,2.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,sanders,14.1,1,2,1.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,sanders,8.0,0,1,1.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,clinton,7.5,0,2,2.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,trump,11.7,1,1,0.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,cruz,7.9,0,1,1.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,trump,5.8,0,1,1.0
+22345789,female,50-64,independent_other,kasich,MI,CNN,clinton,14.2,1,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,cruz,11.8,1,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,sanders,14.1,1,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,sanders,8.0,0,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,clinton,7.5,0,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,trump,11.7,1,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,cruz,7.9,0,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,trump,5.8,0,1,1.0
+32953604,female,30-49,democrat,clinton,NY,CNN,clinton,14.2,1,1,1.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,cruz,11.8,1,1,1.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,sanders,14.1,1,1,0.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,sanders,8.0,0,0,2.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,clinton,7.5,0,2,1.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,trump,11.7,1,-1,1.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,cruz,7.9,0,1,1.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,trump,5.8,0,-1,1.0
+36624282,male,30-49,no_affiliation,not_voting,NY,Fox News,clinton,14.2,1,0,0.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,cruz,11.8,1,0,0.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,sanders,14.1,1,1,1.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,sanders,8.0,0,1,1.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,clinton,7.5,0,0,0.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,trump,11.7,1,1,0.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,cruz,7.9,0,-1,-1.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,trump,5.8,0,1,1.0
+34470383,male,18-29,no_affiliation,not_voting,CA,Fox News,clinton,14.2,1,0,0.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,cruz,11.8,1,0,0.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,sanders,14.1,1,1,0.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,sanders,8.0,0,1,1.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,clinton,7.5,0,0,-1.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,trump,11.7,1,0,-1.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,cruz,7.9,0,0,0.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,trump,5.8,0,2,1.0
+35685724,male,18-29,no_affiliation,not_voting,DE,Fox News,clinton,14.2,1,1,1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,cruz,11.8,1,1,1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,sanders,14.1,1,1,1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,sanders,8.0,0,1,1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,clinton,7.5,0,1,1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,trump,11.7,1,0,-1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,cruz,7.9,0,1,0.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,trump,5.8,0,-1,-1.0
+36620182,male,18-29,no_affiliation,clinton,NY,Fox News,clinton,14.2,1,1,1.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,cruz,11.8,1,1,1.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,sanders,14.1,1,0,0.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,sanders,8.0,0,0,0.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,clinton,7.5,0,0,1.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,trump,11.7,1,1,1.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,cruz,7.9,0,0,0.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,trump,5.8,0,1,0.0
+35242242,female,30-49,independent_other,sanders,KY,Fox News,clinton,14.2,1,1,1.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,cruz,11.8,1,0,0.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,sanders,14.1,1,0,0.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,sanders,8.0,0,0,-1.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,clinton,7.5,0,0,0.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,trump,11.7,1,0,0.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,cruz,7.9,0,0,0.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,trump,5.8,0,0,-1.0
+31680072,female,18-29,democrat,sanders,CA,Fox News,clinton,14.2,1,0,0.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,cruz,11.8,1,1,1.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,sanders,14.1,1,0,1.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,sanders,8.0,0,1,1.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,clinton,7.5,0,2,1.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,trump,11.7,1,0,0.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,cruz,7.9,0,-1,0.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,trump,5.8,0,1,1.0
+20512953,female,30-49,democrat,clinton,CA,Fox News,clinton,14.2,1,0,1.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,cruz,11.8,1,-1,0.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,sanders,14.1,1,-1,-1.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,sanders,8.0,0,-2,-1.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,clinton,7.5,0,1,0.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,trump,11.7,1,0,0.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,cruz,7.9,0,-1,-1.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,trump,5.8,0,1,0.0
+35920592,male,18-29,democrat,clinton,NY,Fox News,clinton,14.2,1,1,1.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,cruz,11.8,1,1,0.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,sanders,14.1,1,1,1.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,sanders,8.0,0,-1,-1.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,clinton,7.5,0,1,1.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,trump,11.7,1,1,1.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,cruz,7.9,0,0,0.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,trump,5.8,0,1,0.0
+26643631,female,30-49,independent_other,sanders,CA,Fox News,clinton,14.2,1,1,0.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,cruz,11.8,1,-1,0.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,sanders,14.1,1,-1,0.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,sanders,8.0,0,-1,0.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,clinton,7.5,0,1,1.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,trump,11.7,1,-1,-1.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,cruz,7.9,0,-1,0.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,trump,5.8,0,-1,0.0
+35921003,male,18-29,democrat,clinton,NY,Fox News,clinton,14.2,1,1,0.0
+9559045,female,30-49,republican,cruz,TX,Fox News,cruz,11.8,1,1,1.0
+9559045,female,30-49,republican,cruz,TX,Fox News,sanders,14.1,1,1,1.0
+9559045,female,30-49,republican,cruz,TX,Fox News,sanders,8.0,0,0,0.0
+9559045,female,30-49,republican,cruz,TX,Fox News,clinton,7.5,0,0,0.0
+9559045,female,30-49,republican,cruz,TX,Fox News,trump,11.7,1,0,0.0
+9559045,female,30-49,republican,cruz,TX,Fox News,cruz,7.9,0,1,1.0
+9559045,female,30-49,republican,cruz,TX,Fox News,trump,5.8,0,0,0.0
+9559045,female,30-49,republican,cruz,TX,Fox News,clinton,14.2,1,0,0.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,cruz,11.8,1,1,0.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,sanders,14.1,1,-1,0.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,sanders,8.0,0,0,0.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,clinton,7.5,0,-1,1.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,trump,11.7,1,-1,0.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,cruz,7.9,0,1,1.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,trump,5.8,0,0,1.0
+36620760,male,18-29,no_affiliation,not_voting,NY,Fox News,clinton,14.2,1,1,1.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,cruz,11.8,1,1,1.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,sanders,14.1,1,0,1.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,sanders,8.0,0,0,-1.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,clinton,7.5,0,-1,0.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,trump,11.7,1,1,0.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,cruz,7.9,0,-1,0.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,trump,5.8,0,0,-1.0
+36620420,male,18-29,no_affiliation,not_voting,NY,Fox News,clinton,14.2,1,1,1.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,cruz,11.8,1,1,2.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,sanders,14.1,1,1,2.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,sanders,8.0,0,-1,0.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,clinton,7.5,0,0,0.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,trump,11.7,1,1,1.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,cruz,7.9,0,1,2.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,trump,5.8,0,1,1.0
+21088425,female,50-64,democrat,clinton,MI,Fox News,clinton,14.2,1,1,1.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,cruz,11.8,1,-1,-1.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,sanders,14.1,1,-1,-1.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,sanders,8.0,0,0,0.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,clinton,7.5,0,0,1.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,trump,11.7,1,1,0.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,cruz,7.9,0,-1,0.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,trump,5.8,0,0,0.0
+36620711,male,18-29,no_affiliation,clinton,NY,Fox News,clinton,14.2,1,1,-1.0
+27770607,male,30-49,republican,kasich,TX,Fox News,cruz,11.8,1,2,2.0
+27770607,male,30-49,republican,kasich,TX,Fox News,sanders,14.1,1,1,2.0
+27770607,male,30-49,republican,kasich,TX,Fox News,sanders,8.0,0,1,2.0
+27770607,male,30-49,republican,kasich,TX,Fox News,clinton,7.5,0,1,1.0
+27770607,male,30-49,republican,kasich,TX,Fox News,trump,11.7,1,2,2.0
+27770607,male,30-49,republican,kasich,TX,Fox News,cruz,7.9,0,2,2.0
+27770607,male,30-49,republican,kasich,TX,Fox News,trump,5.8,0,1,1.0
+27770607,male,30-49,republican,kasich,TX,Fox News,clinton,14.2,1,1,2.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,cruz,11.8,1,0,0.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,sanders,14.1,1,1,1.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,sanders,8.0,0,0,-1.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,clinton,7.5,0,0,0.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,trump,11.7,1,1,0.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,cruz,7.9,0,0,1.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,trump,5.8,0,2,2.0
+34726682,male,18-29,no_affiliation,not_voting,VA,nooooone,clinton,14.2,1,0,0.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,cruz,11.8,1,-1,-1.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,sanders,14.1,1,0,0.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,sanders,8.0,0,1,1.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,clinton,7.5,0,1,1.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,trump,11.7,1,1,1.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,cruz,7.9,0,0,-1.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,trump,5.8,0,0,0.0
+1890003,female,30-49,democrat,clinton,NY,nooooone,clinton,14.2,1,0,0.0
+36273935,male,18-29,republican,trump,CA,nooooone,cruz,11.8,1,1,-1.0
+36273935,male,18-29,republican,trump,CA,nooooone,sanders,14.1,1,0,-1.0
+36273935,male,18-29,republican,trump,CA,nooooone,sanders,8.0,0,-1,0.0
+36273935,male,18-29,republican,trump,CA,nooooone,clinton,7.5,0,1,1.0
+36273935,male,18-29,republican,trump,CA,nooooone,trump,11.7,1,1,1.0
+36273935,male,18-29,republican,trump,CA,nooooone,cruz,7.9,0,0,-2.0
+36273935,male,18-29,republican,trump,CA,nooooone,trump,5.8,0,1,1.0
+36273935,male,18-29,republican,trump,CA,nooooone,clinton,14.2,1,0,0.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,cruz,11.8,1,1,1.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,sanders,14.1,1,-1,0.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,sanders,8.0,0,1,1.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,clinton,7.5,0,1,0.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,trump,11.7,1,0,-1.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,cruz,7.9,0,0,-1.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,trump,5.8,0,1,1.0
+35570050,male,18-29,democrat,clinton,CA,nooooone,clinton,14.2,1,0,-1.0
+35607749,male,18-29,republican,trump,CA,nooooone,cruz,11.8,1,1,1.0
+35607749,male,18-29,republican,trump,CA,nooooone,sanders,14.1,1,-1,-1.0
+35607749,male,18-29,republican,trump,CA,nooooone,sanders,8.0,0,-1,-1.0
+35607749,male,18-29,republican,trump,CA,nooooone,clinton,7.5,0,0,0.0
+35607749,male,18-29,republican,trump,CA,nooooone,trump,11.7,1,1,1.0
+35607749,male,18-29,republican,trump,CA,nooooone,cruz,7.9,0,0,-1.0
+35607749,male,18-29,republican,trump,CA,nooooone,trump,5.8,0,-1,-1.0
+35607749,male,18-29,republican,trump,CA,nooooone,clinton,14.2,1,-1,0.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,cruz,11.8,1,0,2.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,sanders,14.1,1,1,0.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,sanders,8.0,0,-1,-1.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,clinton,7.5,0,2,-1.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,trump,11.7,1,-2,-2.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,cruz,7.9,0,-2,1.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,trump,5.8,0,0,1.0
+37368431,male,64+,no_affiliation,kasich,DE,nooooone,clinton,14.2,1,1,-1.0
+36747744,male,18-29,republican,cruz,TX,nooooone,cruz,11.8,1,1,0.0
+36747744,male,18-29,republican,cruz,TX,nooooone,sanders,14.1,1,1,1.0
+36747744,male,18-29,republican,cruz,TX,nooooone,sanders,8.0,0,-1,0.0
+36747744,male,18-29,republican,cruz,TX,nooooone,clinton,7.5,0,1,-1.0
+36747744,male,18-29,republican,cruz,TX,nooooone,trump,11.7,1,1,1.0
+36747744,male,18-29,republican,cruz,TX,nooooone,cruz,7.9,0,2,1.0
+36747744,male,18-29,republican,cruz,TX,nooooone,trump,5.8,0,0,2.0
+36747744,male,18-29,republican,cruz,TX,nooooone,clinton,14.2,1,0,1.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,cruz,11.8,1,1,1.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,sanders,14.1,1,1,1.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,sanders,8.0,0,1,1.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,clinton,7.5,0,1,1.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,trump,11.7,1,1,1.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,cruz,7.9,0,1,0.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,trump,5.8,0,0,0.0
+15445601,female,30-49,democrat,clinton,FL,nooooone,clinton,14.2,1,1,1.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,cruz,11.8,1,0,1.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,sanders,14.1,1,0,0.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,sanders,8.0,0,1,1.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,clinton,7.5,0,0,1.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,trump,11.7,1,0,-1.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,cruz,7.9,0,1,1.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,trump,5.8,0,0,0.0
+36302660,female,18-29,democrat,clinton,CA,nooooone,clinton,14.2,1,1,1.0
+36315427,male,18-29,republican,trump,CA,nooooone,cruz,11.8,1,1,1.0
+36315427,male,18-29,republican,trump,CA,nooooone,sanders,14.1,1,0,-1.0
+36315427,male,18-29,republican,trump,CA,nooooone,sanders,8.0,0,-1,0.0
+36315427,male,18-29,republican,trump,CA,nooooone,clinton,7.5,0,0,1.0
+36315427,male,18-29,republican,trump,CA,nooooone,trump,11.7,1,1,1.0
+36315427,male,18-29,republican,trump,CA,nooooone,cruz,7.9,0,0,1.0
+36315427,male,18-29,republican,trump,CA,nooooone,trump,5.8,0,1,1.0
+36315427,male,18-29,republican,trump,CA,nooooone,clinton,14.2,1,0,0.0
+36321076,male,18-29,republican,cruz,CA,nooooone,cruz,11.8,1,0,1.0
+36321076,male,18-29,republican,cruz,CA,nooooone,sanders,14.1,1,-1,0.0
+36321076,male,18-29,republican,cruz,CA,nooooone,sanders,8.0,0,1,0.0
+36321076,male,18-29,republican,cruz,CA,nooooone,clinton,7.5,0,0,-1.0
+36321076,male,18-29,republican,cruz,CA,nooooone,trump,11.7,1,1,0.0
+36321076,male,18-29,republican,cruz,CA,nooooone,cruz,7.9,0,1,1.0
+36321076,male,18-29,republican,cruz,CA,nooooone,trump,5.8,0,0,-1.0
+36321076,male,18-29,republican,cruz,CA,nooooone,clinton,14.2,1,2,2.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,cruz,11.8,1,1,1.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,sanders,14.1,1,1,1.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,sanders,8.0,0,2,2.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,clinton,7.5,0,1,2.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,trump,11.7,1,1,1.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,cruz,7.9,0,0,1.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,trump,5.8,0,1,1.0
+29210665,male,50-64,democrat,sanders,WI,nooooone,clinton,14.2,1,1,1.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,cruz,11.8,1,1,1.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,sanders,14.1,1,1,1.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,sanders,8.0,0,1,1.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,clinton,7.5,0,0,0.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,trump,11.7,1,-1,0.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,cruz,7.9,0,1,1.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,trump,5.8,0,-1,0.0
+30461260,male,18-29,democrat,sanders,NY,nooooone,clinton,14.2,1,0,1.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,cruz,11.8,1,0,-1.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,sanders,14.1,1,0,-1.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,sanders,8.0,0,1,1.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,clinton,7.5,0,1,1.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,trump,11.7,1,0,0.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,cruz,7.9,0,0,-1.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,trump,5.8,0,1,0.0
+14237967,female,30-49,independent_other,clinton,GA,nooooone,clinton,14.2,1,-1,-1.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,cruz,11.8,1,1,0.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,sanders,14.1,1,2,0.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,sanders,8.0,0,1,1.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,clinton,7.5,0,0,0.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,trump,11.7,1,1,1.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,cruz,7.9,0,1,0.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,trump,5.8,0,0,1.0
+31329809,male,18-29,democrat,sanders,DE,nooooone,clinton,14.2,1,1,1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,cruz,11.8,1,1,0.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,sanders,14.1,1,0,1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,sanders,8.0,0,0,1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,clinton,7.5,0,1,1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,trump,11.7,1,-1,-1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,cruz,7.9,0,1,1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,trump,5.8,0,1,1.0
+21160805,male,50-64,independent_other,trump,FL,nooooone,clinton,14.2,1,0,0.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,cruz,11.8,1,1,1.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,sanders,14.1,1,2,1.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,sanders,8.0,0,1,1.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,clinton,7.5,0,1,0.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,trump,11.7,1,0,1.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,cruz,7.9,0,0,0.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,trump,5.8,0,1,1.0
+5726847,male,30-49,independent_other,clinton,AL,nooooone,clinton,14.2,1,1,1.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,cruz,11.8,1,1,0.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,sanders,14.1,1,1,1.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,sanders,8.0,0,0,0.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,clinton,7.5,0,1,0.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,trump,11.7,1,1,0.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,cruz,7.9,0,0,0.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,trump,5.8,0,1,0.0
+29521896,female,30-49,no_affiliation,trump,IL,nooooone,clinton,14.2,1,1,0.0
+35408915,male,30-49,republican,cruz,IN,nooooone,cruz,11.8,1,1,1.0
+35408915,male,30-49,republican,cruz,IN,nooooone,sanders,14.1,1,0,0.0
+35408915,male,30-49,republican,cruz,IN,nooooone,sanders,8.0,0,-1,-1.0
+35408915,male,30-49,republican,cruz,IN,nooooone,clinton,7.5,0,-1,-1.0
+35408915,male,30-49,republican,cruz,IN,nooooone,trump,11.7,1,-1,-1.0
+35408915,male,30-49,republican,cruz,IN,nooooone,cruz,7.9,0,1,1.0
+35408915,male,30-49,republican,cruz,IN,nooooone,trump,5.8,0,1,1.0
+35408915,male,30-49,republican,cruz,IN,nooooone,clinton,14.2,1,-1,-1.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,cruz,11.8,1,1,1.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,sanders,14.1,1,1,1.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,sanders,8.0,0,1,1.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,clinton,7.5,0,1,1.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,trump,11.7,1,1,2.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,cruz,7.9,0,-1,1.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,trump,5.8,0,1,2.0
+12115558,female,50-64,democrat,clinton,OH,nooooone,clinton,14.2,1,1,1.0
+3682947,female,50-64,republican,cruz,FL,nooooone,cruz,11.8,1,-1,0.0
+3682947,female,50-64,republican,cruz,FL,nooooone,sanders,14.1,1,0,1.0
+3682947,female,50-64,republican,cruz,FL,nooooone,sanders,8.0,0,-2,-1.0
+3682947,female,50-64,republican,cruz,FL,nooooone,clinton,7.5,0,1,1.0
+3682947,female,50-64,republican,cruz,FL,nooooone,trump,11.7,1,1,0.0
+3682947,female,50-64,republican,cruz,FL,nooooone,cruz,7.9,0,-1,0.0
+3682947,female,50-64,republican,cruz,FL,nooooone,trump,5.8,0,1,1.0
+3682947,female,50-64,republican,cruz,FL,nooooone,clinton,14.2,1,0,0.0
+36257704,female,18-29,republican,trump,NY,nooooone,cruz,11.8,1,1,0.0
+36257704,female,18-29,republican,trump,NY,nooooone,sanders,14.1,1,-1,0.0
+36257704,female,18-29,republican,trump,NY,nooooone,sanders,8.0,0,-1,-1.0
+36257704,female,18-29,republican,trump,NY,nooooone,clinton,7.5,0,0,1.0
+36257704,female,18-29,republican,trump,NY,nooooone,trump,11.7,1,1,1.0
+36257704,female,18-29,republican,trump,NY,nooooone,cruz,7.9,0,1,0.0
+36257704,female,18-29,republican,trump,NY,nooooone,trump,5.8,0,1,0.0
+36257704,female,18-29,republican,trump,NY,nooooone,clinton,14.2,1,0,0.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,cruz,11.8,1,-1,0.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,sanders,14.1,1,1,1.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,sanders,8.0,0,1,0.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,clinton,7.5,0,1,1.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,trump,11.7,1,-2,0.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,cruz,7.9,0,-1,0.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,trump,5.8,0,1,0.0
+36267874,male,18-29,democrat,clinton,NY,nooooone,clinton,14.2,1,0,1.0
+36287173,male,18-29,independent_other,trump,NY,nooooone,cruz,11.8,1,1,0.0
+36287173,male,18-29,independent_other,trump,NY,nooooone,sanders,14.1,1,0,0.0
+36287173,male,18-29,independent_other,trump,NY,nooooone,sanders,8.0,0,1,1.0
+36287173,male,18-29,independent_other,trump,NY,nooooone,clinton,7.5,0,-1,0.0
+36287173,male,18-29,independent_other,trump,NY,nooooone,trump,11.7,1,-1,-1.0
+36287173,male,18-29,independent_other,trump,NY,nooooone,cruz,7.9,0,0,
+36287173,male,18-29,independent_other,trump,NY,nooooone,trump,5.8,0,1,
+36287173,male,18-29,independent_other,trump,NY,nooooone,clinton,14.2,1,1,0.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,cruz,11.8,1,0,0.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,sanders,14.1,1,1,1.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,sanders,8.0,0,1,1.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,clinton,7.5,0,0,0.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,trump,11.7,1,0,-1.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,cruz,7.9,0,0,0.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,trump,5.8,0,1,0.0
+21678835,male,30-49,no_affiliation,sanders,KY,the Associated Press,clinton,14.2,1,1,1.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,cruz,11.8,1,1,0.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,sanders,14.1,1,1,0.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,sanders,8.0,0,1,-1.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,clinton,7.5,0,0,0.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,trump,11.7,1,1,0.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,cruz,7.9,0,-1,0.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,trump,5.8,0,-1,0.0
+37159922,male,30-49,no_affiliation,trump,WA,the Associated Press,clinton,14.2,1,1,0.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,cruz,11.8,1,1,1.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,sanders,14.1,1,1,1.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,sanders,8.0,0,2,2.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,clinton,7.5,0,1,1.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,trump,11.7,1,1,1.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,cruz,7.9,0,1,2.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,trump,5.8,0,1,1.0
+11102360,male,50-64,no_affiliation,clinton,GA,the Associated Press,clinton,14.2,1,1,1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,cruz,11.8,1,1,1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,sanders,14.1,1,1,1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,sanders,8.0,0,1,1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,clinton,7.5,0,1,1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,trump,11.7,1,0,-1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,cruz,7.9,0,0,1.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,trump,5.8,0,-1,0.0
+33601893,male,18-29,independent_other,other,PA,the Associated Press,clinton,14.2,1,0,-1.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,cruz,11.8,1,1,2.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,sanders,14.1,1,0,1.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,sanders,8.0,0,-1,-1.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,clinton,7.5,0,1,2.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,trump,11.7,1,2,-2.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,cruz,7.9,0,1,0.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,trump,5.8,0,-1,-1.0
+31436572,male,18-29,democrat,clinton,VA,the Associated Press,clinton,14.2,1,1,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,cruz,11.8,1,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,sanders,14.1,1,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,sanders,8.0,0,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,clinton,7.5,0,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,trump,11.7,1,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,cruz,7.9,0,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,trump,5.8,0,2,2.0
+12537159,female,30-49,democrat,sanders,MI,the Associated Press,clinton,14.2,1,2,2.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,cruz,11.8,1,1,1.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,sanders,14.1,1,1,0.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,sanders,8.0,0,0,-1.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,clinton,7.5,0,1,0.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,trump,11.7,1,0,1.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,cruz,7.9,0,1,1.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,trump,5.8,0,0,-1.0
+37094049,male,18-29,democrat,clinton,CA,the Associated Press,clinton,14.2,1,1,1.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,cruz,11.8,1,0,1.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,sanders,14.1,1,0,1.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,sanders,8.0,0,1,2.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,clinton,7.5,0,1,1.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,trump,11.7,1,0,0.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,cruz,7.9,0,1,0.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,trump,5.8,0,1,0.0
+37012964,female,18-29,no_affiliation,other,CA,the Associated Press,clinton,14.2,1,2,2.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,cruz,11.8,1,2,2.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,sanders,14.1,1,1,0.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,sanders,8.0,0,-1,1.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,clinton,7.5,0,1,1.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,trump,11.7,1,1,1.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,cruz,7.9,0,0,0.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,trump,5.8,0,0,-1.0
+37102649,male,30-49,democrat,clinton,CA,the Associated Press,clinton,14.2,1,1,2.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,cruz,11.8,1,-1,0.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,sanders,14.1,1,1,1.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,sanders,8.0,0,-1,1.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,clinton,7.5,0,0,0.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,trump,11.7,1,0,-1.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,cruz,7.9,0,0,0.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,trump,5.8,0,1,1.0
+33427067,female,30-49,democrat,sanders,MA,the Associated Press,clinton,14.2,1,1,0.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,cruz,11.8,1,1,1.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,sanders,14.1,1,1,1.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,sanders,8.0,0,-1,-2.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,clinton,7.5,0,1,1.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,trump,11.7,1,0,0.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,cruz,7.9,0,1,1.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,trump,5.8,0,1,1.0
+19804662,male,30-49,independent_other,sanders,UT,the Associated Press,clinton,14.2,1,0,0.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,cruz,11.8,1,2,2.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,sanders,14.1,1,-2,0.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,sanders,8.0,0,2,2.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,clinton,7.5,0,-2,-2.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,trump,11.7,1,-2,2.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,cruz,7.9,0,2,2.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,trump,5.8,0,-2,2.0
+30513549,male,30-49,republican,cruz,CA,the Associated Press,clinton,14.2,1,-2,0.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,cruz,11.8,1,1,1.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,sanders,14.1,1,-2,1.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,sanders,8.0,0,-1,2.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,clinton,7.5,0,1,0.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,trump,11.7,1,2,-2.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,cruz,7.9,0,1,-1.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,trump,5.8,0,-2,2.0
+28081782,male,18-29,republican,trump,MS,the Associated Press,clinton,14.2,1,0,0.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,cruz,11.8,1,0,1.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,sanders,14.1,1,-1,-1.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,sanders,8.0,0,2,1.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,clinton,7.5,0,0,1.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,trump,11.7,1,0,0.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,cruz,7.9,0,0,0.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,trump,5.8,0,1,0.0
+35603542,female,18-29,independent_other,clinton,NY,the Associated Press,clinton,14.2,1,-1,-1.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,cruz,11.8,1,1,2.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,sanders,14.1,1,1,2.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,sanders,8.0,0,2,2.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,clinton,7.5,0,2,2.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,trump,11.7,1,0,-1.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,cruz,7.9,0,2,0.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,trump,5.8,0,2,1.0
+34525204,female,18-29,no_affiliation,cruz,NJ,the Associated Press,clinton,14.2,1,-1,-2.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,cruz,11.8,1,0,-1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,sanders,14.1,1,1,1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,sanders,8.0,0,1,1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,clinton,7.5,0,1,1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,trump,11.7,1,-1,1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,cruz,7.9,0,0,-1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,trump,5.8,0,1,1.0
+7876293,female,50-64,democrat,clinton,IN,the Associated Press,clinton,14.2,1,1,1.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,cruz,11.8,1,0,0.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,sanders,14.1,1,0,0.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,sanders,8.0,0,1,1.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,clinton,7.5,0,0,0.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,trump,11.7,1,1,0.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,cruz,7.9,0,0,1.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,trump,5.8,0,1,1.0
+36350388,female,30-49,independent_other,sanders,FL,the Associated Press,clinton,14.2,1,1,0.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,cruz,11.8,1,0,0.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,sanders,14.1,1,1,1.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,sanders,8.0,0,1,0.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,clinton,7.5,0,0,0.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,trump,11.7,1,0,0.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,cruz,7.9,0,0,1.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,trump,5.8,0,0,0.0
+6416927,male,50-64,no_affiliation,sanders,IL,the Associated Press,clinton,14.2,1,0,1.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,cruz,11.8,1,-1,-1.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,sanders,14.1,1,1,1.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,sanders,8.0,0,2,2.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,clinton,7.5,0,0,0.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,trump,11.7,1,2,2.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,cruz,7.9,0,1,0.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,trump,5.8,0,0,2.0
+37007355,female,18-29,democrat,sanders,IL,the Associated Press,clinton,14.2,1,0,-1.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,cruz,11.8,1,1,1.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,sanders,14.1,1,1,1.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,sanders,8.0,0,2,2.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,clinton,7.5,0,1,0.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,trump,11.7,1,2,-1.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,cruz,7.9,0,0,0.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,trump,5.8,0,-1,-2.0
+1495820,female,30-49,democrat,clinton,AL,the Associated Press,clinton,14.2,1,-1,-2.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,cruz,11.8,1,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,sanders,14.1,1,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,sanders,8.0,0,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,clinton,7.5,0,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,trump,11.7,1,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,cruz,7.9,0,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,trump,5.8,0,0,0.0
+20816491,male,30-49,no_affiliation,not_voting,NC,the Associated Press,clinton,14.2,1,0,0.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,cruz,11.8,1,1,0.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,sanders,14.1,1,2,1.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,sanders,8.0,0,1,1.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,clinton,7.5,0,2,2.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,trump,11.7,1,1,1.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,cruz,7.9,0,2,1.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,trump,5.8,0,1,0.0
+36516365,female,30-49,democrat,clinton,CA,the Associated Press,clinton,14.2,1,1,0.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,cruz,11.8,1,1,0.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,sanders,14.1,1,1,1.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,sanders,8.0,0,1,2.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,clinton,7.5,0,1,0.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,trump,11.7,1,0,0.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,cruz,7.9,0,1,-1.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,trump,5.8,0,0,-1.0
+30778523,male,18-29,no_affiliation,sanders,NY,the Associated Press,clinton,14.2,1,1,1.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,cruz,11.8,1,0,1.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,sanders,14.1,1,1,1.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,sanders,8.0,0,1,2.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,clinton,7.5,0,2,2.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,trump,11.7,1,0,0.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,cruz,7.9,0,0,0.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,trump,5.8,0,1,1.0
+33345368,female,18-29,democrat,clinton,CA,the Associated Press,clinton,14.2,1,2,2.0
+35959061,male,18-29,republican,kasich,NY,CNN,cruz,11.8,1,-1,2.0
+35959061,male,18-29,republican,kasich,NY,CNN,sanders,14.1,1,-1,0.0
+35959061,male,18-29,republican,kasich,NY,CNN,sanders,8.0,0,-1,2.0
+35959061,male,18-29,republican,kasich,NY,CNN,clinton,7.5,0,1,-2.0
+35959061,male,18-29,republican,kasich,NY,CNN,trump,11.7,1,0,-1.0
+35959061,male,18-29,republican,kasich,NY,CNN,cruz,7.9,0,2,1.0
+35959061,male,18-29,republican,kasich,NY,CNN,trump,5.8,0,-1,1.0
+35959061,male,18-29,republican,kasich,NY,CNN,clinton,14.2,1,1,-2.0
+24449254,male,30-49,democrat,clinton,OH,CNN,cruz,11.8,1,2,1.0
+24449254,male,30-49,democrat,clinton,OH,CNN,sanders,14.1,1,2,2.0
+24449254,male,30-49,democrat,clinton,OH,CNN,sanders,8.0,0,2,2.0
+24449254,male,30-49,democrat,clinton,OH,CNN,clinton,7.5,0,2,2.0
+24449254,male,30-49,democrat,clinton,OH,CNN,trump,11.7,1,2,1.0
+24449254,male,30-49,democrat,clinton,OH,CNN,cruz,7.9,0,2,1.0
+24449254,male,30-49,democrat,clinton,OH,CNN,trump,5.8,0,2,2.0
+24449254,male,30-49,democrat,clinton,OH,CNN,clinton,14.2,1,2,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,cruz,11.8,1,2,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,sanders,14.1,1,1,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,sanders,8.0,0,2,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,clinton,7.5,0,1,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,trump,11.7,1,1,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,cruz,7.9,0,2,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,trump,5.8,0,2,2.0
+36517633,female,18-29,independent_other,clinton,VA,CNN,clinton,14.2,1,2,2.0
+37081939,male,18-29,independent_other,other,NY,CNN,cruz,11.8,1,1,2.0
+37081939,male,18-29,independent_other,other,NY,CNN,sanders,14.1,1,0,-1.0
+37081939,male,18-29,independent_other,other,NY,CNN,sanders,8.0,0,1,0.0
+37081939,male,18-29,independent_other,other,NY,CNN,clinton,7.5,0,2,0.0
+37081939,male,18-29,independent_other,other,NY,CNN,trump,11.7,1,-2,1.0
+37081939,male,18-29,independent_other,other,NY,CNN,cruz,7.9,0,2,1.0
+37081939,male,18-29,independent_other,other,NY,CNN,trump,5.8,0,-1,0.0
+37081939,male,18-29,independent_other,other,NY,CNN,clinton,14.2,1,2,-1.0
+36769469,female,18-29,democrat,sanders,MO,CNN,cruz,11.8,1,1,2.0
+36769469,female,18-29,democrat,sanders,MO,CNN,sanders,14.1,1,1,1.0
+36769469,female,18-29,democrat,sanders,MO,CNN,sanders,8.0,0,0,1.0
+36769469,female,18-29,democrat,sanders,MO,CNN,clinton,7.5,0,0,0.0
+36769469,female,18-29,democrat,sanders,MO,CNN,trump,11.7,1,1,1.0
+36769469,female,18-29,democrat,sanders,MO,CNN,cruz,7.9,0,1,1.0
+36769469,female,18-29,democrat,sanders,MO,CNN,trump,5.8,0,2,2.0
+36769469,female,18-29,democrat,sanders,MO,CNN,clinton,14.2,1,1,1.0
+33591819,male,18-29,democrat,clinton,GA,CNN,cruz,11.8,1,2,1.0
+33591819,male,18-29,democrat,clinton,GA,CNN,sanders,14.1,1,1,-1.0
+33591819,male,18-29,democrat,clinton,GA,CNN,sanders,8.0,0,1,0.0
+33591819,male,18-29,democrat,clinton,GA,CNN,clinton,7.5,0,2,2.0
+33591819,male,18-29,democrat,clinton,GA,CNN,trump,11.7,1,2,1.0
+33591819,male,18-29,democrat,clinton,GA,CNN,cruz,7.9,0,0,0.0
+33591819,male,18-29,democrat,clinton,GA,CNN,trump,5.8,0,1,1.0
+33591819,male,18-29,democrat,clinton,GA,CNN,clinton,14.2,1,1,1.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,cruz,11.8,1,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,sanders,14.1,1,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,sanders,8.0,0,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,clinton,7.5,0,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,trump,11.7,1,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,cruz,7.9,0,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,trump,5.8,0,0,0.0
+37247004,male,18-29,no_affiliation,trump,DE,CNN,clinton,14.2,1,0,0.0
+33973207,other,30-49,republican,cruz,IL,CNN,cruz,11.8,1,1,1.0
+33973207,other,30-49,republican,cruz,IL,CNN,sanders,14.1,1,1,1.0
+33973207,other,30-49,republican,cruz,IL,CNN,sanders,8.0,0,0,0.0
+33973207,other,30-49,republican,cruz,IL,CNN,clinton,7.5,0,0,0.0
+33973207,other,30-49,republican,cruz,IL,CNN,trump,11.7,1,1,1.0
+33973207,other,30-49,republican,cruz,IL,CNN,cruz,7.9,0,1,1.0
+33973207,other,30-49,republican,cruz,IL,CNN,trump,5.8,0,1,1.0
+33973207,other,30-49,republican,cruz,IL,CNN,clinton,14.2,1,0,0.0
+37285861,male,18-29,republican,sanders,NY,CNN,cruz,11.8,1,0,2.0
+37285861,male,18-29,republican,sanders,NY,CNN,sanders,14.1,1,-1,-2.0
+37285861,male,18-29,republican,sanders,NY,CNN,sanders,8.0,0,0,1.0
+37285861,male,18-29,republican,sanders,NY,CNN,clinton,7.5,0,-2,-1.0
+37285861,male,18-29,republican,sanders,NY,CNN,trump,11.7,1,1,0.0
+37285861,male,18-29,republican,sanders,NY,CNN,cruz,7.9,0,0,-1.0
+37285861,male,18-29,republican,sanders,NY,CNN,trump,5.8,0,2,1.0
+37285861,male,18-29,republican,sanders,NY,CNN,clinton,14.2,1,-1,-2.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,cruz,11.8,1,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,sanders,14.1,1,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,sanders,8.0,0,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,clinton,7.5,0,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,trump,11.7,1,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,cruz,7.9,0,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,trump,5.8,0,0,0.0
+37247044,male,18-29,no_affiliation,clinton,DE,CNN,clinton,14.2,1,0,0.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,cruz,11.8,1,1,1.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,sanders,14.1,1,1,0.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,sanders,8.0,0,1,-1.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,clinton,7.5,0,0,1.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,trump,11.7,1,1,1.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,cruz,7.9,0,2,1.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,trump,5.8,0,1,1.0
+28177344,male,30-49,independent_other,clinton,CA,CNN,clinton,14.2,1,2,1.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,cruz,11.8,1,2,2.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,sanders,14.1,1,1,1.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,sanders,8.0,0,2,2.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,clinton,7.5,0,-1,-1.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,trump,11.7,1,1,1.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,cruz,7.9,0,-1,-1.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,trump,5.8,0,-1,-1.0
+29571331,male,18-29,independent_other,not_voting,IL,CNN,clinton,14.2,1,2,2.0
+35547644,male,18-29,democrat,clinton,VA,CNN,cruz,11.8,1,1,1.0
+35547644,male,18-29,democrat,clinton,VA,CNN,sanders,14.1,1,1,2.0
+35547644,male,18-29,democrat,clinton,VA,CNN,sanders,8.0,0,1,0.0
+35547644,male,18-29,democrat,clinton,VA,CNN,clinton,7.5,0,1,1.0
+35547644,male,18-29,democrat,clinton,VA,CNN,trump,11.7,1,1,2.0
+35547644,male,18-29,democrat,clinton,VA,CNN,cruz,7.9,0,1,1.0
+35547644,male,18-29,democrat,clinton,VA,CNN,trump,5.8,0,1,1.0
+35547644,male,18-29,democrat,clinton,VA,CNN,clinton,14.2,1,2,2.0
+36882579,male,30-49,democrat,clinton,CA,CNN,cruz,11.8,1,1,1.0
+36882579,male,30-49,democrat,clinton,CA,CNN,sanders,14.1,1,1,2.0
+36882579,male,30-49,democrat,clinton,CA,CNN,sanders,8.0,0,2,2.0
+36882579,male,30-49,democrat,clinton,CA,CNN,clinton,7.5,0,0,1.0
+36882579,male,30-49,democrat,clinton,CA,CNN,trump,11.7,1,1,1.0
+36882579,male,30-49,democrat,clinton,CA,CNN,cruz,7.9,0,1,1.0
+36882579,male,30-49,democrat,clinton,CA,CNN,trump,5.8,0,1,0.0
+36882579,male,30-49,democrat,clinton,CA,CNN,clinton,14.2,1,1,1.0
+33280016,female,18-29,democrat,other,VA,CNN,cruz,11.8,1,1,1.0
+33280016,female,18-29,democrat,other,VA,CNN,sanders,14.1,1,-1,0.0
+33280016,female,18-29,democrat,other,VA,CNN,sanders,8.0,0,-1,0.0
+33280016,female,18-29,democrat,other,VA,CNN,clinton,7.5,0,1,1.0
+33280016,female,18-29,democrat,other,VA,CNN,trump,11.7,1,1,1.0
+33280016,female,18-29,democrat,other,VA,CNN,cruz,7.9,0,0,0.0
+33280016,female,18-29,democrat,other,VA,CNN,trump,5.8,0,2,0.0
+33280016,female,18-29,democrat,other,VA,CNN,clinton,14.2,1,-1,-1.0
+37258822,female,18-29,democrat,clinton,CA,CNN,cruz,11.8,1,-1,1.0
+37258822,female,18-29,democrat,clinton,CA,CNN,sanders,14.1,1,1,0.0
+37258822,female,18-29,democrat,clinton,CA,CNN,sanders,8.0,0,1,1.0
+37258822,female,18-29,democrat,clinton,CA,CNN,clinton,7.5,0,2,1.0
+37258822,female,18-29,democrat,clinton,CA,CNN,trump,11.7,1,-1,0.0
+37258822,female,18-29,democrat,clinton,CA,CNN,cruz,7.9,0,1,1.0
+37258822,female,18-29,democrat,clinton,CA,CNN,trump,5.8,0,1,1.0
+37258822,female,18-29,democrat,clinton,CA,CNN,clinton,14.2,1,2,1.0
+36953641,female,30-49,republican,cruz,TX,CNN,cruz,11.8,1,0,1.0
+36953641,female,30-49,republican,cruz,TX,CNN,sanders,14.1,1,1,1.0
+36953641,female,30-49,republican,cruz,TX,CNN,sanders,8.0,0,-1,0.0
+36953641,female,30-49,republican,cruz,TX,CNN,clinton,7.5,0,1,1.0
+36953641,female,30-49,republican,cruz,TX,CNN,trump,11.7,1,0,0.0
+36953641,female,30-49,republican,cruz,TX,CNN,cruz,7.9,0,1,1.0
+36953641,female,30-49,republican,cruz,TX,CNN,trump,5.8,0,1,1.0
+36953641,female,30-49,republican,cruz,TX,CNN,clinton,14.2,1,-1,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,cruz,11.8,1,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,sanders,14.1,1,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,sanders,8.0,0,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,clinton,7.5,0,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,trump,11.7,1,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,cruz,7.9,0,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,trump,5.8,0,0,0.0
+9557163,female,18-29,democrat,sanders,IL,CNN,clinton,14.2,1,0,0.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,cruz,11.8,1,1,1.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,sanders,14.1,1,2,1.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,sanders,8.0,0,1,1.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,clinton,7.5,0,2,1.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,trump,11.7,1,1,0.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,cruz,7.9,0,0,1.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,trump,5.8,0,1,1.0
+30898464,male,30-49,independent_other,sanders,SC,CNN,clinton,14.2,1,1,1.0
+30724653,male,18-29,democrat,sanders,CA,CNN,cruz,11.8,1,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,sanders,14.1,1,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,sanders,8.0,0,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,clinton,7.5,0,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,trump,11.7,1,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,cruz,7.9,0,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,trump,5.8,0,0,0.0
+30724653,male,18-29,democrat,sanders,CA,CNN,clinton,14.2,1,0,0.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,cruz,11.8,1,2,2.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,sanders,14.1,1,1,1.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,sanders,8.0,0,2,2.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,clinton,7.5,0,2,2.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,trump,11.7,1,-1,-1.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,cruz,7.9,0,1,1.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,trump,5.8,0,0,0.0
+36871506,male,18-29,no_affiliation,sanders,NY,CNN,clinton,14.2,1,-1,0.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,cruz,11.8,1,2,1.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,sanders,14.1,1,2,1.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,sanders,8.0,0,1,0.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,clinton,7.5,0,1,1.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,trump,11.7,1,2,0.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,cruz,7.9,0,0,1.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,trump,5.8,0,0,0.0
+33919057,male,18-29,independent_other,not_voting,VA,CNN,clinton,14.2,1,0,-1.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,cruz,11.8,1,-1,-1.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,sanders,14.1,1,0,0.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,sanders,8.0,0,0,0.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,clinton,7.5,0,1,1.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,trump,11.7,1,-1,-1.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,cruz,7.9,0,0,0.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,trump,5.8,0,-1,-1.0
+36296882,female,18-29,no_affiliation,trump,WI,CNN,clinton,14.2,1,-1,-1.0
+2112439,female,18-29,republican,cruz,OK,CNN,cruz,11.8,1,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,sanders,14.1,1,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,sanders,8.0,0,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,clinton,7.5,0,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,trump,11.7,1,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,cruz,7.9,0,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,trump,5.8,0,2,2.0
+2112439,female,18-29,republican,cruz,OK,CNN,clinton,14.2,1,2,2.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,cruz,11.8,1,1,2.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,sanders,14.1,1,1,1.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,sanders,8.0,0,0,-1.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,clinton,7.5,0,-1,-1.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,trump,11.7,1,0,0.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,cruz,7.9,0,-2,-2.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,trump,5.8,0,-1,-1.0
+36657816,male,18-29,democrat,clinton,MN,Fox News,clinton,14.2,1,1,1.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,cruz,11.8,1,0,1.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,sanders,14.1,1,2,1.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,sanders,8.0,0,2,1.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,clinton,7.5,0,2,1.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,trump,11.7,1,-1,0.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,cruz,7.9,0,-1,0.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,trump,5.8,0,1,2.0
+34694174,male,18-29,independent_other,sanders,NY,Fox News,clinton,14.2,1,-1,0.0
+31424895,male,18-29,republican,kasich,OR,Fox News,cruz,11.8,1,0,1.0
+31424895,male,18-29,republican,kasich,OR,Fox News,sanders,14.1,1,0,0.0
+31424895,male,18-29,republican,kasich,OR,Fox News,sanders,8.0,0,2,2.0
+31424895,male,18-29,republican,kasich,OR,Fox News,clinton,7.5,0,1,1.0
+31424895,male,18-29,republican,kasich,OR,Fox News,trump,11.7,1,0,0.0
+31424895,male,18-29,republican,kasich,OR,Fox News,cruz,7.9,0,-1,-1.0
+31424895,male,18-29,republican,kasich,OR,Fox News,trump,5.8,0,2,-1.0
+31424895,male,18-29,republican,kasich,OR,Fox News,clinton,14.2,1,1,0.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,cruz,11.8,1,1,-1.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,sanders,14.1,1,2,-1.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,sanders,8.0,0,1,-1.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,clinton,7.5,0,-1,-1.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,trump,11.7,1,0,-1.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,cruz,7.9,0,1,-1.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,trump,5.8,0,0,-2.0
+31063905,female,18-29,democrat,sanders,NY,Fox News,clinton,14.2,1,1,-1.0
+31834299,male,18-29,republican,trump,FL,Fox News,cruz,11.8,1,1,1.0
+31834299,male,18-29,republican,trump,FL,Fox News,sanders,14.1,1,0,0.0
+31834299,male,18-29,republican,trump,FL,Fox News,sanders,8.0,0,-2,-2.0
+31834299,male,18-29,republican,trump,FL,Fox News,clinton,7.5,0,0,1.0
+31834299,male,18-29,republican,trump,FL,Fox News,trump,11.7,1,2,2.0
+31834299,male,18-29,republican,trump,FL,Fox News,cruz,7.9,0,1,2.0
+31834299,male,18-29,republican,trump,FL,Fox News,trump,5.8,0,-1,-2.0
+31834299,male,18-29,republican,trump,FL,Fox News,clinton,14.2,1,1,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,cruz,11.8,1,0,1.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,sanders,14.1,1,0,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,sanders,8.0,0,1,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,clinton,7.5,0,1,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,trump,11.7,1,0,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,cruz,7.9,0,0,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,trump,5.8,0,1,0.0
+24329110,male,50-64,democrat,not_voting,FL,Fox News,clinton,14.2,1,0,0.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,cruz,11.8,1,2,1.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,sanders,14.1,1,0,2.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,sanders,8.0,0,1,1.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,clinton,7.5,0,2,1.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,trump,11.7,1,0,1.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,cruz,7.9,0,2,2.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,trump,5.8,0,1,1.0
+35059719,male,18-29,democrat,not_voting,NY,Fox News,clinton,14.2,1,2,1.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,cruz,11.8,1,1,0.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,sanders,14.1,1,1,1.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,sanders,8.0,0,0,0.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,clinton,7.5,0,0,-1.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,trump,11.7,1,1,0.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,cruz,7.9,0,1,1.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,trump,5.8,0,1,0.0
+18775949,male,18-29,democrat,sanders,OH,Fox News,clinton,14.2,1,0,-1.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,cruz,11.8,1,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,sanders,14.1,1,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,sanders,8.0,0,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,clinton,7.5,0,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,trump,11.7,1,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,cruz,7.9,0,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,trump,5.8,0,0,0.0
+37261816,other,18-29,no_affiliation,sanders,DE,Fox News,clinton,14.2,1,0,0.0
+25295869,male,64+,democrat,clinton,VA,Fox News,cruz,11.8,1,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,sanders,14.1,1,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,sanders,8.0,0,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,clinton,7.5,0,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,trump,11.7,1,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,cruz,7.9,0,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,trump,5.8,0,1,1.0
+25295869,male,64+,democrat,clinton,VA,Fox News,clinton,14.2,1,1,1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,cruz,11.8,1,1,1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,sanders,14.1,1,1,1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,sanders,8.0,0,0,1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,clinton,7.5,0,1,1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,trump,11.7,1,0,-1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,cruz,7.9,0,1,1.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,trump,5.8,0,1,2.0
+3663077,female,30-49,independent_other,cruz,GA,Fox News,clinton,14.2,1,1,1.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,cruz,11.8,1,2,2.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,sanders,14.1,1,1,2.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,sanders,8.0,0,2,2.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,clinton,7.5,0,2,2.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,trump,11.7,1,1,2.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,cruz,7.9,0,2,2.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,trump,5.8,0,1,1.0
+33110177,male,30-49,democrat,clinton,NY,Fox News,clinton,14.2,1,2,2.0
+5687433,male,30-49,republican,trump,CO,Fox News,cruz,11.8,1,1,1.0
+5687433,male,30-49,republican,trump,CO,Fox News,sanders,14.1,1,1,1.0
+5687433,male,30-49,republican,trump,CO,Fox News,sanders,8.0,0,-1,1.0
+5687433,male,30-49,republican,trump,CO,Fox News,clinton,7.5,0,1,1.0
+5687433,male,30-49,republican,trump,CO,Fox News,trump,11.7,1,1,1.0
+5687433,male,30-49,republican,trump,CO,Fox News,cruz,7.9,0,1,1.0
+5687433,male,30-49,republican,trump,CO,Fox News,trump,5.8,0,-1,0.0
+5687433,male,30-49,republican,trump,CO,Fox News,clinton,14.2,1,0,0.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,cruz,11.8,1,1,0.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,sanders,14.1,1,-1,1.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,sanders,8.0,0,1,1.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,clinton,7.5,0,1,0.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,trump,11.7,1,-1,1.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,cruz,7.9,0,-1,-2.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,trump,5.8,0,1,1.0
+9210219,female,30-49,democrat,clinton,TX,Fox News,clinton,14.2,1,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,cruz,11.8,1,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,sanders,14.1,1,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,sanders,8.0,0,1,0.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,clinton,7.5,0,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,trump,11.7,1,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,cruz,7.9,0,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,trump,5.8,0,1,1.0
+35440905,male,18-29,democrat,clinton,NY,Fox News,clinton,14.2,1,1,1.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,cruz,11.8,1,2,1.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,sanders,14.1,1,0,0.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,sanders,8.0,0,1,1.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,clinton,7.5,0,2,1.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,trump,11.7,1,2,2.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,cruz,7.9,0,1,1.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,trump,5.8,0,0,1.0
+21017840,male,18-29,independent_other,sanders,DE,Fox News,clinton,14.2,1,1,1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,cruz,11.8,1,1,1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,sanders,14.1,1,1,1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,sanders,8.0,0,-1,1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,clinton,7.5,0,1,-1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,trump,11.7,1,1,1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,cruz,7.9,0,1,1.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,trump,5.8,0,0,0.0
+33245009,female,30-49,independent_other,sanders,NC,Fox News,clinton,14.2,1,1,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,cruz,11.8,1,0,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,sanders,14.1,1,2,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,sanders,8.0,0,1,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,clinton,7.5,0,1,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,trump,11.7,1,1,0.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,cruz,7.9,0,1,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,trump,5.8,0,0,1.0
+6348382,female,18-29,democrat,sanders,CA,Fox News,clinton,14.2,1,0,1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,cruz,11.8,1,1,-1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,sanders,14.1,1,-2,1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,sanders,8.0,0,0,-1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,clinton,7.5,0,1,-1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,trump,11.7,1,0,1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,cruz,7.9,0,-1,1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,trump,5.8,0,2,-1.0
+37078496,male,18-29,no_affiliation,trump,NY,Fox News,clinton,14.2,1,2,0.0
+36461899,male,18-29,republican,cruz,NY,Fox News,cruz,11.8,1,-1,2.0
+36461899,male,18-29,republican,cruz,NY,Fox News,sanders,14.1,1,-1,2.0
+36461899,male,18-29,republican,cruz,NY,Fox News,sanders,8.0,0,-1,0.0
+36461899,male,18-29,republican,cruz,NY,Fox News,clinton,7.5,0,-2,0.0
+36461899,male,18-29,republican,cruz,NY,Fox News,trump,11.7,1,2,-2.0
+36461899,male,18-29,republican,cruz,NY,Fox News,cruz,7.9,0,0,-1.0
+36461899,male,18-29,republican,cruz,NY,Fox News,trump,5.8,0,2,1.0
+36461899,male,18-29,republican,cruz,NY,Fox News,clinton,14.2,1,-1,-2.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,cruz,11.8,1,1,1.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,sanders,14.1,1,0,0.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,sanders,8.0,0,1,1.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,clinton,7.5,0,0,0.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,trump,11.7,1,-1,-1.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,cruz,7.9,0,1,1.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,trump,5.8,0,0,-1.0
+32641084,male,18-29,independent_other,clinton,CA,Fox News,clinton,14.2,1,1,0.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,cruz,11.8,1,1,0.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,sanders,14.1,1,0,0.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,sanders,8.0,0,1,1.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,clinton,7.5,0,1,1.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,trump,11.7,1,-1,-1.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,cruz,7.9,0,1,1.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,trump,5.8,0,0,0.0
+34908651,male,30-49,democrat,clinton,CA,Fox News,clinton,14.2,1,1,1.0
+35062248,female,30-49,republican,trump,CA,Fox News,cruz,11.8,1,0,0.0
+35062248,female,30-49,republican,trump,CA,Fox News,sanders,14.1,1,0,0.0
+35062248,female,30-49,republican,trump,CA,Fox News,sanders,8.0,0,-1,-1.0
+35062248,female,30-49,republican,trump,CA,Fox News,clinton,7.5,0,-1,-1.0
+35062248,female,30-49,republican,trump,CA,Fox News,trump,11.7,1,1,1.0
+35062248,female,30-49,republican,trump,CA,Fox News,cruz,7.9,0,1,1.0
+35062248,female,30-49,republican,trump,CA,Fox News,trump,5.8,0,1,1.0
+35062248,female,30-49,republican,trump,CA,Fox News,clinton,14.2,1,-1,-1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,cruz,11.8,1,1,1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,sanders,14.1,1,1,1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,sanders,8.0,0,-1,-1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,clinton,7.5,0,0,0.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,trump,11.7,1,-1,-1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,cruz,7.9,0,1,1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,trump,5.8,0,-1,-1.0
+34908807,male,30-49,no_affiliation,cruz,CA,Fox News,clinton,14.2,1,-1,-1.0

@@ -11,22 +11,38 @@ with open('DATA/part1_results/flattened.csv', "wb") as f:
         
         c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
                            'voting_for','_region',
-                           'title_2','url_2','org_2','candidate_2',
-                           'flesch_2','gunning_fog_2','readability_2','top_topic_2', 'favor_2', 'trust_2']]))
-        
+                           'title2','source2','candidate2',
+                           'flesch2','is_complex2','fair2', 'trust2']]))
+
         c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
                            'voting_for','_region',
-                           'title_3','url_3','org_3','candidate_3',
-                           'flesch_3','gunning_fog_3','readability_3','top_topic_3', 'favor_3', 'trust_3']]))
-        
+                           'title3','source3','candidate3',
+                           'flesch3','is_complex3','fair3', 'trust3']]))
+
         c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
                            'voting_for','_region',
-                           'title_4','url_4','org_4','candidate_4',
-                           'flesch_4','gunning_fog_4','readability_4','top_topic_4', 'favor_4', 'trust_4']]))
-       
+                           'title4','source4','candidate4',
+                           'flesch4','is_complex4','fair4', 'trust4']]))
+   
         c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
                            'voting_for','_region',
-                           'title_5','url_5','org_5','candidate_5',
-                           'flesch_5','gunning_fog_5','readability_5','top_topic_5', 'favor_5', 'trust_5']]))
+                           'title5','source5','candidate5',
+                           'flesch5','is_complex1','fair5', 'trust5']]))
+
+        c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
+                           'voting_for','_region',
+                           'title6','source6','candidate6',
+                           'flesch6','is_complex6','fair6', 'trust6']]))
+
+        c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
+                           'voting_for','_region',
+                           'title7','source7','candidate7',
+                           'flesch7','is_complex7','fair7', 'trust7']]))
+
+        c.writerow(list(row[1][['_worker_id','what_is_your_gender','age_group','what_is_your_political_party_affiliation',
+                           'voting_for','_region',
+                           'title8','source8','candidate8',
+                           'flesch8','is_complex8','fair8', 'trust8']]))
+
        
         

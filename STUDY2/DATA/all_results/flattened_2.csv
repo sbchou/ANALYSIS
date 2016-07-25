@@ -1,132 +1,132 @@
 worker_id,gender,age,party,voting_for,state,title,source,candidate,flesch,is_complex,fair,trust
-11896941,female,30-49,democrat,clinton,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,2
-11896941,female,30-49,democrat,clinton,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,-1
-11896941,female,30-49,democrat,clinton,FL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,2,2
-11896941,female,30-49,democrat,clinton,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,2,1
-11896941,female,30-49,democrat,clinton,FL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,2,2
-11896941,female,30-49,democrat,clinton,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,2,2.0
-11896941,female,30-49,democrat,clinton,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,2,2.0
-11896941,female,30-49,democrat,clinton,FL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,2,2
-3515924,male,50-64,republican,trump,LA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-3515924,male,50-64,republican,trump,LA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-3515924,male,50-64,republican,trump,LA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-2,-2
-3515924,male,50-64,republican,trump,LA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,-1,-1
-3515924,male,50-64,republican,trump,LA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-3515924,male,50-64,republican,trump,LA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,0.0
-3515924,male,50-64,republican,trump,LA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,-1,-1.0
-3515924,male,50-64,republican,trump,LA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-34737109,female,30-49,no_affiliation,clinton,AL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-34737109,female,30-49,no_affiliation,clinton,AL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,0
-34737109,female,30-49,no_affiliation,clinton,AL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,2,2
-34737109,female,30-49,no_affiliation,clinton,AL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,0
-34737109,female,30-49,no_affiliation,clinton,AL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,1
-34737109,female,30-49,no_affiliation,clinton,AL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-34737109,female,30-49,no_affiliation,clinton,AL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,0.0
-34737109,female,30-49,no_affiliation,clinton,AL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-35172683,female,18-29,democrat,clinton,NC,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,-1
-35172683,female,18-29,democrat,clinton,NC,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-35172683,female,18-29,democrat,clinton,NC,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,2,2
-35172683,female,18-29,democrat,clinton,NC,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-35172683,female,18-29,democrat,clinton,NC,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-35172683,female,18-29,democrat,clinton,NC,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-1.0
-35172683,female,18-29,democrat,clinton,NC,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,0.0
-35172683,female,18-29,democrat,clinton,NC,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,2,2
-34430732,female,18-29,democrat,clinton,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,-1,-1
-34430732,female,18-29,democrat,clinton,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-34430732,female,18-29,democrat,clinton,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,2
-34430732,female,18-29,democrat,clinton,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,2,2
-34430732,female,18-29,democrat,clinton,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-2,-1
-34430732,female,18-29,democrat,clinton,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-1,-1.0
-34430732,female,18-29,democrat,clinton,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,-1.0
-34430732,female,18-29,democrat,clinton,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,2,2
-35120188,male,18-29,democrat,sanders,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-35120188,male,18-29,democrat,sanders,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,2,2
-35120188,male,18-29,democrat,sanders,DE,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,2,2
-35120188,male,18-29,democrat,sanders,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,0
-35120188,male,18-29,democrat,sanders,DE,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,-1
-35120188,male,18-29,democrat,sanders,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-1,-1.0
-35120188,male,18-29,democrat,sanders,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,0.0
-35120188,male,18-29,democrat,sanders,DE,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-19638651,female,50-64,democrat,other,SC,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-19638651,female,50-64,democrat,other,SC,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-19638651,female,50-64,democrat,other,SC,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-19638651,female,50-64,democrat,other,SC,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,0
-19638651,female,50-64,democrat,other,SC,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,-1
-19638651,female,50-64,democrat,other,SC,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-19638651,female,50-64,democrat,other,SC,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,0.0
-19638651,female,50-64,democrat,other,SC,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-16573689,female,30-49,independent_other,clinton,MI,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-16573689,female,30-49,independent_other,clinton,MI,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,0
-16573689,female,30-49,independent_other,clinton,MI,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,0
-16573689,female,30-49,independent_other,clinton,MI,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,0
-16573689,female,30-49,independent_other,clinton,MI,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-16573689,female,30-49,independent_other,clinton,MI,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,0.0
-16573689,female,30-49,independent_other,clinton,MI,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,0.0
-16573689,female,30-49,independent_other,clinton,MI,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,0
-9383666,male,50-64,republican,kasich,IN,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-9383666,male,50-64,republican,kasich,IN,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-9383666,male,50-64,republican,kasich,IN,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,0
-9383666,male,50-64,republican,kasich,IN,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,0
-9383666,male,50-64,republican,kasich,IN,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,0
-9383666,male,50-64,republican,kasich,IN,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-9383666,male,50-64,republican,kasich,IN,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,1.0
-9383666,male,50-64,republican,kasich,IN,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-30398579,female,30-49,independent_other,sanders,MA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,1
-30398579,female,30-49,independent_other,sanders,MA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,2,1
-30398579,female,30-49,independent_other,sanders,MA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-30398579,female,30-49,independent_other,sanders,MA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,2,1
-30398579,female,30-49,independent_other,sanders,MA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,0
-30398579,female,30-49,independent_other,sanders,MA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-30398579,female,30-49,independent_other,sanders,MA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-30398579,female,30-49,independent_other,sanders,MA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-37012492,male,18-29,republican,trump,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,2,2
-37012492,male,18-29,republican,trump,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,2,2
-37012492,male,18-29,republican,trump,DE,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-37012492,male,18-29,republican,trump,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-37012492,male,18-29,republican,trump,DE,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,2,2
-37012492,male,18-29,republican,trump,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,2,2.0
-37012492,male,18-29,republican,trump,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-37012492,male,18-29,republican,trump,DE,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,2,1
-36272463,male,30-49,democrat,clinton,VA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,-1,-1
-36272463,male,30-49,democrat,clinton,VA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,-1,-1
-36272463,male,30-49,democrat,clinton,VA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-36272463,male,30-49,democrat,clinton,VA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-36272463,male,30-49,democrat,clinton,VA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-36272463,male,30-49,democrat,clinton,VA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-36272463,male,30-49,democrat,clinton,VA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-36272463,male,30-49,democrat,clinton,VA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-18785646,female,30-49,democrat,sanders,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,2,2
-18785646,female,30-49,democrat,sanders,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,2,2
-18785646,female,30-49,democrat,sanders,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,2,2
-18785646,female,30-49,democrat,sanders,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,-1
-18785646,female,30-49,democrat,sanders,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-18785646,female,30-49,democrat,sanders,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-1.0
-18785646,female,30-49,democrat,sanders,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-18785646,female,30-49,democrat,sanders,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,1
-24170547,male,64+,independent_other,trump,NJ,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,-1
-24170547,male,64+,independent_other,trump,NJ,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,0
-24170547,male,64+,independent_other,trump,NJ,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,-1
-24170547,male,64+,independent_other,trump,NJ,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,-2,-2
-24170547,male,64+,independent_other,trump,NJ,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,0
-24170547,male,64+,independent_other,trump,NJ,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,0.0
-24170547,male,64+,independent_other,trump,NJ,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-24170547,male,64+,independent_other,trump,NJ,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,-2
-36979264,male,18-29,republican,trump,TX,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,2
-36979264,male,18-29,republican,trump,TX,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,-1,0
-36979264,male,18-29,republican,trump,TX,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,0,0
-36979264,male,18-29,republican,trump,TX,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,-1,1
-36979264,male,18-29,republican,trump,TX,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,0
-36979264,male,18-29,republican,trump,TX,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-36979264,male,18-29,republican,trump,TX,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,-1,0.0
-36979264,male,18-29,republican,trump,TX,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-36858304,male,18-29,democrat,clinton,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,2,1
-36858304,male,18-29,democrat,clinton,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,1
-36858304,male,18-29,democrat,clinton,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-36858304,male,18-29,democrat,clinton,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,2,2
-36858304,male,18-29,democrat,clinton,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-36858304,male,18-29,democrat,clinton,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-1,-1.0
-36858304,male,18-29,democrat,clinton,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-36858304,male,18-29,democrat,clinton,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,2,2
+11896941,female,30-49,democrat,clinton,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,2
+11896941,female,30-49,democrat,clinton,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,-1
+11896941,female,30-49,democrat,clinton,FL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,2,2
+11896941,female,30-49,democrat,clinton,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,2,1
+11896941,female,30-49,democrat,clinton,FL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,2,2
+11896941,female,30-49,democrat,clinton,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,2,2.0
+11896941,female,30-49,democrat,clinton,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,2,2.0
+11896941,female,30-49,democrat,clinton,FL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,2,2
+3515924,male,50-64,republican,trump,LA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+3515924,male,50-64,republican,trump,LA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+3515924,male,50-64,republican,trump,LA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-2,-2
+3515924,male,50-64,republican,trump,LA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,-1,-1
+3515924,male,50-64,republican,trump,LA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+3515924,male,50-64,republican,trump,LA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,0.0
+3515924,male,50-64,republican,trump,LA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,-1,-1.0
+3515924,male,50-64,republican,trump,LA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+34737109,female,30-49,no_affiliation,clinton,AL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+34737109,female,30-49,no_affiliation,clinton,AL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,0
+34737109,female,30-49,no_affiliation,clinton,AL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,2,2
+34737109,female,30-49,no_affiliation,clinton,AL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,0
+34737109,female,30-49,no_affiliation,clinton,AL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,1
+34737109,female,30-49,no_affiliation,clinton,AL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+34737109,female,30-49,no_affiliation,clinton,AL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,0.0
+34737109,female,30-49,no_affiliation,clinton,AL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+35172683,female,18-29,democrat,clinton,NC,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,-1
+35172683,female,18-29,democrat,clinton,NC,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+35172683,female,18-29,democrat,clinton,NC,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,2,2
+35172683,female,18-29,democrat,clinton,NC,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+35172683,female,18-29,democrat,clinton,NC,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+35172683,female,18-29,democrat,clinton,NC,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-1.0
+35172683,female,18-29,democrat,clinton,NC,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,0.0
+35172683,female,18-29,democrat,clinton,NC,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,2,2
+34430732,female,18-29,democrat,clinton,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,-1,-1
+34430732,female,18-29,democrat,clinton,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+34430732,female,18-29,democrat,clinton,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,2
+34430732,female,18-29,democrat,clinton,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,2,2
+34430732,female,18-29,democrat,clinton,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-2,-1
+34430732,female,18-29,democrat,clinton,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-1,-1.0
+34430732,female,18-29,democrat,clinton,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,-1.0
+34430732,female,18-29,democrat,clinton,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,2,2
+35120188,male,18-29,democrat,sanders,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+35120188,male,18-29,democrat,sanders,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,2,2
+35120188,male,18-29,democrat,sanders,DE,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,2,2
+35120188,male,18-29,democrat,sanders,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,0
+35120188,male,18-29,democrat,sanders,DE,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,-1
+35120188,male,18-29,democrat,sanders,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-1,-1.0
+35120188,male,18-29,democrat,sanders,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,0.0
+35120188,male,18-29,democrat,sanders,DE,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+19638651,female,50-64,democrat,other,SC,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+19638651,female,50-64,democrat,other,SC,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+19638651,female,50-64,democrat,other,SC,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+19638651,female,50-64,democrat,other,SC,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,0
+19638651,female,50-64,democrat,other,SC,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,-1
+19638651,female,50-64,democrat,other,SC,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+19638651,female,50-64,democrat,other,SC,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,0.0
+19638651,female,50-64,democrat,other,SC,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+16573689,female,30-49,independent_other,clinton,MI,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+16573689,female,30-49,independent_other,clinton,MI,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,0
+16573689,female,30-49,independent_other,clinton,MI,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,0
+16573689,female,30-49,independent_other,clinton,MI,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,0
+16573689,female,30-49,independent_other,clinton,MI,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+16573689,female,30-49,independent_other,clinton,MI,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,0.0
+16573689,female,30-49,independent_other,clinton,MI,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,0.0
+16573689,female,30-49,independent_other,clinton,MI,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,0
+9383666,male,50-64,republican,kasich,IN,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+9383666,male,50-64,republican,kasich,IN,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+9383666,male,50-64,republican,kasich,IN,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,0
+9383666,male,50-64,republican,kasich,IN,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,0
+9383666,male,50-64,republican,kasich,IN,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,0
+9383666,male,50-64,republican,kasich,IN,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+9383666,male,50-64,republican,kasich,IN,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,1.0
+9383666,male,50-64,republican,kasich,IN,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+30398579,female,30-49,independent_other,sanders,MA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,1
+30398579,female,30-49,independent_other,sanders,MA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,2,1
+30398579,female,30-49,independent_other,sanders,MA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+30398579,female,30-49,independent_other,sanders,MA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,2,1
+30398579,female,30-49,independent_other,sanders,MA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,0
+30398579,female,30-49,independent_other,sanders,MA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+30398579,female,30-49,independent_other,sanders,MA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+30398579,female,30-49,independent_other,sanders,MA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+37012492,male,18-29,republican,trump,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,2,2
+37012492,male,18-29,republican,trump,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,2,2
+37012492,male,18-29,republican,trump,DE,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+37012492,male,18-29,republican,trump,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+37012492,male,18-29,republican,trump,DE,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,2,2
+37012492,male,18-29,republican,trump,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,2,2.0
+37012492,male,18-29,republican,trump,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+37012492,male,18-29,republican,trump,DE,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,2,1
+36272463,male,30-49,democrat,clinton,VA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,-1,-1
+36272463,male,30-49,democrat,clinton,VA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,-1,-1
+36272463,male,30-49,democrat,clinton,VA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+36272463,male,30-49,democrat,clinton,VA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+36272463,male,30-49,democrat,clinton,VA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+36272463,male,30-49,democrat,clinton,VA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+36272463,male,30-49,democrat,clinton,VA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+36272463,male,30-49,democrat,clinton,VA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+18785646,female,30-49,democrat,sanders,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,2,2
+18785646,female,30-49,democrat,sanders,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,2,2
+18785646,female,30-49,democrat,sanders,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,2,2
+18785646,female,30-49,democrat,sanders,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,-1
+18785646,female,30-49,democrat,sanders,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+18785646,female,30-49,democrat,sanders,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-1.0
+18785646,female,30-49,democrat,sanders,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+18785646,female,30-49,democrat,sanders,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,1
+24170547,male,64+,independent_other,trump,NJ,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,-1
+24170547,male,64+,independent_other,trump,NJ,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,0
+24170547,male,64+,independent_other,trump,NJ,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,-1
+24170547,male,64+,independent_other,trump,NJ,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,-2,-2
+24170547,male,64+,independent_other,trump,NJ,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,0
+24170547,male,64+,independent_other,trump,NJ,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,0.0
+24170547,male,64+,independent_other,trump,NJ,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+24170547,male,64+,independent_other,trump,NJ,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,-2
+36979264,male,18-29,republican,trump,TX,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,2
+36979264,male,18-29,republican,trump,TX,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,-1,0
+36979264,male,18-29,republican,trump,TX,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,0,0
+36979264,male,18-29,republican,trump,TX,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,-1,1
+36979264,male,18-29,republican,trump,TX,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,0
+36979264,male,18-29,republican,trump,TX,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+36979264,male,18-29,republican,trump,TX,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,-1,0.0
+36979264,male,18-29,republican,trump,TX,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+36858304,male,18-29,democrat,clinton,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,2,1
+36858304,male,18-29,democrat,clinton,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,1
+36858304,male,18-29,democrat,clinton,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+36858304,male,18-29,democrat,clinton,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,2,2
+36858304,male,18-29,democrat,clinton,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+36858304,male,18-29,democrat,clinton,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-1,-1.0
+36858304,male,18-29,democrat,clinton,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+36858304,male,18-29,democrat,clinton,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,2,2
 32695853,male,18-29,democrat,sanders,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,the Associated Press,cruz,11.8,1,1,1
 32695853,male,18-29,democrat,sanders,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",the Associated Press,sanders,14.1,1,2,1
 32695853,male,18-29,democrat,sanders,DE,The Latest: Sanders says Trump campaign based on division,the Associated Press,sanders,8,0,2,1
@@ -511,198 +511,198 @@ worker_id,gender,age,party,voting_for,state,title,source,candidate,flesch,is_com
 27770607,male,30-49,republican,kasich,TX,The Latest: Bible prominent in Final Cruz Pitches to Voters,Fox News,cruz,7.9,0,2,2.0
 27770607,male,30-49,republican,kasich,TX,FACT CHECK: Audio refutes Trump's claim on China tariff,Fox News,trump,5.8,0,1,1.0
 27770607,male,30-49,republican,kasich,TX,"Clinton Allies Forming Group to Protect, Register Voters",Fox News,clinton,14.2,1,1,2
-34726682,male,18-29,no_affiliation,not_voting,VA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,0
-34726682,male,18-29,no_affiliation,not_voting,VA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-34726682,male,18-29,no_affiliation,not_voting,VA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,0,-1
-34726682,male,18-29,no_affiliation,not_voting,VA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,0
-34726682,male,18-29,no_affiliation,not_voting,VA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,0
-34726682,male,18-29,no_affiliation,not_voting,VA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,1.0
-34726682,male,18-29,no_affiliation,not_voting,VA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,2,2.0
-34726682,male,18-29,no_affiliation,not_voting,VA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-1890003,female,30-49,democrat,clinton,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,-1,-1
-1890003,female,30-49,democrat,clinton,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,0
-1890003,female,30-49,democrat,clinton,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-1890003,female,30-49,democrat,clinton,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-1890003,female,30-49,democrat,clinton,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-1890003,female,30-49,democrat,clinton,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-1.0
-1890003,female,30-49,democrat,clinton,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,0.0
-1890003,female,30-49,democrat,clinton,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-36273935,male,18-29,republican,trump,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,-1
-36273935,male,18-29,republican,trump,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,-1
-36273935,male,18-29,republican,trump,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,0
-36273935,male,18-29,republican,trump,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-36273935,male,18-29,republican,trump,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-36273935,male,18-29,republican,trump,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-2.0
-36273935,male,18-29,republican,trump,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-36273935,male,18-29,republican,trump,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-35570050,male,18-29,democrat,clinton,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-35570050,male,18-29,democrat,clinton,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,-1,0
-35570050,male,18-29,democrat,clinton,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-35570050,male,18-29,democrat,clinton,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,0
-35570050,male,18-29,democrat,clinton,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,-1
-35570050,male,18-29,democrat,clinton,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-1.0
-35570050,male,18-29,democrat,clinton,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-35570050,male,18-29,democrat,clinton,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,-1
-35607749,male,18-29,republican,trump,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-35607749,male,18-29,republican,trump,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,-1,-1
-35607749,male,18-29,republican,trump,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,-1
-35607749,male,18-29,republican,trump,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,0
-35607749,male,18-29,republican,trump,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-35607749,male,18-29,republican,trump,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-1.0
-35607749,male,18-29,republican,trump,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,-1,-1.0
-35607749,male,18-29,republican,trump,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,-1,0
-37368431,male,64+,no_affiliation,kasich,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,2
-37368431,male,64+,no_affiliation,kasich,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,0
-37368431,male,64+,no_affiliation,kasich,DE,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,-1
-37368431,male,64+,no_affiliation,kasich,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,2,-1
-37368431,male,64+,no_affiliation,kasich,DE,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-2,-2
-37368431,male,64+,no_affiliation,kasich,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-2,1.0
-37368431,male,64+,no_affiliation,kasich,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,1.0
-37368431,male,64+,no_affiliation,kasich,DE,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,-1
-36747744,male,18-29,republican,cruz,TX,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-36747744,male,18-29,republican,cruz,TX,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-36747744,male,18-29,republican,cruz,TX,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,0
-36747744,male,18-29,republican,cruz,TX,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,-1
-36747744,male,18-29,republican,cruz,TX,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-36747744,male,18-29,republican,cruz,TX,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,2,1.0
-36747744,male,18-29,republican,cruz,TX,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,2.0
-36747744,male,18-29,republican,cruz,TX,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,1
-15445601,female,30-49,democrat,clinton,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-15445601,female,30-49,democrat,clinton,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-15445601,female,30-49,democrat,clinton,FL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-15445601,female,30-49,democrat,clinton,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-15445601,female,30-49,democrat,clinton,FL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-15445601,female,30-49,democrat,clinton,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,0.0
-15445601,female,30-49,democrat,clinton,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,0.0
-15445601,female,30-49,democrat,clinton,FL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-36302660,female,18-29,democrat,clinton,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,1
-36302660,female,18-29,democrat,clinton,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,0
-36302660,female,18-29,democrat,clinton,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-36302660,female,18-29,democrat,clinton,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,1
-36302660,female,18-29,democrat,clinton,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,-1
-36302660,female,18-29,democrat,clinton,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-36302660,female,18-29,democrat,clinton,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,0.0
-36302660,female,18-29,democrat,clinton,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-36315427,male,18-29,republican,trump,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-36315427,male,18-29,republican,trump,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,-1
-36315427,male,18-29,republican,trump,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,0
-36315427,male,18-29,republican,trump,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,1
-36315427,male,18-29,republican,trump,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-36315427,male,18-29,republican,trump,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,1.0
-36315427,male,18-29,republican,trump,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-36315427,male,18-29,republican,trump,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-36321076,male,18-29,republican,cruz,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,1
-36321076,male,18-29,republican,cruz,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,-1,0
-36321076,male,18-29,republican,cruz,CA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,0
-36321076,male,18-29,republican,cruz,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,-1
-36321076,male,18-29,republican,cruz,CA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,0
-36321076,male,18-29,republican,cruz,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-36321076,male,18-29,republican,cruz,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,-1.0
-36321076,male,18-29,republican,cruz,CA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,2,2
-29210665,male,50-64,democrat,sanders,WI,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-29210665,male,50-64,democrat,sanders,WI,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-29210665,male,50-64,democrat,sanders,WI,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,2,2
-29210665,male,50-64,democrat,sanders,WI,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,2
-29210665,male,50-64,democrat,sanders,WI,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-29210665,male,50-64,democrat,sanders,WI,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,1.0
-29210665,male,50-64,democrat,sanders,WI,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-29210665,male,50-64,democrat,sanders,WI,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-30461260,male,18-29,democrat,sanders,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-30461260,male,18-29,democrat,sanders,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-30461260,male,18-29,democrat,sanders,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-30461260,male,18-29,democrat,sanders,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,0
-30461260,male,18-29,democrat,sanders,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,0
-30461260,male,18-29,democrat,sanders,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-30461260,male,18-29,democrat,sanders,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,-1,0.0
-30461260,male,18-29,democrat,sanders,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,1
-14237967,female,30-49,independent_other,clinton,GA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,0,-1
-14237967,female,30-49,independent_other,clinton,GA,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,-1
-14237967,female,30-49,independent_other,clinton,GA,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-14237967,female,30-49,independent_other,clinton,GA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-14237967,female,30-49,independent_other,clinton,GA,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,0
-14237967,female,30-49,independent_other,clinton,GA,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,-1.0
-14237967,female,30-49,independent_other,clinton,GA,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,0.0
-14237967,female,30-49,independent_other,clinton,GA,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,-1,-1
-31329809,male,18-29,democrat,sanders,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-31329809,male,18-29,democrat,sanders,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,2,0
-31329809,male,18-29,democrat,sanders,DE,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-31329809,male,18-29,democrat,sanders,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,0
-31329809,male,18-29,democrat,sanders,DE,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-31329809,male,18-29,democrat,sanders,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,0.0
-31329809,male,18-29,democrat,sanders,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,0,1.0
-31329809,male,18-29,democrat,sanders,DE,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-21160805,male,50-64,independent_other,trump,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-21160805,male,50-64,independent_other,trump,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,1
-21160805,male,50-64,independent_other,trump,FL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,0,1
-21160805,male,50-64,independent_other,trump,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-21160805,male,50-64,independent_other,trump,FL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-21160805,male,50-64,independent_other,trump,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-21160805,male,50-64,independent_other,trump,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-21160805,male,50-64,independent_other,trump,FL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-5726847,male,30-49,independent_other,clinton,AL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-5726847,male,30-49,independent_other,clinton,AL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,2,1
-5726847,male,30-49,independent_other,clinton,AL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-5726847,male,30-49,independent_other,clinton,AL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,0
-5726847,male,30-49,independent_other,clinton,AL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,0,1
-5726847,male,30-49,independent_other,clinton,AL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,0.0
-5726847,male,30-49,independent_other,clinton,AL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-5726847,male,30-49,independent_other,clinton,AL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-29521896,female,30-49,no_affiliation,trump,IL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-29521896,female,30-49,no_affiliation,trump,IL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-29521896,female,30-49,no_affiliation,trump,IL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,0,0
-29521896,female,30-49,no_affiliation,trump,IL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,0
-29521896,female,30-49,no_affiliation,trump,IL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,0
-29521896,female,30-49,no_affiliation,trump,IL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,0.0
-29521896,female,30-49,no_affiliation,trump,IL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,0.0
-29521896,female,30-49,no_affiliation,trump,IL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,0
-35408915,male,30-49,republican,cruz,IN,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-35408915,male,30-49,republican,cruz,IN,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,0
-35408915,male,30-49,republican,cruz,IN,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,-1
-35408915,male,30-49,republican,cruz,IN,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,-1,-1
-35408915,male,30-49,republican,cruz,IN,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-35408915,male,30-49,republican,cruz,IN,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,1.0
-35408915,male,30-49,republican,cruz,IN,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-35408915,male,30-49,republican,cruz,IN,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,-1,-1
-12115558,female,50-64,democrat,clinton,OH,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,1
-12115558,female,50-64,democrat,clinton,OH,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-12115558,female,50-64,democrat,clinton,OH,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-12115558,female,50-64,democrat,clinton,OH,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-12115558,female,50-64,democrat,clinton,OH,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,2
-12115558,female,50-64,democrat,clinton,OH,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-1,1.0
-12115558,female,50-64,democrat,clinton,OH,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,2.0
-12115558,female,50-64,democrat,clinton,OH,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,1
-3682947,female,50-64,republican,cruz,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,-1,0
-3682947,female,50-64,republican,cruz,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,1
-3682947,female,50-64,republican,cruz,FL,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-2,-1
-3682947,female,50-64,republican,cruz,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-3682947,female,50-64,republican,cruz,FL,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,0
-3682947,female,50-64,republican,cruz,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-1,0.0
-3682947,female,50-64,republican,cruz,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,1.0
-3682947,female,50-64,republican,cruz,FL,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-36257704,female,18-29,republican,trump,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-36257704,female,18-29,republican,trump,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,-1,0
-36257704,female,18-29,republican,trump,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,-1,-1
-36257704,female,18-29,republican,trump,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,0,1
-36257704,female,18-29,republican,trump,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,1,1
-36257704,female,18-29,republican,trump,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,1,0.0
-36257704,female,18-29,republican,trump,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,0.0
-36257704,female,18-29,republican,trump,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,0
-36267874,male,18-29,democrat,clinton,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,-1,0
-36267874,male,18-29,democrat,clinton,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,1,1
-36267874,male,18-29,democrat,clinton,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,0
-36267874,male,18-29,democrat,clinton,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,1,1
-36267874,male,18-29,democrat,clinton,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-2,0
-36267874,male,18-29,democrat,clinton,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,-1,0.0
-36267874,male,18-29,democrat,clinton,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,0.0
-36267874,male,18-29,democrat,clinton,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,0,1
-36287173,male,18-29,independent_other,trump,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,&nbsp;,cruz,11.8,1,1,0
-36287173,male,18-29,independent_other,trump,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",&nbsp;,sanders,14.1,1,0,0
-36287173,male,18-29,independent_other,trump,NY,The Latest: Sanders says Trump campaign based on division,&nbsp;,sanders,8,0,1,1
-36287173,male,18-29,independent_other,trump,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,&nbsp;,clinton,7.5,0,-1,0
-36287173,male,18-29,independent_other,trump,NY,Trump not backing down from Fox debate boycott,&nbsp;,trump,11.7,1,-1,-1
-36287173,male,18-29,independent_other,trump,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,&nbsp;,cruz,7.9,0,0,nan
-36287173,male,18-29,independent_other,trump,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,&nbsp;,trump,5.8,0,1,nan
-36287173,male,18-29,independent_other,trump,NY,"Clinton Allies Forming Group to Protect, Register Voters",&nbsp;,clinton,14.2,1,1,0
+34726682,male,18-29,no_affiliation,not_voting,VA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,0
+34726682,male,18-29,no_affiliation,not_voting,VA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+34726682,male,18-29,no_affiliation,not_voting,VA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,0,-1
+34726682,male,18-29,no_affiliation,not_voting,VA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,0
+34726682,male,18-29,no_affiliation,not_voting,VA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,0
+34726682,male,18-29,no_affiliation,not_voting,VA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,1.0
+34726682,male,18-29,no_affiliation,not_voting,VA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,2,2.0
+34726682,male,18-29,no_affiliation,not_voting,VA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+1890003,female,30-49,democrat,clinton,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,-1,-1
+1890003,female,30-49,democrat,clinton,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,0
+1890003,female,30-49,democrat,clinton,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+1890003,female,30-49,democrat,clinton,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+1890003,female,30-49,democrat,clinton,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+1890003,female,30-49,democrat,clinton,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-1.0
+1890003,female,30-49,democrat,clinton,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,0.0
+1890003,female,30-49,democrat,clinton,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+36273935,male,18-29,republican,trump,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,-1
+36273935,male,18-29,republican,trump,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,-1
+36273935,male,18-29,republican,trump,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,0
+36273935,male,18-29,republican,trump,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+36273935,male,18-29,republican,trump,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+36273935,male,18-29,republican,trump,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-2.0
+36273935,male,18-29,republican,trump,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+36273935,male,18-29,republican,trump,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+35570050,male,18-29,democrat,clinton,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+35570050,male,18-29,democrat,clinton,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,-1,0
+35570050,male,18-29,democrat,clinton,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+35570050,male,18-29,democrat,clinton,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,0
+35570050,male,18-29,democrat,clinton,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,-1
+35570050,male,18-29,democrat,clinton,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-1.0
+35570050,male,18-29,democrat,clinton,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+35570050,male,18-29,democrat,clinton,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,-1
+35607749,male,18-29,republican,trump,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+35607749,male,18-29,republican,trump,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,-1,-1
+35607749,male,18-29,republican,trump,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,-1
+35607749,male,18-29,republican,trump,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,0
+35607749,male,18-29,republican,trump,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+35607749,male,18-29,republican,trump,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-1.0
+35607749,male,18-29,republican,trump,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,-1,-1.0
+35607749,male,18-29,republican,trump,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,-1,0
+37368431,male,64+,no_affiliation,kasich,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,2
+37368431,male,64+,no_affiliation,kasich,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,0
+37368431,male,64+,no_affiliation,kasich,DE,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,-1
+37368431,male,64+,no_affiliation,kasich,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,2,-1
+37368431,male,64+,no_affiliation,kasich,DE,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-2,-2
+37368431,male,64+,no_affiliation,kasich,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-2,1.0
+37368431,male,64+,no_affiliation,kasich,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,1.0
+37368431,male,64+,no_affiliation,kasich,DE,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,-1
+36747744,male,18-29,republican,cruz,TX,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+36747744,male,18-29,republican,cruz,TX,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+36747744,male,18-29,republican,cruz,TX,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,0
+36747744,male,18-29,republican,cruz,TX,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,-1
+36747744,male,18-29,republican,cruz,TX,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+36747744,male,18-29,republican,cruz,TX,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,2,1.0
+36747744,male,18-29,republican,cruz,TX,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,2.0
+36747744,male,18-29,republican,cruz,TX,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,1
+15445601,female,30-49,democrat,clinton,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+15445601,female,30-49,democrat,clinton,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+15445601,female,30-49,democrat,clinton,FL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+15445601,female,30-49,democrat,clinton,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+15445601,female,30-49,democrat,clinton,FL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+15445601,female,30-49,democrat,clinton,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,0.0
+15445601,female,30-49,democrat,clinton,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,0.0
+15445601,female,30-49,democrat,clinton,FL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+36302660,female,18-29,democrat,clinton,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,1
+36302660,female,18-29,democrat,clinton,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,0
+36302660,female,18-29,democrat,clinton,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+36302660,female,18-29,democrat,clinton,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,1
+36302660,female,18-29,democrat,clinton,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,-1
+36302660,female,18-29,democrat,clinton,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+36302660,female,18-29,democrat,clinton,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,0.0
+36302660,female,18-29,democrat,clinton,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+36315427,male,18-29,republican,trump,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+36315427,male,18-29,republican,trump,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,-1
+36315427,male,18-29,republican,trump,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,0
+36315427,male,18-29,republican,trump,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,1
+36315427,male,18-29,republican,trump,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+36315427,male,18-29,republican,trump,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,1.0
+36315427,male,18-29,republican,trump,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+36315427,male,18-29,republican,trump,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+36321076,male,18-29,republican,cruz,CA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,1
+36321076,male,18-29,republican,cruz,CA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,-1,0
+36321076,male,18-29,republican,cruz,CA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,0
+36321076,male,18-29,republican,cruz,CA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,-1
+36321076,male,18-29,republican,cruz,CA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,0
+36321076,male,18-29,republican,cruz,CA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+36321076,male,18-29,republican,cruz,CA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,-1.0
+36321076,male,18-29,republican,cruz,CA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,2,2
+29210665,male,50-64,democrat,sanders,WI,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+29210665,male,50-64,democrat,sanders,WI,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+29210665,male,50-64,democrat,sanders,WI,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,2,2
+29210665,male,50-64,democrat,sanders,WI,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,2
+29210665,male,50-64,democrat,sanders,WI,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+29210665,male,50-64,democrat,sanders,WI,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,1.0
+29210665,male,50-64,democrat,sanders,WI,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+29210665,male,50-64,democrat,sanders,WI,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+30461260,male,18-29,democrat,sanders,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+30461260,male,18-29,democrat,sanders,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+30461260,male,18-29,democrat,sanders,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+30461260,male,18-29,democrat,sanders,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,0
+30461260,male,18-29,democrat,sanders,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,0
+30461260,male,18-29,democrat,sanders,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+30461260,male,18-29,democrat,sanders,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,-1,0.0
+30461260,male,18-29,democrat,sanders,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,1
+14237967,female,30-49,independent_other,clinton,GA,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,0,-1
+14237967,female,30-49,independent_other,clinton,GA,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,-1
+14237967,female,30-49,independent_other,clinton,GA,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+14237967,female,30-49,independent_other,clinton,GA,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+14237967,female,30-49,independent_other,clinton,GA,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,0
+14237967,female,30-49,independent_other,clinton,GA,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,-1.0
+14237967,female,30-49,independent_other,clinton,GA,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,0.0
+14237967,female,30-49,independent_other,clinton,GA,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,-1,-1
+31329809,male,18-29,democrat,sanders,DE,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+31329809,male,18-29,democrat,sanders,DE,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,2,0
+31329809,male,18-29,democrat,sanders,DE,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+31329809,male,18-29,democrat,sanders,DE,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,0
+31329809,male,18-29,democrat,sanders,DE,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+31329809,male,18-29,democrat,sanders,DE,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,0.0
+31329809,male,18-29,democrat,sanders,DE,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,0,1.0
+31329809,male,18-29,democrat,sanders,DE,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+21160805,male,50-64,independent_other,trump,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+21160805,male,50-64,independent_other,trump,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,1
+21160805,male,50-64,independent_other,trump,FL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,0,1
+21160805,male,50-64,independent_other,trump,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+21160805,male,50-64,independent_other,trump,FL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+21160805,male,50-64,independent_other,trump,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+21160805,male,50-64,independent_other,trump,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+21160805,male,50-64,independent_other,trump,FL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+5726847,male,30-49,independent_other,clinton,AL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+5726847,male,30-49,independent_other,clinton,AL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,2,1
+5726847,male,30-49,independent_other,clinton,AL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+5726847,male,30-49,independent_other,clinton,AL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,0
+5726847,male,30-49,independent_other,clinton,AL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,0,1
+5726847,male,30-49,independent_other,clinton,AL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,0.0
+5726847,male,30-49,independent_other,clinton,AL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+5726847,male,30-49,independent_other,clinton,AL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+29521896,female,30-49,no_affiliation,trump,IL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+29521896,female,30-49,no_affiliation,trump,IL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+29521896,female,30-49,no_affiliation,trump,IL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,0,0
+29521896,female,30-49,no_affiliation,trump,IL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,0
+29521896,female,30-49,no_affiliation,trump,IL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,0
+29521896,female,30-49,no_affiliation,trump,IL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,0.0
+29521896,female,30-49,no_affiliation,trump,IL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,0.0
+29521896,female,30-49,no_affiliation,trump,IL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,0
+35408915,male,30-49,republican,cruz,IN,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+35408915,male,30-49,republican,cruz,IN,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,0
+35408915,male,30-49,republican,cruz,IN,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,-1
+35408915,male,30-49,republican,cruz,IN,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,-1,-1
+35408915,male,30-49,republican,cruz,IN,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+35408915,male,30-49,republican,cruz,IN,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,1.0
+35408915,male,30-49,republican,cruz,IN,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+35408915,male,30-49,republican,cruz,IN,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,-1,-1
+12115558,female,50-64,democrat,clinton,OH,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,1
+12115558,female,50-64,democrat,clinton,OH,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+12115558,female,50-64,democrat,clinton,OH,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+12115558,female,50-64,democrat,clinton,OH,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+12115558,female,50-64,democrat,clinton,OH,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,2
+12115558,female,50-64,democrat,clinton,OH,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-1,1.0
+12115558,female,50-64,democrat,clinton,OH,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,2.0
+12115558,female,50-64,democrat,clinton,OH,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,1
+3682947,female,50-64,republican,cruz,FL,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,-1,0
+3682947,female,50-64,republican,cruz,FL,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,1
+3682947,female,50-64,republican,cruz,FL,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-2,-1
+3682947,female,50-64,republican,cruz,FL,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+3682947,female,50-64,republican,cruz,FL,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,0
+3682947,female,50-64,republican,cruz,FL,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-1,0.0
+3682947,female,50-64,republican,cruz,FL,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,1.0
+3682947,female,50-64,republican,cruz,FL,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+36257704,female,18-29,republican,trump,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+36257704,female,18-29,republican,trump,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,-1,0
+36257704,female,18-29,republican,trump,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,-1,-1
+36257704,female,18-29,republican,trump,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,0,1
+36257704,female,18-29,republican,trump,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,1,1
+36257704,female,18-29,republican,trump,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,1,0.0
+36257704,female,18-29,republican,trump,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,0.0
+36257704,female,18-29,republican,trump,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,0
+36267874,male,18-29,democrat,clinton,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,-1,0
+36267874,male,18-29,democrat,clinton,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,1,1
+36267874,male,18-29,democrat,clinton,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,0
+36267874,male,18-29,democrat,clinton,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,1,1
+36267874,male,18-29,democrat,clinton,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-2,0
+36267874,male,18-29,democrat,clinton,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,-1,0.0
+36267874,male,18-29,democrat,clinton,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,0.0
+36267874,male,18-29,democrat,clinton,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,0,1
+36287173,male,18-29,independent_other,trump,NY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,nooooone,cruz,11.8,1,1,0
+36287173,male,18-29,independent_other,trump,NY,"Sanders tours Roosevelt site, says Bation can learn from FDR",nooooone,sanders,14.1,1,0,0
+36287173,male,18-29,independent_other,trump,NY,The Latest: Sanders says Trump campaign based on division,nooooone,sanders,8,0,1,1
+36287173,male,18-29,independent_other,trump,NY,The Latest: Clinton Vows ‘top-to-bottom review’ of Gov’t,nooooone,clinton,7.5,0,-1,0
+36287173,male,18-29,independent_other,trump,NY,Trump not backing down from Fox debate boycott,nooooone,trump,11.7,1,-1,-1
+36287173,male,18-29,independent_other,trump,NY,The Latest: Bible prominent in Final Cruz Pitches to Voters,nooooone,cruz,7.9,0,0,nan
+36287173,male,18-29,independent_other,trump,NY,FACT CHECK: Audio refutes Trump's claim on China tariff,nooooone,trump,5.8,0,1,nan
+36287173,male,18-29,independent_other,trump,NY,"Clinton Allies Forming Group to Protect, Register Voters",nooooone,clinton,14.2,1,1,0
 21678835,male,30-49,no_affiliation,sanders,KY,Cruz Looks to Shore Up Support Among Iowa Evangelicals,the Associated Press,cruz,11.8,1,0,0
 21678835,male,30-49,no_affiliation,sanders,KY,"Sanders tours Roosevelt site, says Bation can learn from FDR",the Associated Press,sanders,14.1,1,1,1
 21678835,male,30-49,no_affiliation,sanders,KY,The Latest: Sanders says Trump campaign based on division,the Associated Press,sanders,8,0,1,1

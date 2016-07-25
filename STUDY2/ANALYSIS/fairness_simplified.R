@@ -1,7 +1,9 @@
 library(lme4)
 library(lmerTest)
-library(xtable)
-lmm.data <- read.table('../DATA/all_results/flattened_no_title.csv', header=TRUE, sep = ",", quote = "'")
+library(glmnet)
+
+# Following Cleo's lead, simplifying model to search for effects.
+lmm.data <- read.table('../DATA/all_results/flattened_coded.csv', header=TRUE, sep = ",", quote = "'")
 nrow(lmm.data)
 head(lmm.data)
 # remove NaN for some reason the python code breaks the CSV
@@ -10,7 +12,7 @@ nrow(lmm.data)
 # SHOULD BE 1278!!
 
 lmm.data$is_complex = factor(lmm.data$is_complex, labels=c('Low','High'))
-lmm.data$source <- factor(lmm.data$source, labels=c('CNN','Fox','None','AP')) 
+lmm.data$source <- factor(lmm.data$source, labels=c('CNN','Fox','none','AP')) 
 lmm.data$gender <- factor(lmm.data$gender)
 lmm.data$party <- factor(lmm.data$party)
 lmm.data$voting_for <- factor(lmm.data$voting_for)
@@ -26,19 +28,19 @@ candid.party = (lmm.data$candidate=="cruz") | (lmm.data$candidate=="trump")
 lmm.data = cbind(lmm.data, candid.party)
 lmm.data$candid.party <- factor(lmm.data$candid.party, labels=c('democrat','republican')) 
 
-# First: source, party of candidate, complexity
-f1 <- aov(fair ~  is_complex * source* candid.party + Error(worker_id/(is_complex*candid.party)), data=lmm.data)
-summary(f1)
-stargazer(f1)
+###### Models that don't take into account reader features ################
+# First: source, party of candidate, complexity (no party of reader)
+f1 <- lmer(fair ~ is_complex * source * candid.party + (1|worker_id), lmm.data) 
+summary(f1) # sourceAP:candid.partyrepublican *, source Fox .
 
-z1 <- lmer(fair ~ source * candid.party + is_complex + (1|worker_id), lmm.data) # removes three way interaction
-summary(z1)
-#anova(l1, z1)
-#p are not significantly diff
+f2 <- lmer(fair ~ source * candid.party + is_complex + (1|worker_id), lmm.data) # removes three way interaction
+summary(f2) # sourceFox *, sourceAP:candid.partyrepublican .
+anova(f1, f2) # don't reject null hypothesis. models similiar. p are not significantly diff
 
-f3 <- lmer(fair~source * candid.party + (1|worker_id), lmm.data)
-# because complexity has no effect on response
-anova(z1, f3) # 0.5206
+f3 <- lmer(fair ~ source * candid.party + (1|worker_id), lmm.data) # because complexity has no effect on response
+summary(f3) # again sourceFox * and sourceAP:candid.partyrepublican .
+anova(f2, f3) # 0.5206 no reject H_0
+
 
 
 
