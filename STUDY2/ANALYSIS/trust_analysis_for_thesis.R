@@ -3,6 +3,8 @@ library(lmerTest)
 library(stargazer)
 library(xtable)
 library(texreg)
+library(lme4)
+library(lmerTest)
 
 library(MASS)
 library(AER)
@@ -32,6 +34,9 @@ model.lm.reading_level <- lm(trust ~ reading_level, data)
 summary(model.lm.reading_level)
 stargazer(model.lm.reading_level)
 
+### Let's look for some interactions #######
+model.lmer <- lmer(trust ~  reading_level * candid.party * source + (1 | worker_id), data=data)
+summary(model.lmer)
 
 ### Media Brand Effects ###
 model.lm.source <- lm(trust ~ source, data)
@@ -61,11 +66,13 @@ nrow(partisans)
 
 partisans$trust = as.numeric((partisans$trust))
 partisans$match = factor(partisans$match, labels = c('Neutral', 'Disagree', 'Agree')) 
+partisans$is_complex = factor(partisans$is_complex, labels=c('Low','High'))
 
 model.lm.match <- lm(trust ~ match, data=partisans)
 summary(model.lm.match)
 
 stargazer(model.lm.match)
 
-part
+## Interactions for the hell of it ###
+model.lm.interact <- lmer(trust ~  is_complex * match + (1 | worker_id), data = partisans)
 
